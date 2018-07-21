@@ -1,0 +1,109 @@
+body {
+  background: #ffbfb;
+}
+.masthead {
+  background: white;
+  padding-top: 0px;
+  border-bottom: none;
+}
+
+.sidebar-toggle {
+  z-index: 800;
+}
+
+#main {
+
+}
+.content {
+    opacity: 0;
+    transition: opacity 1.2s;
+    padding-top: 12vh;
+}
+
+.visible {
+  opacity: 1;
+}
+.logomark { 
+  font-size:3rem; 
+  position:relative; 
+  font-family: 'Nanum Myeongjo', serif;
+  transition: opacity .2s;
+  padding-top: 8vh;
+  @media (max-width: 48em) {
+    font-size: 1.5em;
+    padding-top:25px;
+    line-height: 3em;
+    }
+  }
+
+.fixedlogo {
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    width: 100%;
+    transition: margin-top .4s;
+    background: white;
+    height:15vh;
+    z-index: 500;
+    &.abs{
+      margin-top: -50px;
+      border-bottom:1px solid #eee;
+      .logomark{
+        font-size:2rem;
+        line-height:1.5rem;
+        padding-top: 5vh;
+      }
+    }
+
+    .logomark {
+      position: absolute;
+      width: 100%;
+      display: none;
+
+    }
+    .ytext{
+      top: 3px;
+      left: -1px;
+    }
+    .mtext{
+      top:1px;
+    }
+    .ctext{
+      top:-1px;
+      left:1px;
+    }
+
+
+}
+.mtext {
+  color: magenta;
+  &.fix {
+  top: -1px;
+  left: 1px;
+}
+}
+.ctext {
+  color: cyan;
+  &.fix {
+  top: 1px;
+}
+}
+.ytext {
+  color: yellow;
+  &.fix{
+      top: 2px;
+      left: 1px;
+  }
+}
+.ktext {
+  color: black;
+  z-index: 1000;
+}
+
+
+
+#parallax-title {
+  padding-top: 200px;
+  padding-bottom: 400px;
+}
