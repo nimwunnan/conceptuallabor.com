@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Introduction to the Theory of Conceptual Labor
+title: Introduction
 author: Ním Wunnan
+order: 1
 ---
 
-## Contents
-{:.no_toc}
-
-* ToC
-{:toc}
-
----
 
 ## How We Talk About Work Is How We Work 
 
@@ -20,9 +14,12 @@ Most narratives focus on the first type, work which applies directly to a proble
 
 Nobel physicist Richard Feynman was fond of telling a story from his youth in which a third, important type of work emerges from the whole process of picturing, doing, and understanding work. We will call this kind of work *conceptual labor*.
 
+
 As an inquisitive child in the Great Depression, Feynman turned his early fascination with electronics into a side-hustle fixing radios. One day he was confronted with a radio that made a terrible noise he hadn’t heard before. He had to really think about what could be wrong, pacing back and forth while modeling the radio. Suddenly the owner of the radio shouted at him, complaining that he was just walking around, doing nothing. Young Feynman shot back “I’m thinking!” Once Feynman fixed the radio, the previously impatient owner became his biggest fan. He found Feynman many more jobs while bragging up his ability --- “He fixes radios by thinking!”
 
-## Looking at the Whole Problem
+---
+
+## Looking at the Whole Problem is a Different Type of Work
 
 Feynman told this story not to talk about radios, but to talk about a way of working and thinking. The first section of his memoir, *Surely You’re Joking Mr. Feynman,* opens with the radio story and flows into examples of how the same kind of work applies to social situations, public education, and math, at one point connecting the FORTRAN language to how he repaired mechanical typewriters. In each case, Feynman’s infectious, joyful curiosity was sparked by “the whole problem of discovering what was the matter, and figuring out what you have to do to fix it.” He even invented his own system of mathematical notation because the conventional terms and symbols didn’t satisfy his needs. And why shouldn’t he? If doing math was a way for Feynman to engage the *whole problem* in front of him, the properties of math itself are fair game.
 
@@ -49,7 +46,7 @@ Everyone is an expert in something, even if it is only where to find things in t
 
 We cannot understand expertise or innovation without conceptual labor. Painter James McNeil Whistler was enormously influential on the development of modern painting, but his work was once ridiculed for its simplicity by critics who preferred classical technique. One such review led to a libel trial, where he famously defied the idea that the value of a painting was tied to the time spent painting it. When pressed if he asked market prices for “the labour of two days”, he responded: "No, I ask it for the knowledge I have gained in the work of a lifetime."
 
-A much more recent anecdote from economist Dan Ariley about a locksmith who lost wages as he gained mastery shows that the difficulty of putting a price on wisdom isn’t just a problem for professional artists. When the locksmith was still a novice, he would struggle with locks for hours at a time, sometimes breaking them. His customers waited and watched the whole process, and tipped him well for all of his hard work, even if they had to replace their lock. Once he became an expert, however, he could open locks in a fraction of the time, with apparent ease and without damaging them. Not only did this cause his customers to tip him less, but they started complaining about his base fee, even though they were getting a more valuable service. This locksmith had encountered his profession’s version of a refrain that painters have been hearing since at least Whistler’s time: “Well *I* could do *that.*” 
+A much more recent [anecdote from economist Dan Ariley](https://www.youtube.com/watch?v=x8baBvOk0ng){:target="blank"} about a locksmith who lost wages as he gained mastery shows that the difficulty of putting a price on wisdom isn’t just a problem for professional artists. When the locksmith was still a novice, he would struggle with locks for hours at a time, sometimes breaking them. His customers waited and watched the whole process, and tipped him well for all of his hard work, even if they had to replace their lock. Once he became an expert, however, he could open locks in a fraction of the time, with apparent ease and without damaging them. Not only did this cause his customers to tip him less, but they started complaining about his base fee, even though they were getting a more valuable service. This locksmith had encountered his profession’s version of a refrain that painters have been hearing since at least Whistler’s time: “Well *I* could do *that.*” 
 
 ## Conceiving of Work Is Work
 
@@ -73,4 +70,4 @@ We will never fully appreciate the work we are trying to invent before we have i
 
 Conventional narratives of work and the strategies that go with them assume that this will be an argument, and emphasize determination, persistence, and knowledge. These are fine qualities in the abstract, but also how you break a lock. A general theory of conceptual labor should provide rules of order to this argument so that it can become a lively conversation, full of productive debate and surprises.
 
-
+## [> The Theory](/texts/The%20Theory%20of%20Conceptual%20Labor/)

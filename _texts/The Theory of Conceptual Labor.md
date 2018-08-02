@@ -1,21 +1,13 @@
 ---
-layout: page
+layout: theory
 title: The Theory of Conceptual Labor
 author: Ním Wunnan
-toc:
-- Work can be modeled with fundamental components 
-- Tenet 2
+order: 2
 ---
-* ToC
-{:toc}
-
----
-<br>
-<br>
-<br>
 
 ## Tenet 1
-## Work can be modeled with fundamental components
+{:.no_toc}
+### Work can be modeled with fundamental components
 
 ---
 
@@ -55,6 +47,7 @@ In this theory, then, *work* is when an *actor* *labors* within a *context to* c
 
 
 ## Tenet 2
+{:.no_toc}
 ### Individuals experience work through a unique mental model
 
 ---
@@ -64,6 +57,7 @@ Given any description of a job, we cannot assume that everyone who does the work
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
 ## Tenet 3
+{:.no_toc}
 ### Conceptual labor is required when all components of a model are dynamic
 
 ---
@@ -78,6 +72,7 @@ Any non-plumber who has fixed a discrete problem in their bathroom has an intuit
 
 
 ## Tenet 4
+{:.no_toc}
 ### We tend towards models with static and well-defined components
 
 ---
@@ -87,6 +82,7 @@ When our understanding of a mental model changes significantly, we have to engag
 [^fn4]: Dual Process Summary [From Wikipedia](http://https://en.wikipedia.org/wiki/Dual\_process\_theory#History): “The dual-process accounts of reasoning posits that there are two systems or minds in one brain. The theory of two distinct kinds of reasoning has been around for as long as documentations about theories of reasoning go. The current theory is that there are two distinctively separate cognitive systems underlying thinking and reasoning and that these different systems were developed through evolution....These systems are often referred to as "implicit" and "explicit" or by the more neutral "System 1" and "System 2," as coined by Stanovich and West” Kahneman states in TODO: * System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control. * System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration. 
 
 ## Tenet 5 
+{:.no_toc}
 ### Conceptual labor requires actors to continuously update their models
 
 ---
@@ -94,6 +90,7 @@ When our understanding of a mental model changes significantly, we have to engag
 Conceptual labor is more than simply moving back and forth between the two poles of understood work (Type 1) and the analysis of work (Type 2). Dual-process theory is useful again here if we allow a rough equivalence between Type 1 work and System 1 thinking, and likewise with Type 2 and System 2. Conceptual labor is a dynamic pattern of thinking and behavior that integrates the automatic processes of System 1 thinking with the self-monitoring work of System 2, while *also* performing the meta-work required to switch between systems and update the assumptions that System 1 brings to the context. Even in disciplines that are highly attuned to the demands they make on System 2 thinking, crucial forms of meta-work such as judgement and time-management are often considered to be as separate from the “real work” as confusion is considered to be separate from Type 1 work. One could make a case for using “System 3” as shorthand for conceptual labor.
 
 ## Tenet 6
+{:.no_toc}
 ### Part of conceptual labor is understanding and explaining why it is necessary
 
 ---
@@ -105,6 +102,7 @@ There is work involved in understanding why conventional labor won’t work or w
 [The radio owner’s change of opinion about young Feynman](linktofeynman) illustrates the crucial role of this skill --- he interrupted a necessary part of the process because it didn’t match his unexamined model of “fixing a radio,” and only updated his model after he saw proof that it was incomplete.
 
 ## Tenet 7 
+{:.no_toc}
 ### Conceptual labor tends towards abstraction but is rooted in specifics
 
 ---
@@ -116,6 +114,7 @@ When confronted with the shifting circumstances described by Tenet 4, an importa
 
 The infamous quip that “Writing about music is like dancing about architecture” paints a vivid picture to suggest that this is not true. The vivacity of dancers doing their work seems to underscore the futility of communicating between disciplines which have their own vocabulary. But it only works if we believe that dance has *nothing* to say outside of the world of dance. Otherwise, we have to accept the unlikely circumstance that architecture, specifically and wholly, is a topic dance may not speak about. A much more interesting and useful reading spurs one to imagine all the new things that could be said about music or architecture using different modes of knowing and communicating, dance included. Architects, dancers, writers, and musicians all absorb things from the outside world and attempt to encode them in their work. This tenet simply declares that decoding is possible and necessary.
 
+[> Summary](/texts/summary)
 
 ---
 

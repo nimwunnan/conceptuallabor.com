@@ -3,7 +3,7 @@
 
   <head>
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="/about/"/>
+  <link rel="canonical" href="http://localhost:4000/about/"/>
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -41,15 +41,15 @@
   </title>
 
   <!-- CSS link -->
-  <link rel="stylesheet" href="/assets/css/style.css"/>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/style.css"/>
   <link href="https://fonts.googleapis.com/css?family=Nanum+Myeongjo:400,700,800|Work+Sans:400,500,700,900|Montserrat:400,500,600,800,900" rel="stylesheet"> 
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png"/>
-  <link rel="shortcut icon" href="/assets/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/apple-touch-icon-precomposed.png"/>
+  <link rel="shortcut icon" href="http://localhost:4000/assets/favicon.ico"/>
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"/>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:4000/atom.xml"/>
 </head>
 
 
@@ -63,12 +63,27 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.</p>
-  </div>
-
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
+    
+<!-- cl -->
+    <h3 class="sidebar-nav-item">The Theory</h3>
+    
+    
+      
+          <a class="sidebar-nav-item" href="http://localhost:4000/texts/Introduction/">Introduction</a>
+      
+    
+      
+          <a class="sidebar-nav-item" href="http://localhost:4000/texts/The%20Theory%20of%20Conceptual%20Labor/">The Theory of Conceptual Labor</a>
+      
+    
+      
+          <a class="sidebar-nav-item" href="http://localhost:4000/texts/Summary/">Summary</a>
+      
+    
+
+    <h3 class="sidebar-nav-item">Site</h3>    
+    <a class="sidebar-nav-item" href="http://localhost:4000">Home</a>
 
     
 
@@ -84,7 +99,7 @@
     
       
         
-          <a class="sidebar-nav-item active" href="/about/">About</a>
+          <a class="sidebar-nav-item active" href="http://localhost:4000/about/">About</a>
         
       
     
@@ -96,38 +111,48 @@
     
       
         
-          <a class="sidebar-nav-item" href="/credits/">Credits</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/documentation/">Documentation</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/documentation/">Documentation</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/license-guidelines/">Licensing Guidelines</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/search/">Search</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/search/">Search</a>
         
       
     
+      
+        
+          <a class="sidebar-nav-item" href="http://localhost:4000/webring/">Conceptual Labor Webring</a>
+        
+      
+    
+
+
 
     <!-- The code below is used for manually entered links  -->
 
     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item ctext">Annotate using hypothes.is</a></span>
 
 <!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/about//" data-proofer-ignore>Annotate me</a> -->
 <!--  -->
     <!-- <script src="https://hypothes.is/embed.js" async></script> -->
 
-    <a class="sidebar-nav-item" href="https://github.com/elotroalex/ed" target="_blank">GitHub project</a>
   </nav>
 
   <div class="sidebar-item">
-    <p>Currently v0.1.1. Distributed with an MIT license.</p>
+    <p>Conceptual Labor is a theory of ways that one must work when the job one is doing cannot be easily explained or understood. This website contains the full text of the Theory, a bibliography, and a blog.</p>
+    <p><strong>Draft: 1</strong></p>
+    <p>Distributed under the creative commons licenses <a href="http://localhost:4000license-guidelines" style="color:cyan;">BY-NC-ND and BY-NC-SA</a></p>
+
   </div>
 </div>
 
@@ -139,55 +164,65 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <div class="fixedlogo">
+          <div class="fixedlogo abs">
             <h1 class="logomark ktext" style="display:block;">Conceptual Labor</h1>
-            <h1 class="logomark ytext">Conceptual Labor</h1>
-            <h1 class="logomark ctext">Conceptual Labor</h1>
-            <h1 class="logomark mtext">Conceptual Labor</h1>  
+            <h1 class="logomark ytext" style="display:block;">Conceptual Labor</h1>
+            <h1 class="logomark ctext" style="display:block;">Conceptual Labor</h1>
+            <h1 class="logomark mtext" style="display:block;">Conceptual Labor</h1>  
           </div>
-          <h1 class="logomark logoscroll"><br></h1>
-          <h1 class="logomark logoscroll ytext">Conceptual Labor</h1>
-          <h1 class="logomark logoscroll ctext">Conceptual Labor</h1>
-          <h1 class="logomark logoscroll mtext">Conceptual Labor</h1>  
         </div>
       </div>
 
-      <div class="container content" id="main">
+      <div class="container content" id="main" style="opacity: 100;">
+        <hr>
+        <h1>About</h1>
         <div class="page">
-  <h1 class="page-title">About</h1>
-  <p>One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and “e-publications” appear on the online scene yearly, very few manifest a textual scholar’s disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.</p>
+  <h2 class="no_toc" id="skip-to-section">Skip to Section</h2>
 
-<p>As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a ‘full stack’ in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the <a href="http://jonreeve.com/2015/09/introducing-git-lit/">git-lit</a> model by Jonathan Reeve. We’re coming for you, Kindle!</p>
-
-<h2 id="sample-ed-editions">Sample Ed editions.</h2>
-
-<ul>
-  <li><a href="http://elotroalex.github.io/ed/">Our sample site</a> is the first edition built with Ed.</li>
-  <li><a href="http://fugitiverses.viraltexts.org/">Fugitive Verses</a>: Popular Reprinted Poetry from Nineteenth Century Newspapers</li>
-  <li><a href="http://minilazarillo.github.io/">mini lazarillo</a>: A minimal edition of the <em>Lazarillo de Tormes</em></li>
-  <li><a href="https://cu-mkp.github.io/GR8975-edition/">Making and Knowing</a>: The BnF Ms Fr 640 in Translation</li>
-  <li><a href="https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/">Daisy Miller: A Comedy in Three Acts</a></li>
+<ul id="markdown-toc">
+  <li><a href="#the-project" id="markdown-toc-the-project">The Project</a></li>
+  <li><a href="#where-conceptual-labor-comes-from" id="markdown-toc-where-conceptual-labor-comes-from">Where Conceptual Labor Comes from</a></li>
+  <li><a href="#acknowledgements" id="markdown-toc-acknowledgements">Acknowledgements</a></li>
+  <li><a href="#contributions-use-and-sharing" id="markdown-toc-contributions-use-and-sharing">Contributions, Use, and Sharing</a></li>
+  <li><a href="#colophon" id="markdown-toc-colophon">Colophon</a></li>
+  <li><a href="#the-author" id="markdown-toc-the-author">The Author</a></li>
 </ul>
 
-<h2 id="current-features">Current Features</h2>
-<ul>
-  <li>Templates for narrative, drama and poetry</li>
-  <li>Responsive design for mobile phones, tablets and PCs.</li>
-  <li>Relatively easy to learn and teach</li>
-  <li>Works well in high- or low- bandwitdh scenarios</li>
-  <li>Easier for digital archives and libraries to preserve</li>
-  <li>Open source, open access</li>
-  <li>Unobtrusive footnotes</li>
-  <li>Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.</li>
-  <li>Automatic table of content generation</li>
-  <li>Simple search functionality</li>
-  <li>Annotations via <a href="https://hypothes.is/">hypothes.is</a></li>
-  <li>Optional: Ability to generate well-formatted bibliographies and linked citations</li>
-</ul>
+<h2 id="the-project">The Project</h2>
+<hr />
+<p>Often, when people attempt to describe the most difficult work they do, they will say that there’s “an art” to it. In many ways, this theory is a way of answering the questions of <em>what do people mean whey they say that, what are the common qualities of the work they’re talking about,</em> and <em>how do they fit together?</em></p>
 
-<h2 id="installing-and-using-ed">Installing and using Ed</h2>
+<p>This site is meant to be the first step of publication of a theory of work that is hoped to be useful to anyone who does this kind of difficult work, whether it is with their brain, their body, or with the wills of other people. It is meant to serve as a central reference point of discussions surrounding Conceptual Labor and provide public access to the main theory. Future relevant resources and projects will be announced or archived here.</p>
 
-<p>To learn how to install and begin using Ed, please visit our <a href="http://elotroalex.github.io/ed/documentation/">documentation page</a>.</p>
+<p>You can follow <a href="https://twitter.com/conceptuallabor">@conceptuallabor</a> on twitter or the RSS feed here and check out the <a href="http://localhost:4000/webring">Conceptual Labor Webring</a> for related projects.</p>
+
+<h2 id="where-conceptual-labor-comes-from">Where Conceptual Labor Comes from</h2>
+
+<hr />
+
+<p>This project began a decade ago by noticing patterns in the way that different disciplines talk about how to do the hardest work they require. The fields I was most closely studying were contemporary painting, internal martial arts, and writing. Much of the advice I got from experts in each field sounded strangely similar. They emphasized that the work could not be directly explained, instead it had to be cultivated and chased down, which required its own special kind of work and learning. This led me to write my dissertation on the language used by schools that try to guarantee that they can teach this kind of work. It seemed that the point of these disciplines wasn’t completely explicable, and hid behind the parts that were easiest to teach and describe. I thought this was a special condition of the arts until I graduated and began work as a web developer. While learning even the basics of programming, I recognized patterns of working, learning, and talking that I thought belonged in “the arts.” I founded an organization dedicated to talking about work and ideas across disciplines, and listened to how people described how they did what they did for five years. The only special claim art had was that when, for lack of a better term, someone said there was “an art” to what they did, they began to talk about the patterns I was looking for.</p>
+
+<p>I wrote a precursor to this theory that focused on its place in fields that were described as arts which can be found on its own site, painting.school. During that time I taught two classes at a local code school that incorporated part of my theory. Finishing that essay and seeing my students successfully apply the ideas to their jobs and careers spurred me to develop a general theory, which is presented here.</p>
+
+<p>– <a href="http://wunnan.com" target="_blank">Ním Wunnan</a></p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<hr />
+
+<p>I am absurdly fortunate to have as many talented, insightful, patient, and whip-smart friends in my life as I do, and I owe each of them some degree of thanks. However, I could not have written this without the ongoing, meticulous and critical attention that <a href="http://caseorganic.com/">Amber Case</a> and <a href="http://quotidianpress.com/">Delphine Bedient</a> have paid to my ideas and my writing, for which I am more grateful than I can say. <a href="http://vivianhua.com/">Vivian Hua</a> and <a href="https://www.dustinzemel.com/">Dustin Zemel</a> also provided incisive and thoughtful feedback on early drafts. The regular quorums I have enjoyed with <a href="http://funwithjohnjames.com/">John James Dudek</a>, <a href="http://www.eedumas.com/">Evan Dumas</a>, and <a href="http://nikolas.ws/">Nik Wise</a> provided consistent space for these ideas to breathe, which is just as vital but more easily overlooked than direct editing. I must also single out my patient, early readers including <a href="http://dhalab.org/alexdm/">Alex Dolan-Mescal</a>, Claire Heacox, Alex Black, <a href="http://www.gabrielshalom.com/">Gabriel Shalom</a>, Van Pham, <a href="https://ahhrrr.com/">Ezra Spier</a> and my family. <a href="https://robbykraft.com/">Robby Kraft</a> and Vernon Wauklyn each issued me challenges in unexpected places that led to large amounts of research and writing, and Mathew Lippincott has a talent for discussing the practical application of abstract ideas while in motion, usually on bicycles. My instructor, Jaime Tan, has been a guide and inspiration in his generosity, patience, humor, raw skill, and integrity as a teacher and martial artist.</p>
+
+<h2 id="contributions-use-and-sharing">Contributions, Use, and Sharing</h2>
+
+<p>The text of the Theory is available publically on TODO Github. Interested readers are encouraged to open issues or pull requests with revisions or comments. You can also annotate this site with <a href="https://hypothes.is/" target="_blank">hypothes.is</a> using this <span style="cursor:pointer;" onclick="javascript:var hypothesis = document.createElement('script'); hypothesis.setAttribute('src','https://hypothes.is/embed.js'); document.head.appendChild(hypothesis);"><a>Annotate me</a></span> link or the one found in the sidebar. Updates to the text will be made through numbered Drafts, with all previous Drafts preserved in the repository. The current draft is <strong>1</strong> You are welcome to download and share but not modify this material in accordance with our Creative Commons <a href="http://localhost:4000/license-guidelines">licensing guidelines.</a></p>
+
+<h2 id="colophon">Colophon</h2>
+
+<p>This site is built using the <a href="https://elotroalex.github.io/ed/" target="_blank">Ed.</a> theme for <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</p>
+
+<h2 id="the-author">The Author</h2>
+
+<p><a href="http://wunnan.com" target="_blank">Ním Wunnan</a></p>
 
 </div>
 
@@ -247,53 +282,6 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-<script src="/assets/js/jquery-3.3.1.min.js"></script>
- <script type="text/JavaScript">
 
-   $(document).ready(function(){
-    $(".masthead").height();
-    var vh = $(".masthead").height();
-    var vhchunk = .18*vh;
-    var wrap = $("#parallax-title");
-    $(window).on('scroll', function() {
-      var wintall =  $(this).scrollTop();
-      $(".logoscroll").each(function(index, value){
-        var tall = $(this).height(); 
-         var posish = $(this).offset();
-         var diff = posish.top - $(window).scrollTop();
-         if (diff <= tall ){ $(this).css("opacity", 0);
-          $(".fixedlogo .logomark").eq (index).show();
-          }
-         // console.log($(this).attr('class')+": "+diff);
-      });
-      // console.log("window: "+wintall);
-
-      if (vh - wintall <= vhchunk){
-        $(".masthead").height(vhchunk);
-        $(window).scrollTop(0);
-        $("div.content").addClass("visible");
-      }
-        console.log($("div.content").position().top+" window: "+wintall);
-
-      if (wintall < 500 && ($("div.content").position().top-70) <= wintall){
-        $(".fixedlogo").addClass("abs");
-        // TODO: see if you can shift to absolute positioning at some point
-        // TODO: adjust type values for mobile
-        // TODO: fix interaction with drawer
-        // TODO: make standard, non-transforming abs positioned header
-      }
-      if (wintall < 500 && ($("div.content").position().top+30) <= wintall){
-              $(".fixedlogo").css("margin-top", "-200px");
-      }
-      if ( $(".fixedlogo").css("margin-top") == "-200px"){
-      // if (wintall < 500 && ($("div.content").position().top+80) <= wintall){
-              $(".fixedlogo").css("margin-top", "-50px");
-              $(".fixedlogo").css("position", "absolute");
-              console.log('yup');
-              $(window).off("scroll");
-      }
-    });
-    });
- </script> 
   </body>
 </html>

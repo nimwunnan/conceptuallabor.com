@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               The Theory of Conceptual Labor
+title:               "The Theory of Conceptual Labor"
 tagline:             'I GUESS I NEED A TAGLINE'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://conceptuallabor.com'
+description:         'Conceptual Labor is a theory of ways that one must work when the job one is doing cannot be easily explained or understood. This website contains the full text of the Theory, a bibliography, and a blog.'
+url:                 'http://127.0.0.1:4000/'
 baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              'Ním Wunnan'
+  url:               'https://wunnan.com'
+  email:             'nim@wunnan.com'
 
 # Permalinks
 
@@ -48,5 +48,8 @@ exclude:
 
 # Theme
 theme: "ed."
+
+#Custom
+draft: 1
 
 

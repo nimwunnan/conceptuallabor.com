@@ -1,28 +1,35 @@
 ---
-layout: default
-title: "Ed."
+layout: home
+title: "The Theory of Conceptual Labor"
 ---
 <div class="introduction">
-  <h1>hi.</h1>
+  <p><strong>The Theory of Conceptual Labor describes the ways that one must work when the job one is doing cannot be easily explained or understood. </strong></p>
+<hr>
+  <p>This website contains the full text of the Theory, a bibliography of cited sources and further reading, and a blog where supplemental essays, links, and events will be posted infrequenly but regularly.</p>
 
-<p>Ed is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme designed for textual editors based on <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and focused on legibility, durability, ease and flexibility. Our underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last. To start using Ed, please see <a href="{{ site.baseurl }}/documentation/">our documentation</a> for installation instructions and more. To learn more about the ideas behind Ed and a list of current features see our <a href="{{ site.baseurl }}/about/">about</a> section. To see Ed in action, we've provided some sample minimal editions for you below.</p>
+  <h2 id="fulltext">Full Text</h2>
+
+  <p>Draft {{site.draft}} of the Theory contains</p>
+
+ <div class="toc">
+  {% assign sorted = site.texts | sort: 'order'  %}
+  {% for item in sorted %}  
+    <p class="text-title">
+      <a href="{{site.url}}{{site.baseurl}}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </p>
+  {% endfor %}
+  <p>Readers new to Conceptual Labor should begin with the introduction.</p>
+  <p><a href="/about">About this site.</a>
+</div>
+
+
 </div>
 
 <hr>
 
-<div class="toc">
-  <h2>sample texts</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
-  
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
+
 
 
 

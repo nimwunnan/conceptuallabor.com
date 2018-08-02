@@ -1,6 +1,34 @@
+$lightgrey: whitesmoke;
+$grey: grey;
+$c : cyan;
+$m: magenta;
+$y: yellow;
+$k: black;
+
+
+
 body {
   background: #ffbfb;
+  line-height: 185%;
+  &.home {
+    .content {
+    }
+  }
 }
+
+.mtext {
+  color: $m;
+}
+.ctext {
+  color: $c;
+}
+.ytext {
+  color: $y;
+}
+.ktext {
+  color: $k;
+}
+
 .masthead {
   background: white;
   padding-top: 0px;
@@ -11,15 +39,39 @@ body {
   z-index: 800;
 }
 
-#main {
+#main { 
+  ul li {
+    list-style: none;
+  }
 
-}
-.content {
-    opacity: 0;
-    transition: opacity 1.2s;
-    padding-top: 12vh;
-}
+  a {
+    text-shadow: -1px -1px 1px $y;
+    font-weight: bolder;
+  }
+  a:hover {
+    text-decoration: none;
+    color: $k;
 
+  }
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  h1, h2 {
+    font-weight: 500;
+    margin-top: 3rem;
+  }
+
+hr {
+
+  margin: 40px 0px;
+}
+}
+  .content {
+      opacity: 0;
+      transition: opacity 1.2s;
+      padding-top: 12vh;
+  }
 .visible {
   opacity: 1;
 }
@@ -46,7 +98,7 @@ body {
     background: white;
     height:15vh;
     z-index: 500;
-    &.abs{
+    &.small{
       margin-top: -50px;
       border-bottom:1px solid #eee;
       .logomark{
@@ -55,6 +107,12 @@ body {
         padding-top: 5vh;
       }
     }
+
+    &.abs{
+      position: absolute;
+      .ktext {
+      }
+      }
 
     .logomark {
       position: absolute;
@@ -76,34 +134,50 @@ body {
 
 
 }
-.mtext {
-  color: magenta;
-  &.fix {
+.mtext.fix {
   top: -1px;
   left: 1px;
 }
-}
-.ctext {
-  color: cyan;
-  &.fix {
+.ctext.fix {
   top: 1px;
 }
-}
-.ytext {
-  color: yellow;
-  &.fix{
+.ytext.fix{
       top: 2px;
       left: 1px;
-  }
 }
 .ktext {
-  color: black;
   z-index: 1000;
 }
 
+.sidebar{
+  background: $grey;
+  border-right: 1px solid $c;
+  color: $k;
+  a {
+    color: $k;
+  &.sidebar-nav-item:hover{
+    color: $c;
+    // border-top: 1px solid $c;
+  }
+  }
+  h3.sidebar-nav-item, .ctext, .active {
+    color: $c;
+    font-weight: 500;
+    padding-left: 1rem;
+  }
 
+}
 
 #parallax-title {
   padding-top: 200px;
   padding-bottom: 400px;
+}
+
+.footnotes {
+  border-top: 1px solid cyan;
+    margin-top: 10vh;
+    padding: 10vh 20px 70vh;
+  li {
+    padding-top:20px;
+  }
 }

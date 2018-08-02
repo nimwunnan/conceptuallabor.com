@@ -3,7 +3,7 @@
 
   <head>
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="/texts/Introduction/"/>
+  <link rel="canonical" href="http://localhost:4000/texts/Introduction/"/>
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
 
   <!--   Dublin Core metadata for Zotero -->  
-  <meta name="DC.title" content="Introduction to the Theory of Conceptual Labor" />
+  <meta name="DC.title" content="Introduction" />
   <meta name="DC.creator" content="Ním Wunnan" />
   <meta name="DC.contributor" content="" />
   <meta name="DC.date" content="" />
@@ -23,7 +23,7 @@
     <!-- Open Graph metadata -->
 
     
-    <meta property="og:title" content="Introduction to the Theory of Conceptual Labor"/>
+    <meta property="og:title" content="Introduction"/>
     <meta property="og:description" content="An Ed edition">
     <meta property="fb:admins" content="elotroalex"/>
     <meta property="og:type" content="article" />
@@ -36,20 +36,20 @@
    
   <title>
     
-      Introduction to the Theory of Conceptual Labor
+      Introduction
     
   </title>
 
   <!-- CSS link -->
-  <link rel="stylesheet" href="/assets/css/style.css"/>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/style.css"/>
   <link href="https://fonts.googleapis.com/css?family=Nanum+Myeongjo:400,700,800|Work+Sans:400,500,700,900|Montserrat:400,500,600,800,900" rel="stylesheet"> 
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png"/>
-  <link rel="shortcut icon" href="/assets/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/apple-touch-icon-precomposed.png"/>
+  <link rel="shortcut icon" href="http://localhost:4000/assets/favicon.ico"/>
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"/>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:4000/atom.xml"/>
 </head>
 
 
@@ -63,12 +63,27 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.</p>
-  </div>
-
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
+    
+<!-- cl -->
+    <h3 class="sidebar-nav-item">The Theory</h3>
+    
+    
+      
+          <a class="sidebar-nav-item active" href="http://localhost:4000/texts/Introduction/">Introduction</a>
+      
+    
+      
+          <a class="sidebar-nav-item" href="http://localhost:4000/texts/The%20Theory%20of%20Conceptual%20Labor/">The Theory of Conceptual Labor</a>
+      
+    
+      
+          <a class="sidebar-nav-item" href="http://localhost:4000/texts/Summary/">Summary</a>
+      
+    
+
+    <h3 class="sidebar-nav-item">Site</h3>    
+    <a class="sidebar-nav-item" href="http://localhost:4000">Home</a>
 
     
 
@@ -84,7 +99,7 @@
     
       
         
-          <a class="sidebar-nav-item" href="/about/">About</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/about/">About</a>
         
       
     
@@ -96,38 +111,48 @@
     
       
         
-          <a class="sidebar-nav-item" href="/credits/">Credits</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/documentation/">Documentation</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/documentation/">Documentation</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/license-guidelines/">Licensing Guidelines</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/search/">Search</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/search/">Search</a>
         
       
     
+      
+        
+          <a class="sidebar-nav-item" href="http://localhost:4000/webring/">Conceptual Labor Webring</a>
+        
+      
+    
+
+
 
     <!-- The code below is used for manually entered links  -->
 
     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item ctext">Annotate using hypothes.is</a></span>
 
 <!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/texts/Introduction//" data-proofer-ignore>Annotate me</a> -->
 <!--  -->
     <!-- <script src="https://hypothes.is/embed.js" async></script> -->
 
-    <a class="sidebar-nav-item" href="https://github.com/elotroalex/ed" target="_blank">GitHub project</a>
   </nav>
 
   <div class="sidebar-item">
-    <p>Currently v0.1.1. Distributed with an MIT license.</p>
+    <p>Conceptual Labor is a theory of ways that one must work when the job one is doing cannot be easily explained or understood. This website contains the full text of the Theory, a bibliography, and a blog.</p>
+    <p><strong>Draft: 1</strong></p>
+    <p>Distributed under the creative commons licenses <a href="http://localhost:4000license-guidelines" style="color:cyan;">BY-NC-ND and BY-NC-SA</a></p>
+
   </div>
 </div>
 
@@ -139,35 +164,20 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <div class="fixedlogo">
+          <div class="fixedlogo abs">
             <h1 class="logomark ktext" style="display:block;">Conceptual Labor</h1>
-            <h1 class="logomark ytext">Conceptual Labor</h1>
-            <h1 class="logomark ctext">Conceptual Labor</h1>
-            <h1 class="logomark mtext">Conceptual Labor</h1>  
+            <h1 class="logomark ytext" style="display:block;">Conceptual Labor</h1>
+            <h1 class="logomark ctext" style="display:block;">Conceptual Labor</h1>
+            <h1 class="logomark mtext" style="display:block;">Conceptual Labor</h1>  
           </div>
-          <h1 class="logomark logoscroll"><br></h1>
-          <h1 class="logomark logoscroll ytext">Conceptual Labor</h1>
-          <h1 class="logomark logoscroll ctext">Conceptual Labor</h1>
-          <h1 class="logomark logoscroll mtext">Conceptual Labor</h1>  
         </div>
       </div>
 
-      <div class="container content" id="main">
+      <div class="container content" id="main" style="opacity: 100;">
+        <hr>
+        <h1>Introduction</h1>
         <div class="page">
-  <h1 class="page-title">Introduction to the Theory of Conceptual Labor</h1>
-  <h2 class="no_toc" id="contents">Contents</h2>
-
-<ul id="markdown-toc">
-  <li><a href="#how-we-talk-about-work-is-how-we-work" id="markdown-toc-how-we-talk-about-work-is-how-we-work">How We Talk About Work Is How We Work</a></li>
-  <li><a href="#looking-at-the-whole-problem" id="markdown-toc-looking-at-the-whole-problem">Looking at the Whole Problem</a></li>
-  <li><a href="#expertise-requires-more-than-conventional-narratives-can-offer" id="markdown-toc-expertise-requires-more-than-conventional-narratives-can-offer">Expertise Requires More Than Conventional Narratives Can Offer</a></li>
-  <li><a href="#conceiving-of-work-is-work" id="markdown-toc-conceiving-of-work-is-work">Conceiving of Work Is Work</a></li>
-  <li><a href="#the-endless-argument" id="markdown-toc-the-endless-argument">The Endless Argument</a></li>
-</ul>
-
-<hr />
-
-<h2 id="how-we-talk-about-work-is-how-we-work">How We Talk About Work Is How We Work</h2>
+  <h2 id="how-we-talk-about-work-is-how-we-work">How We Talk About Work Is How We Work</h2>
 
 <p>All work follows a story. We work, consciously or not, according to a narrative that describes what we do, why we do it, and what it accomplishes. There are two different types of work in a basic narrative —  work that we think needs to be done, and the effort to figure out what to do.</p>
 
@@ -177,7 +187,9 @@
 
 <p>As an inquisitive child in the Great Depression, Feynman turned his early fascination with electronics into a side-hustle fixing radios. One day he was confronted with a radio that made a terrible noise he hadn’t heard before. He had to really think about what could be wrong, pacing back and forth while modeling the radio. Suddenly the owner of the radio shouted at him, complaining that he was just walking around, doing nothing. Young Feynman shot back “I’m thinking!” Once Feynman fixed the radio, the previously impatient owner became his biggest fan. He found Feynman many more jobs while bragging up his ability — “He fixes radios by thinking!”</p>
 
-<h2 id="looking-at-the-whole-problem">Looking at the Whole Problem</h2>
+<hr />
+
+<h2 id="looking-at-the-whole-problem-is-a-different-type-of-work">Looking at the Whole Problem is a Different Type of Work</h2>
 
 <p>Feynman told this story not to talk about radios, but to talk about a way of working and thinking. The first section of his memoir, <em>Surely You’re Joking Mr. Feynman,</em> opens with the radio story and flows into examples of how the same kind of work applies to social situations, public education, and math, at one point connecting the FORTRAN language to how he repaired mechanical typewriters. In each case, Feynman’s infectious, joyful curiosity was sparked by “the whole problem of discovering what was the matter, and figuring out what you have to do to fix it.” He even invented his own system of mathematical notation because the conventional terms and symbols didn’t satisfy his needs. And why shouldn’t he? If doing math was a way for Feynman to engage the <em>whole problem</em> in front of him, the properties of math itself are fair game.</p>
 
@@ -199,7 +211,7 @@
 
 <p>We cannot understand expertise or innovation without conceptual labor. Painter James McNeil Whistler was enormously influential on the development of modern painting, but his work was once ridiculed for its simplicity by critics who preferred classical technique. One such review led to a libel trial, where he famously defied the idea that the value of a painting was tied to the time spent painting it. When pressed if he asked market prices for “the labour of two days”, he responded: “No, I ask it for the knowledge I have gained in the work of a lifetime.”</p>
 
-<p>A much more recent anecdote from economist Dan Ariley about a locksmith who lost wages as he gained mastery shows that the difficulty of putting a price on wisdom isn’t just a problem for professional artists. When the locksmith was still a novice, he would struggle with locks for hours at a time, sometimes breaking them. His customers waited and watched the whole process, and tipped him well for all of his hard work, even if they had to replace their lock. Once he became an expert, however, he could open locks in a fraction of the time, with apparent ease and without damaging them. Not only did this cause his customers to tip him less, but they started complaining about his base fee, even though they were getting a more valuable service. This locksmith had encountered his profession’s version of a refrain that painters have been hearing since at least Whistler’s time: “Well <em>I</em> could do <em>that.</em>”</p>
+<p>A much more recent <a href="https://www.youtube.com/watch?v=x8baBvOk0ng" target="blank">anecdote from economist Dan Ariley</a> about a locksmith who lost wages as he gained mastery shows that the difficulty of putting a price on wisdom isn’t just a problem for professional artists. When the locksmith was still a novice, he would struggle with locks for hours at a time, sometimes breaking them. His customers waited and watched the whole process, and tipped him well for all of his hard work, even if they had to replace their lock. Once he became an expert, however, he could open locks in a fraction of the time, with apparent ease and without damaging them. Not only did this cause his customers to tip him less, but they started complaining about his base fee, even though they were getting a more valuable service. This locksmith had encountered his profession’s version of a refrain that painters have been hearing since at least Whistler’s time: “Well <em>I</em> could do <em>that.</em>”</p>
 
 <h2 id="conceiving-of-work-is-work">Conceiving of Work Is Work</h2>
 
@@ -221,6 +233,7 @@
 
 <p>Conventional narratives of work and the strategies that go with them assume that this will be an argument, and emphasize determination, persistence, and knowledge. These are fine qualities in the abstract, but also how you break a lock. A general theory of conceptual labor should provide rules of order to this argument so that it can become a lively conversation, full of productive debate and surprises.</p>
 
+<h2 id="-the-theory"><a href="/texts/The%20Theory%20of%20Conceptual%20Labor/">&gt; The Theory</a></h2>
 <div class="footnotes">
   <ol>
     <li id="fn:fn1">
@@ -290,53 +303,6 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-<script src="/assets/js/jquery-3.3.1.min.js"></script>
- <script type="text/JavaScript">
 
-   $(document).ready(function(){
-    $(".masthead").height();
-    var vh = $(".masthead").height();
-    var vhchunk = .18*vh;
-    var wrap = $("#parallax-title");
-    $(window).on('scroll', function() {
-      var wintall =  $(this).scrollTop();
-      $(".logoscroll").each(function(index, value){
-        var tall = $(this).height(); 
-         var posish = $(this).offset();
-         var diff = posish.top - $(window).scrollTop();
-         if (diff <= tall ){ $(this).css("opacity", 0);
-          $(".fixedlogo .logomark").eq (index).show();
-          }
-         // console.log($(this).attr('class')+": "+diff);
-      });
-      // console.log("window: "+wintall);
-
-      if (vh - wintall <= vhchunk){
-        $(".masthead").height(vhchunk);
-        $(window).scrollTop(0);
-        $("div.content").addClass("visible");
-      }
-        console.log($("div.content").position().top+" window: "+wintall);
-
-      if (wintall < 500 && ($("div.content").position().top-70) <= wintall){
-        $(".fixedlogo").addClass("abs");
-        // TODO: see if you can shift to absolute positioning at some point
-        // TODO: adjust type values for mobile
-        // TODO: fix interaction with drawer
-        // TODO: make standard, non-transforming abs positioned header
-      }
-      if (wintall < 500 && ($("div.content").position().top+30) <= wintall){
-              $(".fixedlogo").css("margin-top", "-200px");
-      }
-      if ( $(".fixedlogo").css("margin-top") == "-200px"){
-      // if (wintall < 500 && ($("div.content").position().top+80) <= wintall){
-              $(".fixedlogo").css("margin-top", "-50px");
-              $(".fixedlogo").css("position", "absolute");
-              console.log('yup');
-              $(window).off("scroll");
-      }
-    });
-    });
- </script> 
   </body>
 </html>

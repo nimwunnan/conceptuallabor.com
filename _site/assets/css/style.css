@@ -87,7 +87,7 @@ body {
     max-width: 38rem; } }
 /* Links */
 a, .text-title a {
-  color: indianred;
+  color: magenta;
   text-decoration: none; }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Work Sans", sans-serif;
   margin-bottom: .5rem;
   font-weight: 300;
-  color: #404040;
+  color: black;
   letter-spacing: -.025rem;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -149,7 +149,7 @@ hr {
 /* Search Highlihting */
 mark {
   color: white;
-  background-color: indianred; }
+  background-color: magenta; }
 
 /* Quotes */
 blockquote {
@@ -220,7 +220,7 @@ tbody tr:nth-child(odd) th {
   line-height: .777em; }
 
 .masthead-title a {
-  color: indianred; }
+  color: magenta; }
 
 .masthead-title small {
   font-family: "Nanum Myeongjo", "Book Antiqua", serif;
@@ -255,7 +255,7 @@ h3.masthead-title {
   margin-bottom: 4em; }
 
 .page-title {
-  color: #404040;
+  color: black;
   margin-top: 0; }
 
 /*
@@ -295,7 +295,7 @@ h3.masthead-title {
     /* 14px */ } }
 /* Sidebar content */
 .sidebar {
-  background-color: indianred; }
+  background-color: magenta; }
 
 .sidebar a {
   font-weight: normal;
@@ -999,7 +999,20 @@ pre code {
   margin-bottom: 0; }
 
 body {
-  background: #ffbfb; }
+  background: #ffbfb;
+  line-height: 185%; }
+
+.mtext {
+  color: magenta; }
+
+.ctext {
+  color: cyan; }
+
+.ytext {
+  color: yellow; }
+
+.ktext {
+  color: black; }
 
 .masthead {
   background: white;
@@ -1008,6 +1021,23 @@ body {
 
 .sidebar-toggle {
   z-index: 800; }
+
+#main ul li {
+  list-style: none; }
+#main a {
+  text-shadow: -1px -1px 1px yellow;
+  font-weight: bolder; }
+#main a:hover {
+  text-decoration: none;
+  color: black; }
+#main h1 {
+  font-size: 2rem;
+  text-align: center; }
+#main h1, #main h2 {
+  font-weight: 500;
+  margin-top: 3rem; }
+#main hr {
+  margin: 40px 0px; }
 
 .content {
   opacity: 0;
@@ -1039,13 +1069,15 @@ body {
   background: white;
   height: 15vh;
   z-index: 500; }
-  .fixedlogo.abs {
+  .fixedlogo.small {
     margin-top: -50px;
     border-bottom: 1px solid #eee; }
-    .fixedlogo.abs .logomark {
+    .fixedlogo.small .logomark {
       font-size: 2rem;
       line-height: 1.5rem;
       padding-top: 5vh; }
+  .fixedlogo.abs {
+    position: absolute; }
   .fixedlogo .logomark {
     position: absolute;
     width: 100%;
@@ -1059,27 +1091,40 @@ body {
     top: -1px;
     left: 1px; }
 
-.mtext {
-  color: magenta; }
-  .mtext.fix {
-    top: -1px;
-    left: 1px; }
+.mtext.fix {
+  top: -1px;
+  left: 1px; }
 
-.ctext {
-  color: cyan; }
-  .ctext.fix {
-    top: 1px; }
+.ctext.fix {
+  top: 1px; }
 
-.ytext {
-  color: yellow; }
-  .ytext.fix {
-    top: 2px;
-    left: 1px; }
+.ytext.fix {
+  top: 2px;
+  left: 1px; }
 
 .ktext {
-  color: black;
   z-index: 1000; }
+
+.sidebar {
+  background: grey;
+  border-right: 1px solid cyan;
+  color: black; }
+  .sidebar a {
+    color: black; }
+    .sidebar a.sidebar-nav-item:hover {
+      color: cyan; }
+  .sidebar h3.sidebar-nav-item, .sidebar .ctext, .sidebar .active {
+    color: cyan;
+    font-weight: 500;
+    padding-left: 1rem; }
 
 #parallax-title {
   padding-top: 200px;
   padding-bottom: 400px; }
+
+.footnotes {
+  border-top: 1px solid cyan;
+  margin-top: 10vh;
+  padding: 10vh 20px 70vh; }
+  .footnotes li {
+    padding-top: 20px; }
