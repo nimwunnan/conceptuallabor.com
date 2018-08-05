@@ -50,7 +50,7 @@ var store = [{
   "title": "Summary",
   "author": "Ním Wunnan",
   "layout": "default",
-  "link": "/theory-summary",
+  "link": "/summary",
 }
 ,{
   "title": "The Theory of Conceptual Labor",
