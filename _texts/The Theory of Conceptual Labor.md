@@ -120,7 +120,7 @@ When confronted with the shifting circumstances described by Tenet 4, an importa
 
 The infamous quip that “Writing about music is like dancing about architecture” paints a vivid picture to suggest that this is not true. The vivacity of dancers doing their work seems to underscore the futility of communicating between disciplines which have their own vocabulary. But it only works if we believe that dance has *nothing* to say outside of the world of dance. Otherwise, we have to accept the unlikely circumstance that architecture, specifically and wholly, is a topic dance may not speak about. A much more interesting and useful reading spurs one to imagine all the new things that could be said about music or architecture using different modes of knowing and communicating, dance included. Architects, dancers, writers, and musicians all absorb things from the outside world and attempt to encode them in their work. This tenet simply declares that decoding is possible and necessary.
 
-[> Summary](http://conceptuallabor.com/texts/summary)
+[> Summary](http://conceptuallabor.com/texts/theory-summary)
 
 
 
