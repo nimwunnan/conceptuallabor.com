@@ -71,4 +71,4 @@ We will never fully appreciate the work we are trying to invent before we have i
 
 Conventional narratives of work and the strategies that go with them assume that this will be an argument, and emphasize determination, persistence, and knowledge. These are fine qualities in the abstract, but also how you break a lock. A general theory of conceptual labor should provide rules of order to this argument so that it can become a lively conversation, full of productive debate and surprises.
 
-## [> The Theory](http://conceptuallabor.com/texts/The%20Theory%20of%20Conceptual%20Labor/)
+## [> The Theory](http://conceptuallabor.com/texts/the-theory/)

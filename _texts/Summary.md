@@ -2,6 +2,7 @@
 layout: default
 title: Summary
 author: Ním Wunnan
+permalink: theory-summary
 order: 3
 ---
 
