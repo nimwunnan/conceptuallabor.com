@@ -28,6 +28,10 @@ encoding: utf-8
 collections:
   texts:
     output: true
+  bibliography:
+    output: true
+  blog:
+    output: true
 
 # Markdown specs
 markdown: kramdown

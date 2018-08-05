@@ -173,11 +173,17 @@ hr {
   padding-bottom: 400px;
 }
 
-.footnotes {
+.footnotes, .spacer {
   border-top: 1px solid cyan;
     margin-top: 10vh;
     padding: 10vh 20px 70vh;
   li {
     padding-top:20px;
   }
+}
+
+ol.bibliography {
+  p {
+    margin-bottom: 5px;
+ }
 }
