@@ -328,10 +328,10 @@
           $(".masthead").height(vhchunk);
           $(window).scrollTop(0);
           $("div.content").addClass("visible");
-        }
+        // }
           console.log($("div.content").position().top+" window: "+wintall);
 
-        if (wintall > 500 && ($("div.content").position().top-70) <= wintall){
+        // if (wintall > 500 && ($("div.content").position().top-70) <= wintall){
             $(".fixedlogo").css("margin-top", "-50px");
             $(".fixedlogo").addClass("abs");
             $("div.content").addClass("visible");
