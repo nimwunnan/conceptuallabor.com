@@ -18,7 +18,7 @@ Often, when people attempt to describe the most difficult work they do, they wil
  * what are the common qualities of the work they’re talking about
  * how do they fit together?
 
-This site is meant to be the first step of publication of a theory of work that is hoped to be useful to anyone who does this kind of difficult work, whether it is with their brain, their body, or with the wills of other people. It is meant to serve as a central reference point of discussions surrounding Conceptual Labor and provide public access to the main theory. Future relevant resources and projects will be announced or archived here.
+This site is meant to be the first step of publication of a theory of work that is hoped to be useful to anyone who does this kind of difficult work, whether it is with their brain, their body, or in conversation with other people. It is meant to serve as a central reference point of discussions surrounding Conceptual Labor and provide public access to the main theory. Future relevant resources and projects will be announced or archived here.
 
 You can follow [@conceptuallabor](https://twitter.com/conceptuallabor){:target="blank"} on twitter or the RSS feed here and check out the [Conceptual Labor Webring]({{site.url}}/webring) for related projects.
 

@@ -40,7 +40,7 @@ body {
   overflow-x: hidden; }
 
 html {
-  font-family: "Nanum Myeongjo", "Book Antiqua", serif;
+  font-family: "Cardo", "Nanum Myeongjo", "Book Antiqua", serif;
   font-size: 16px;
   line-height: 1.5; }
 
@@ -223,7 +223,7 @@ tbody tr:nth-child(odd) th {
   color: magenta; }
 
 .masthead-title small {
-  font-family: "Nanum Myeongjo", "Book Antiqua", serif;
+  font-family: "Cardo", "Nanum Myeongjo", "Book Antiqua", serif;
   font-size: .88rem;
   font-weight: 300;
   color: #454545;
@@ -231,7 +231,7 @@ tbody tr:nth-child(odd) th {
   font-family: "Work Sans", sans-serif; }
 
 h3.masthead-title {
-  font-family: "Nanum Myeongjo", "Book Antiqua", serif;
+  font-family: "Cardo", "Nanum Myeongjo", "Book Antiqua", serif;
   font-size: 1.8rem;
   margin-top: 2px; }
 
