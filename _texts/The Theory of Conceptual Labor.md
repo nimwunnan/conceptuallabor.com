@@ -99,7 +99,7 @@ Conceptual labor is more than simply moving back and forth between the two poles
 
 ---
 
-There is work involved in understanding why conventional labor won’t work or why a narrative of how one should be working is wrong. When the conditions of work meet Tenet 4, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 3). Therefor, attentiveness and sensitivity to the changing requirements of a job can be considered a skill in its own right. 
+There is work involved in understanding why conventional labor won’t work or why a narrative of how one should be working is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a job can be considered a skill in its own right. 
 
 **Example**
 
@@ -114,7 +114,7 @@ The radio owner’s change of opinion about young Feynman[^fn6] illustrates the 
 ---
 
 
-When confronted with the shifting circumstances described by Tenet 4, an important, instinctual response is to look for patterns in the uncertainty. At the same time, Tenets 5 and 6 require awareness of the specific and contingent conditions of the work as it happens. Therefor, effective conceptual labor embodies general, portable concepts in the materials and language of a specific practice.
+When confronted with the shifting circumstances described by Tenet 3, an important, instinctual response is to look for patterns in the uncertainty. At the same time, Tenets 5 and 6 require awareness of the specific and contingent conditions of the work as it happens. Therefor, effective conceptual labor embodies general, portable concepts in the materials and language of a specific practice.
 
 **Example**
 
