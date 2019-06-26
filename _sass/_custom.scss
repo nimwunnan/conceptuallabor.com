@@ -150,18 +150,18 @@ hr {
 }
 
 .sidebar{
-  background: $grey;
-  border-right: 1px solid $c;
+  background: whitesmoke;
+  border-right: 1px solid $m;
   color: $k;
   a {
     color: $k;
   &.sidebar-nav-item:hover{
-    color: $c;
+    color: $m;
     // border-top: 1px solid $c;
   }
   }
   h3.sidebar-nav-item, .ctext, .active {
-    color: $c;
+    color: $m;
     font-weight: 500;
     padding-left: 1rem;
   }

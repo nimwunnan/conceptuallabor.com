@@ -103,9 +103,8 @@ There is work involved in understanding why conventional labor won’t work or w
 
 **Example**
 
-The radio owner’s change of opinion about young Feynman[^fn6] illustrates the crucial role of this skill --- he interrupted a necessary part of the process because it didn’t match his unexamined model of “fixing a radio,” and only updated his model after he saw proof that it was incomplete.
 
-[^fn6]: See the [Introduction](http://conceptuallabor.com/texts/Introduction/#how-we-talk-about-work-is-how-we-work)
+John Seeley Brown and Paul Duguid described this work as “non-canonical” work, falling outside the “canonical” work detailed in their job descriptions. Amy Wrzesniewski and Jane E. Dutton’s influential 2001 study, *Crafting a Job: Revisioning Employees as Active Crafters of Their Work* applies those concepts when profiling the ways that hospital cleaners “change the meaning of their jobs to be helpers of the sick” and “see the work of the floor unit as an integrated whole of which they are a vital part.” The study shows how this “job crafting” emerges from experience. Their ability to adapt to the changing Context of their job and the needs of the individual patients they encounter is a *skill* which cannot be adequately encoded in their canonical job descriptions. They recognize that, rather than blindly doing *what they should do* (clean), asking the question of *why are they there* is important (they improve the quality of life for patients). Job crafting reflects the conceptual labor of an engaged worker’s ongoing interrogation of their canonical work.
 
 ## Tenet 7 
 

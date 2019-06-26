@@ -1106,15 +1106,15 @@ body {
   z-index: 1000; }
 
 .sidebar {
-  background: grey;
-  border-right: 1px solid cyan;
+  background: whitesmoke;
+  border-right: 1px solid magenta;
   color: black; }
   .sidebar a {
     color: black; }
     .sidebar a.sidebar-nav-item:hover {
-      color: cyan; }
+      color: magenta; }
   .sidebar h3.sidebar-nav-item, .sidebar .ctext, .sidebar .active {
-    color: cyan;
+    color: magenta;
     font-weight: 500;
     padding-left: 1rem; }
 
