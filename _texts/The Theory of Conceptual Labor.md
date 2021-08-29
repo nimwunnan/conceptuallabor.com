@@ -1,16 +1,11 @@
 ---
 layout: theory
-title: The Theory of Conceptual Labor
+title: full-canonical-for-html
 author: Ním Wunnan
-permalink: the-theory
-order: 2
+permalink: canonical
+order: 25
 ---
 
-% The Theory of Conceptual Labor
-% Ním Wunnan
-% 2021
-
-\pagebreak
 
 # Introduction
 
@@ -44,7 +39,11 @@ The section *How To Use The Theory of Conceptual Labor* outlines basic methods b
 
 The final section, *The Expanded Theory* explains the Tenets and Core Concepts in detail, first in abstract terms and then again through case studies for each of the four groups. 
 
-\pagebreak
+
+---
+
+
+
 
 ## Summary
 
@@ -60,31 +59,42 @@ In this process, actors represent and compare models and their components within
 
 ##### Tenets 1 and 2: Modeling Labor
 
+Tenet 1 is the core proposition of the Theory --- that we can imagine a useful and dynamic representation of labor --- a model --- and that we can place the fundamental parts of that representation into three distinct categories. Tenet 2 acknowledges that individuals are the ones doing the imagining, each operating with models of their own conception.
+
 Given any description of a project, we cannot assume that everyone who does the work it demands will understand it in the terms and structure used by that description. Nor can we assume that the description is exhaustive for all circumstances. Even when labor is thought to be “brainless” and routine, we review the conditions of a project and load them into our own mental model. Though this model may refer to external instructions or materials, our models are what we directly engage with.
 
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
-##### Tenets 3 and 4: Labor changes
+##### Tenets 3 and 4: Competing Narratives
 
-Though work involves change by definition, it can still be systematized, described, and predicted in effective ways if at least one of its fundamental components can be treated as a known quantity. This is conventional labor--- the work we do when we think we know what to do. In this narrative of work, being confused about the project is not part of the project.
+Though work involves change by definition, it can still be systematized, described, and planned in effective ways if at least one of its fundamental components can be treated as a known quantity. This is conventional labor --- the work we do when we think we know what to do. In this narrative of work, being confused about the project is not part of the project.
 
 However, work behaves much differently when all significant components are dynamic. When the actor, labor, and context are all able to change on their own accord, and able to change the other types of components, the work takes on another dimension. In this type of work, solving one’s confusion, coming up with new instructions, and executing them are all considered part of the same project.
 
-##### Tenets 5 and 6: Competing Narratives
+##### Tenets 5 and 6: Labor changes
 
-There is work involved in understanding why conventional labor won’t work or why a narrative of how one should be working is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right. 
+There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right. 
+
+
 
 ##### Tenet 7: Patterns of Conceptual Labor
 
 Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
 
-TODO ADD SUMMARY
 
-\pagebreak
+---
 
+
+
+
+# Part 1
 # The Theory
 
-\pagebreak
+
+---
+
+
+
 
 ## Tenets of Conceptual Labor
 1. Labor can be modeled with fundamental components
@@ -112,7 +122,7 @@ TODO ADD SUMMARY
   * Models must be compared against reality 
   * Models may be applied without being understood
 
-#### Tenets 3 - 4: Competing Narratives
+#### Tenets 3 & 4: Labor Changes 
 
 * Models embody beliefs 
 * We follow the conventional narrative if we believe that our model has as least one static component
@@ -121,7 +131,7 @@ TODO ADD SUMMARY
 * We resist conceptual labor for many reasons
 * It is difficult to redefine labor at the rate at which it changes
 
-#### Tenets 5 - 6: Work Changes
+#### Tenets 5 & 6: Competing Narratives
 
 * Doing work and changing the narrative of how you work must happen simultaneously
 * Labor that modifies its own narrative is a conversation
@@ -138,7 +148,11 @@ TODO ADD SUMMARY
 * Mental models of labor share methods of abstraction and can be measured on a fixed scale.
 * Basic patterns of conceptual labor can be learned and developed as skills.
 
-\pagebreak
+
+---
+
+
+
 
 
 ## Definitions
@@ -173,10 +187,21 @@ Other Terminology
 
 `The conventional narrative` is the progression of labor from incomplete to complete in which work that does not directly advance the process towards completion is considered illegitimate, non-canonical or not “real work.”
 
-\pagebreak
+`Medium` is the material, physical or otherwise, with which we do conceptual labor. Unlike `context`, the `medium` of our conceptual labor is not defined by our understanding of it. `Medium` refers to the total set of conditions, known or unknown, relevant or not, of anything with which we do conceptual labor.
+
+
+---
+
+
+
+# Part 2
 # Why We Need a Theory of Conceptual Labor
 
-\pagebreak
+
+---
+
+
+
 ## Maps Are Not Always Perfect
 
 We know how to follow a complete, accurate map --- it is mainly conventional labor. We may still face a challenging journey moving through unfamiliar territory, but the obstacles lie within known boundaries --- to get from point A to point B, that river needs to be forded, that hill must be climbed, etc. 
@@ -200,7 +225,11 @@ Everyone has done work which felt productive at the time only to discover that i
 
 It is much harder to consider that some work has no straightforward story --- that it must be done in the dark. Some work can only be understood as one does it, some work continuously changes so it will never be fully described, and some work must be invented as it occurs. Such work frequently involves other people, learning something new, or understanding the behavior of a complex system. When we attempt to apply conventional narratives to this kind of work, we create new problems and fail at our original task. 
 
-\pagebreak
+
+---
+
+
+
 ## Expertise Grows out of Conceptual Labor
 
 One of the most important circumstances where conventional labor falls short is when there is no map in the first place. It is through conceptual labor that we create new ideas, shift paradigms, and learn.
@@ -208,10 +237,8 @@ One of the most important circumstances where conventional labor falls short is 
 In his explanation of the difference between advanced degrees, computer science professor Matt Might provides a clear, charming way to picture the difference between working within a frame of reference and working on the frame itself. In *The Illustrated Guide to the PhD*[^fn2] , Might pictures all of human knowledge as a circle. Primary education fills a smaller circle at the center. Bachelors and masters degrees extend a specialty like a spoke from the center, and professional research brings you to the “edge of human knowledge.” 
 
 
- 
-![[Matt Might](http://matt.might.net/), a professor in [Computer Science](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/), created [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) to explain what a Ph.D. is to new and aspiring graduate students. ](images/illustrated-phd.png)  
-
-*See Figure 1 next page* 
+![Matt Might, a professor in Computer Science at the University of Utah, created The Illustrated Guide to a Ph.D.http://matt.might.net/articles/phd-school-in-pictures/to explain what a Ph.D. is to new and aspiring graduate students.](theory-text/images/illustrated-phd.png)  
+*[Matt Might](http://matt.might.net/), a professor in [Computer Science](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/), created [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) to explain what a Ph.D. is to new and aspiring graduate students.* 
 
 Note that not only do the different stages of learning take distinct shapes, but work that expands the frame is accompanied by a profound shift in perspective. 
 
@@ -269,9 +296,9 @@ The Theory makes this distinction between these terms explicit --- work refers t
 
 The central proposition of the Labor Theory of Value[^fn8] is that the exchange value of anything should be directly tied to the amount of labor that went into producing it. We don’t have to debate Marxist theory to recognize that, despite its appealing logic, this is still an *alternative* economic system, and not the existing, financialized global economy in which we pay rent and short stocks. At the very least, it shows the many ways in which an economic measure of one’s labor will leave out many qualities of the experience of work that are important to the individuals doing it. Whistler’s trial, after all, hinged on the difficulty of measuring the actual work represented by a single painting.
 
-The term “knowledge work[^fn9]” also reinforces the separation between “work” and an individual’s full experience of it. It recognizes that “non-routine” work is increasingly necessary in a workplace where employees are expected to “produce” new “knowledge,” manipulate symbols, come up with new ideas, etc. Depictions of Knowledge Work can verge on what one might expect to see in a montage in a movie about a genius. It is still wholly oriented towards the workplace, and relates discussion of “non-work” strategies like our scientist’s nap to the requirements of employed work. Its overriding concern with managing the manifestation of conceptual labor in a workplace ultimately reinforces a definition of work by its outcome and external qualities. It does not tell us why fundamentally different strategies of knowledge work might arise under the same roof, applied to the same materials, nor how to organize and interpret those fundamental distinctions[^fn10] that can be reliably used by the knowledge workers themselves. In his essay “The Planning of Science,” Lewis Thomas summarizes this discrepancy in the knowledge work within the medical sciences:
+The term “knowledge work[^fn9]” also reinforces the separation between “work” and an individual’s full experience of it. It recognizes that “non-routine” work is increasingly necessary in a workplace where employees are expected to “produce” new “knowledge,” manipulate symbols, come up with new ideas, etc. Depictions of Knowledge Work can verge on what one might expect to see in a montage in a movie about a genius. It is still wholly oriented towards the workplace, and relates discussion of “non-work” strategies like our scientist’s nap to the requirements of employed work. Its overriding concern with managing the manifestation of conceptual labor in a workplace ultimately reinforces a definition of work by its outcome and external qualities. It does not tell us why fundamentally different strategies of knowledge work might arise under the same roof, applied to the same materials, nor how to organize and interpret those fundamental distinctions that can be reliably used by the knowledge workers themselves. In his essay “The Planning of Science,” Lewis Thomas summarizes this discrepancy in the knowledge work within the medical sciences:
 
-> We may as well face up to it: there is a highly visible difference between the pace of basic science and the application of new knowledge to human problems. It needs explaining. TODO CITE
+> We may as well face up to it: there is a highly visible difference between the pace of basic science and the application of new knowledge to human problems. It needs explaining.[^fn10] 
 
 As a term meant to assist such an explaining, “conceptual labor” owes a debt to Arlie Hochschild’s term *emotional labor*. 
 
@@ -289,7 +316,11 @@ Our napping scientist reminds us that just because something doesn’t look like
 
 When we equate work with economic value we forget that it is also part of our *behavior ---* our labor. If we are to describe the entire picture of our labor, full of learning, experiencing, and feeling, we must make a radical departure from the conventional narrative surrounding work. 
 
-\pagebreak
+
+---
+
+
+
 ## We Are Always Writing Theories of Conceptual Labor
 
 Over and over, experts beseech us to reimagine their labor in this way. From psychology to education to martial arts to mathematics, initiates of countless fields frequently advocate for alternative theories of labor from their perspective at the edge of Professor Might’s circle of knowledge. Though they address their profession’s concerns in the specific language of their field, most direct the reader towards deeper lessons that reflect both their training and their values.
@@ -340,11 +371,11 @@ No map will prepare a novice for every territory, or even every eventuality in t
 
 In *The Art of Doing Science and Engineering,*[^fn20] engineer Richard Hamming also draws on a classical distinction between the teachable and *empeiria*, urging his science-minded students to appreciate the importance of style in their work. Rather than just teaching them science knowledge, he aspires to provide a “meta-education” that will guide a lifelong career. Chris Argyris’s *Teaching Smart People How To Learn*[^fn21] makes a similar case in the language of corporate management. 
 
-Educator William Ayers directly engages this tricky process of learning and teaching in *To Teach.* TODO CITE He begins with a list of myths perpetuated by education degree programs, reorienting their concerns to the full context of real-world classrooms. He defines teaching as the “vocation of vocations, because choosing to teach is to choose to enable the choices of others.” This kind of teaching is a *way* of engaging individual students, not a program of transmitting information. Writer Zadie Smith’s concerns about the pervasive importance of style in her work leads her to describe writing as the “craft that defies craftsmanship” in her essay, *Fail Better*.[^fn22] A writer’s style is their “manner of being in the world.” 
+Educator William Ayers directly engages this tricky process of learning and teaching in *To Teach.* He begins with a list of myths perpetuated by education degree programs, reorienting their concerns to the full context of real-world classrooms. He defines teaching as the “vocation of vocations, because choosing to teach is to choose to enable the choices of others.”[^fn22] This kind of teaching is a *way* of engaging individual students, not a program of transmitting information. Writer Zadie Smith’s concerns about the pervasive importance of style in her work leads her to describe writing as the “craft that defies craftsmanship” in her essay, *Fail Better*.[^fn23] A writer’s style is their “manner of being in the world.” 
 
 > When you understand style in these terms, you don't think of it as merely a matter of fanciful syntax, or as the flamboyant icing atop a plain literary cake, nor as the uncontrollable result of some mysterious velocity coiled within language itself. Rather, you see style as a personal necessity, as the only possible expression of a particular human consciousness. Style is a writer's way of telling the truth. Literary success or failure, by this measure, depends not only on the refinement of words on a page, but in the refinement of a consciousness, what Aristotle called the education of the emotions.
 
-The appeal to style is a practical consideration of how to develop rote skill into method. When experts make a map-of-maps, they know you will not just read the maps it contains, but situate it among other maps and maps-of-maps. So they present a style --- a methodology that can be coherently abstracted and applied to unknown contexts. Mathematician Eugenia Chang, author of *The Art of Logic*,[^fn23] considers the abstractness of category theory to be one of its most important qualities, which “means that we can apply it much more broadly to the whole of life in ways that might be surprising.” Technologist Brett Victor’s talk *Designing On Principle*[^fn24] makes a similar appeal to coders and designers, that the abstract methodology behind their specific work should have integrity with the broader social context that frames it. 
+The appeal to style is a practical consideration of how to develop rote skill into method. When experts make a map-of-maps, they know you will not just read the maps it contains, but situate it among other maps and maps-of-maps. So they present a style --- a methodology that can be coherently abstracted and applied to unknown contexts. Mathematician Eugenia Chang, author of *The Art of Logic*,[^fn24] considers the abstractness of category theory to be one of its most important qualities, which “means that we can apply it much more broadly to the whole of life in ways that might be surprising.” Technologist Brett Victor’s talk *Designing On Principle*[^fn25] makes a similar appeal to coders and designers, that the abstract methodology behind their specific work should have integrity with the broader social context that frames it. 
 
 #### Simple Instructions, Hard to Follow
 
@@ -352,19 +383,20 @@ Of course, the problem indicated by the recurring appeals to something like *emp
 
 The deceptively simple instructions for doing conceptual labor have been annotated, expanded, and encoded in the literature and practices of countless disciplines. Many robust and well-researched conceptual frameworks exist to consciously steward the expected conceptual labor of their adherents. These include, but certainly are not limited to, studio practice, critical theory, pedagogy, andragogy, job crafting and non-canonical work, agile methodology, improvisation theory, metacognition, social framing theory, and design thinking. If experts create maps-of-maps, such frameworks are like libraries of maps. This metaphor suits the fact that experts in so many different fields say many of the same things about the “art” of their work. Dig deep enough in one section of a library and you’re likely to find yourself in subject you previously thought unrelated. How to use a library is also its own skill to develop, whatever you’re looking for.
 
-*The* *Theory* does not mean to replace or unseat any of these existing frameworks. Rather it aims to provide a mental cataloging system, useful in libraries familiar or strange. 
+*The Theory* does not mean to replace or unseat any of these existing frameworks. Rather it aims to provide a mental cataloging system, useful in libraries familiar or strange. 
 
-We need such a theory, because every field’s own *Pricipia Mathematica*[^fn25] can be met by a matching ad-hoc incompleteness theorem.[^fn26] However successful our work to order and rationalize the world may be within its goals, our actions and their results become a part of the world that we encounter and must relate to our other labor as conscious actors. We situate these frameworks along chronological, conceptual, personal, or completely novel measures. Whatever frame we may build in which to work, it is our nature as frame-builders that allows us to always step out of one frame and consider it in a broader context.
+We need such a theory, because every field’s own *Pricipia Mathematica*[^fn26] can be met by a matching ad-hoc incompleteness theorem.[^fn27] However successful our work to order and rationalize the world may be within its goals, our actions and their results become a part of the world that we encounter and must relate to our other labor as conscious actors. We situate these frameworks along chronological, conceptual, personal, or completely novel measures. Whatever frame we may build in which to work, it is our nature as frame-builders that allows us to always step out of one frame and consider it in a broader context.
 
 ![Any container we build, we can step out of and build another. *Standards* from xkcd.com](https://imgs.xkcd.com/comics/standards.png)
+*Any container we build, we can step out of and build another. [Standards](https://xkcd.com/927/){:target="blank"} from xkcd.com.*
 
 In his essay *The Role of Theory in Aesthetics,* Philosopher Morris Weitz attends to the problem of defining “Art” when new theories and new art continue to develop.
 
-> Because work N + 1 (the brand new work) is like A, B, C ... N in certain respects ... the concept is extended and a new phase of the novel engendered. “Is N+1 a novel?,” then, is no factual, but rather a decision problem, where the verdict turns on whether or not we enlarge our set of conditions for applying the concept. What is true of the novel is, I think, true of every sub-concept of art: “tragedy,” “comedy,” “painting,” “opera,” etc. of “art” itself[^fn27]. 
+> Because work N + 1 (the brand new work) is like A, B, C ... N in certain respects ... the concept is extended and a new phase of the novel engendered. “Is N+1 a novel?,” then, is no factual, but rather a decision problem, where the verdict turns on whether or not we enlarge our set of conditions for applying the concept. What is true of the novel is, I think, true of every sub-concept of art: “tragedy,” “comedy,” “painting,” “opera,” etc. of “art” itself[^fn28]. 
 
 In seeking a consistent, general theory of aesthetics, Weitz’s work has to follow this same pattern, which, he says, is the pattern of an artist making art. He considers all the theories that comprise the frame in which he works, and seeks a theory that can continually create --- and then escape --- new, expanded contexts. The subject of his Art of \_\_\_ happens to be “art,” but that doesn’t make it special. As we have seen, it is the pattern of work, not the subject, that matters. The art of figuring out the art of art seems to be the same thing as whatever “art” is.
 
-Half a century later, Weitz’s theories contributed significantly to Nigel Warburton’s *The Art Question*[^fn28], a sort of guide to asking “what is art?” Proceeding from Weitz’s position that it was “a logical mistake to look for the essence of art,” Warburton developed his hypothesis “that ‘art’ is indefinable on the grounds that this is the most plausible position given the evidence.” His conclusion, which he calls “even more tentative” than Weitz’s:
+Half a century later, Weitz’s theories contributed significantly to Nigel Warburton’s *The Art Question*[^fn29], a sort of guide to asking “what is art?” Proceeding from Weitz’s position that it was “a logical mistake to look for the essence of art,” Warburton developed his hypothesis “that ‘art’ is indefinable on the grounds that this is the most plausible position given the evidence.” His conclusion, which he calls “even more tentative” than Weitz’s:
 
 > Those philosophers seeking a watertight yet general answer to the question “What is art?” should be left to their own devices. For most of us, the rewarding questions in this area will be the questions that touch real works of art. This is nothing to be embarrassed about. The whole point of the art question is that it is asked by people interested in works of art, not simply in the idea of art. Ultimately, we must turn back to the works themselves. 
 
@@ -372,7 +404,7 @@ Like the artists Weitz imagines, and like Weitz himself, the viewer does not get
 
 The work we do to step out of a frame is different than the work that stays only within the frame because it is unbounded. It is what philosopher Eric P Carse calls an *infinite game.* 
 
-> Infinite players cannot say when their game began, nor do they care. They do not care for the reason that their game is not bounded by time. Indeed, the only purpose of the game is to prevent it from coming to an end, to keep everyone in play.[^fn29] 
+> Infinite players cannot say when their game began, nor do they care. They do not care for the reason that their game is not bounded by time. Indeed, the only purpose of the game is to prevent it from coming to an end, to keep everyone in play.[^fn30] 
 
 > There are no spatial or numerical boundaries to an infinite game. No world is marked with the barriers of infinite play, and there is no question of eligibility since anyone who wishes may play an infinite game.
 
@@ -382,19 +414,44 @@ Finite games can be played within an infinite game, but an infinite game cannot 
 
 However, as readers of these texts, we are in the same situation as a viewer in front of a painting --- looking for the concept of an art in the practical expression of it. The work we do cycles back and forth between bounded and unbounded contexts, open and closed concepts, finite and infinite games.  
 
-This work is the *+1* in *N+1*. There can be no one guide to it, so we write countless guides. One particularly profound and surprising entry is Rebecca Solnit’s *A Field Guide to Getting Lost.* In it, she meditates on a challenge posed by Meno to Socrates: “How will you go about finding that thing the nature of which is totally unknown to you[^fn30]?” Whether we answer that we will do “conceptual labor” or use another term, we must at least recognize that the answer falls within a special category of labor, one which is always changing.
+This work is the *+1* in *N+1*. There can be no one guide to it, so we write countless guides. One particularly profound and surprising entry is Rebecca Solnit’s *A Field Guide to Getting Lost.* In it, she meditates on a challenge posed by Meno to Socrates: “How will you go about finding that thing the nature of which is totally unknown to you[^fn31]?” Whether we answer that we will do “conceptual labor” or use another term, we must at least recognize that the answer falls within a special category of labor, one which is always changing.
 
-\pagebreak  
+
+---
+
+
+  
 
 ## The Art of \_\_\_, Diagrammed  
---------------------------------- 
-![Finite and not-so-finite labor](images/fig1.1.png)  
-![Labor between contexts](images/fig1.2.png)  
-![Labor to create context](images/fig1.3.png) 
-![The Art of Basketball](images/fig1.4.png) 
-![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
+---
 
-\pagebreak
+*Finite and not-so-finite labor* 
+![Finite and not-so-finite labor](theory-text/images/fig1.1.png) 
+
+---
+
+*Labor between contexts* 
+![Labor between contexts](theory-text/images/fig1.2.png) 
+
+---
+
+*Labor to create context*
+![Labor to create context](theory-text/images/fig1.3.png)
+
+---
+
+*The Art of Basketball*
+![The Art of Basketball](theory-text/images/fig1.4.png)
+
+---
+
+*The Art of \_\_\_ and Conceptual Labor*
+![The Art of \_\_\_ and Conceptual Labor](theory-text/images/fig1.5.png)
+
+---
+
+
+
 ## Conceptual Labor Counters Power
 
 There is a polemical quality to The Art of \_\_\_. It says, while this work may look like the exclusive province of this discipline and those who have the specialized training to do it, the soul of this work can be understood in the abstract and carried to other parts of life. The thing we call, say, windsurfing, is not the Art of Windsurfing. That is a practice of decision making and living that must be continuously refreshed as you walk through life, and there is a way encounter that practice using a windsurf board.
@@ -407,7 +464,7 @@ When our actions, experience, and environment can change and change each other s
 
 #### Conceptual labor knows no discipline
 
-If a toddler and a professional physicist were to take a first-year physics exam, we could reasonably say that the physicist was doing more physics than the child[^fn31]. That is, they would do more of the work that we call physics to answer the questions. But, assuming they remembered their fundamentals, they will do far less conceptual labor than the child. To simply *read* a question, the child might have to update their imagined system of the world and learn multiple new words. The physicist mainly has to agree or disagree with the truth of statements according to their deeply held model of the world.
+If a toddler and a professional physicist were to take a first-year physics exam, we could reasonably say that the physicist was doing more physics than the child[^fn32]. That is, they would do more of the work that we call physics to answer the questions. But, assuming they remembered their fundamentals, they will do far less conceptual labor than the child. To simply *read* a question, the child might have to update their imagined system of the world and learn multiple new words. The physicist mainly has to agree or disagree with the truth of statements according to their deeply held model of the world.
 
 Surely the work of the child is not just of a different material outcome, but of a different fundamental quality. A general theory needs to describe these fundamental qualities regardless of where it lands on Professor Might’s diagram, from where a child labors to understand something at the center all the way out to the very edge, where the physicist labors late into the night in their lab. That is why the diagram is a circle rather than a line --- conceptual labor moves from the center to the edge, in all directions, pressing on all boundaries. To pass a physics test is a finite game, but to expand the circle and “keep pushing” is an infinite one.
 
@@ -417,7 +474,7 @@ This is the radical proposition embedded within the very idea that we could hold
 
 #### Conceptual labor within bounds is not conceptual labor
 
-If we review the many guides to the “art of” something with this proposition in mind, we might understand their polemic tone more deeply. The authors are not just advocating for their preferred techniques, they are trying to promote and preserve a way of encountering the world that sustains free flowing conceptual labor. This, often, is at odds with commerce, which, generally, is the practice of interrupting the flow of something to use its movement for profit. A free-flowing river may support an ecosystem, but we dam it up if we want to support an economy. And, like damming up a river, there are upstream effects to conceptual labor when it is done within predetermined boundaries. The labor we do in such circumstances is no longer an infinite game. Rather it is, as artist and author Jenny O’Dell says, “free within bounds.”[^fn32] 
+If we review the many guides to the “art of” something with this proposition in mind, we might understand their polemic tone more deeply. The authors are not just advocating for their preferred techniques, they are trying to promote and preserve a way of encountering the world that sustains free flowing conceptual labor. This, often, is at odds with commerce, which, generally, is the practice of interrupting the flow of something to use its movement for profit. A free-flowing river may support an ecosystem, but we dam it up if we want to support an economy. And, like damming up a river, there are upstream effects to conceptual labor when it is done within predetermined boundaries. The labor we do in such circumstances is no longer an infinite game. Rather it is, as artist and author Jenny O’Dell says, “free within bounds.”[^fn33] 
 
 Conceptual labor that ends at a predetermined point is not fully conceptual labor. That is not to say that all conceptual labor should go on forever, but rather that it must be done with the intention to continue, rather than to reach a known end. We may begin work with a well-defined goal in mind, and we may in fact use conceptual labor to end up there. But the nature of our work changes when the path to that goal becomes unclear. If we must figure out what work is and how to do it while working --- that is, if we must do conceptual labor --- our goal is unknown, because what we hope to find is no longer an endpoint but a *path to that endpoint*. We must walk the path to know it. This is the distinction that all the Art of \_\_\_ treatises of labor to make --- this work is a way, a process, a struggle. It may be done with goals in mind, but it is done with a focus on the labor rather than the product, so that it can freely accommodate unexpected methods and make new goals based on new information.
 
@@ -427,15 +484,15 @@ In this labor, we will *inevitably* challenge limitations, whether they are our 
 
 There is a thriving, parallel market for the literature of “art-within-bounds,” pushed by those who have a stake in containing and exploiting the conceptual labor of their audience. The owners of dams know there’s no point in choking off the river entirely. To sell The Art of \_\_\_, one must often allow it to flourish only within convenient limitations. 
 
-Art of \_\_\_ texts explain that going off map is a different kind of work, and it takes attention and discipline to remain aware of its nature. There is another kind of text[^fn33] that is content to say that all you need is a new map --- the right map, which happens to be the one the author is selling. These too might appeal to the “art of” something, but only to court association with sophistication, ineffability, high value, unconventional wisdom, and personal expression. Their main purpose is to contain conceptual labor within acceptable boundaries without snuffing it out entirely.
+Art of \_\_\_ texts explain that going off map is a different kind of work, and it takes attention and discipline to remain aware of its nature. There is another kind of text[^fn34] that is content to say that all you need is a new map --- the right map, which happens to be the one the author is selling. These too might appeal to the “art of” something, but only to court association with sophistication, ineffability, high value, unconventional wisdom, and personal expression. Their main purpose is to contain conceptual labor within acceptable boundaries without snuffing it out entirely.
 
 This is an Executive Map, sold mainly on the promise of being a new, better, or unique map. It is the “one weird trick” of critical thinking --- by taking one or two steps away from a highly conventional or stereotypical position, it satisfies readers’ contrarian urge without sacrificing a feeling of certainty. Because this map is special, all other maps are trash. By definition, the good routes and advice are the ones that *this map* contains, so if similar paths show up on other maps, they are simply forgeries or imitations. All this valuable information becomes a systemic appeal to the author’s authority. A rarefied, “artful” approach elevates the virtuoso author’s status --- and yours by extension if you follow in their “five easy steps.” 
 
-Tony Schwartz’s account of writing Donald Trump’s *The Art of the Deal* is somewhat of a masterclass of Executive Maps. He sees Trump’s systemic belief that “I alone can do it,”[^fn34] as the unifying narrative to the “art” the book claims to offer. If this were true, then anyone in need of a map would have no choice but to follow such a leader. The purpose of an Executive Map is not to give readers the tools to figure out their own paths, but to convince them that their leader knows exactly where they are going, and to not ask questions along the way.
+Tony Schwartz’s account of writing Donald Trump’s *The Art of the Deal* is somewhat of a masterclass of Executive Maps. He sees Trump’s systemic belief that “I alone can do it,”[^fn35] as the unifying narrative to the “art” the book claims to offer. If this were true, then anyone in need of a map would have no choice but to follow such a leader. The purpose of an Executive Map is not to give readers the tools to figure out their own paths, but to convince them that their leader knows exactly where they are going, and to not ask questions along the way.
 
 This kind of writing, designed primarily to reflect on the speaker, is what Harry Frankfort defines as bullshit in *On Bullshit*.
 
-> Since bullshit need not be false, it differs from lies in its misrepresentational intent. The bullshitter may not deceive us, or even intend to do so, either about the facts or about what he takes the facts to be. What he does necessarily attempt to deceive us about is his enterprise. His only indispensably distinctive characteristic is that in a certain way he misrepresents what he is up to.[^fn35]
+> Since bullshit need not be false, it differs from lies in its misrepresentational intent. The bullshitter may not deceive us, or even intend to do so, either about the facts or about what he takes the facts to be. What he does necessarily attempt to deceive us about is his enterprise. His only indispensably distinctive characteristic is that in a certain way he misrepresents what he is up to.[^fn36]
 
 #### The Art of Bullshit and Politics
 
@@ -445,15 +502,15 @@ Bullshit methodology forwards its agenda in a sideways way by leading the concep
 
 Noam Chomsky put it this way:
 
-> The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum---even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.[^fn36]
+> The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum---even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.[^fn37]
 
-Jo Freeman’s influential essay *The Tyranny of Structurelessness*[^fn37] provides an excellent case study of how social groups can default to this dynamic, without a conspiracy to set it up. She outlines how a critical response to traditional organizational hierarchy garnered a rejection of formal structure in the self-organized groups that led the feminist movement in the 1970s. She critiques the positivist narrative of a “structureless” group by showing how, without explicit rules of participation, a “structureless” organization will be shaped by the pre-existing social relationships that members of the group bring with them. The absence of structure is a myth, she says, and it is one that preserves the structures that keep some members powerful and others powerless. Rather than arguing how things should be done within “structurelessness” she reframes the problem with new terminology.
+Jo Freeman’s influential essay *The Tyranny of Structurelessness*[^fn38] provides an excellent case study of how social groups can default to this dynamic, without a conspiracy to set it up. She outlines how a critical response to traditional organizational hierarchy garnered a rejection of formal structure in the self-organized groups that led the feminist movement in the 1970s. She critiques the positivist narrative of a “structureless” group by showing how, without explicit rules of participation, a “structureless” organization will be shaped by the pre-existing social relationships that members of the group bring with them. The absence of structure is a myth, she says, and it is one that preserves the structures that keep some members powerful and others powerless. Rather than arguing how things should be done within “structurelessness” she reframes the problem with new terminology.
 
 > ‘Structurelessness’ is organizationally impossible. We cannot decide whether to have a structured or structureless group; only whether or not to have a formally structured one. Therefore, the word will not be used any longer except to refer to the idea which it represents. Unstructured will refer to those groups which have not been deliberately structured in a particular manner. Structured will refer to those which have. A structured group always has a formal structure, and may also have an informal one. An unstructured group always has an informal, or covert, structure. 
 
 In her conclusion, Freeman refuses to offer an Executive Map to a quick solution. Presenting multiple narratives to draw from, she advocates for an ongoing critical response to organizational structure in line with the nature and values of the movement’s work. 
 
-Contrast this with the way that the Israeli military used post-structuralist philosophy to critically adapt their methods on the battlefield[^fn38]. They developed a mobility strategy that broke through the walls of private homes rather than using public streets in part because their generals were reading *A Thousand Plateaus*[^fn39], one of the most important books on post-structuralist philosophy.
+Contrast this with the way that the Israeli military used post-structuralist philosophy to critically adapt their methods on the battlefield[^fn39]. They developed a mobility strategy that broke through the walls of private homes rather than using public streets in part because their generals were reading *A Thousand Plateaus*[^fn40], one of the most important books on post-structuralist philosophy.
 
 It’s hard to argue that this was not a thoroughly post-structuralist way of conceiving of literal structures. The Israeli generals didn’t fail to sufficiently understand Deleuze and Guattari, rather they failed to go far enough in applying the theory. They’re capable of dissolving the conceptual boundaries that kept them in an agreement that walls could stop them from going where they desire. However, they’re not capable of dissolving the conceptual boundaries of the framework that locks them into the agreement to desire what they desire. The *generals* may understand post-structuralist philosophy, but the *military* cannot. 
 
@@ -461,15 +518,13 @@ Why should this be? If the ideas that they employed were powerful enough to diss
 
 However new or special a map is, if it claims to be complete it is of limited use to explorers trying to make their own maps or navigate un-mappable territory. It is through dedicated, ongoing conceptual labor that we understand that we do not just need a new map to our destination, we need to prepare for an entirely different kind of journey. 
 
----
-
 For Mulla Nasreddin and anyone else looking for something in the dark, this means not going towards the known source of light, but finding one you can carry with you, or maybe climbing the lamppost and cutting it down. 
 
 In her essay *Poetry is Not A Luxury*, Audre Lorde says:
 
 > The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.
 
-The poetry that is indispensable to Lorde is not “sterile wordplay,” but a process --- “the revelatory distillation of experience[^fn40].” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
+The poetry that is indispensable to Lorde is not “sterile wordplay,” but a process --- “the revelatory distillation of experience[^fn41].” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
 
 To learn The Art of \_\_\_, it seems that we always must cross a gap, the one that divides a concrete practice of writing poems from the abstract pattern of revelation that such a practice has the potential to teach us. bell hooks’s *Theory as Liberatory Practice* gives us a bridge of sorts, between the abstract practice of theory and concretely personal and political concerns. 
 
@@ -490,24 +545,29 @@ Poststructuralism is an external label for their conceptual labor, which lends t
 Conceptual labor means asking “regardless of what I think I’m doing, what am I actually doing?” and then continuously refining your model of your labor --- which includes the way you see the world --- until it describes what you are actually doing. It only stops when it arrives at an internally-consistent model that has the power to describe new actions taken while subscribing to it. It does not let us stop at politically or personally expedient barriers like the Israeli generals do.
 
 
-To decide for yourself where you will stop doing conceptual labor to participate in social models[^fn41] is an expression of power. The mental cost of participating in many vital social narratives is wildly unequal in its distribution[^fn42]. Conceptual labor is what we have to do when the conventional narrative fails. A society or institution that refuses to negotiate narratives that demand conceptual labor only from certain members is lying to itself, for the benefit of those who don’t have to negotiate these narratives to survive.
+To decide for yourself where you will stop doing conceptual labor to participate in social models[^fn42] is an expression of power. The mental cost of participating in many vital social narratives is wildly unequal in its distribution[^fn43]. Conceptual labor is what we have to do when the conventional narrative fails. A society or institution that refuses to negotiate narratives that demand conceptual labor only from certain members is lying to itself, for the benefit of those who don’t have to negotiate these narratives to survive.
 
 Conceptual labor is the process by which we fundamentally change our model of the world. The more fluent we are in how we practice conceptual labor in the areas that we have the power to control, whether it is poetry or politics, the more we will be able to critique the paradigms that control us. 
 
-In this way, The Theory can be used to critique change that occurs within a fixed paradigm, like the radicalism of the Israeli generals[^fn43]. A critical response to oppressive models that remains within their boundaries is like insisting that poetry is only rhyming verse, that theory is only academic. Its focus on appearance veers towards the technical definition of bullshit. 
+In this way, The Theory can be used to critique change that occurs within a fixed paradigm, like the radicalism of the Israeli generals[^fn44]. A critical response to oppressive models that remains within their boundaries is like insisting that poetry is only rhyming verse, that theory is only academic. Its focus on appearance veers towards the technical definition of bullshit. 
 
----
-
-Radical social change is often presented as a conventional narrative --- once the revolution succeeds, we will be free[^fn44]. This is the tempting notion that paradigm shifts behave like chemical reactions, inevitable with sufficient conditions and fuel. However, it is only through ongoing, cooperative conceptual labor that we negotiate new futures and societies. It is not enough to deliver a vision of the future, it must also be installed and sustained.
+Radical social change is often presented as a conventional narrative --- once the revolution succeeds, we will be free[^fn45]. This is the tempting notion that paradigm shifts behave like chemical reactions, inevitable with sufficient conditions and fuel. However, it is only through ongoing, cooperative conceptual labor that we negotiate new futures and societies. It is not enough to deliver a vision of the future, it must also be installed and sustained.
 
 If we take seriously the demands and idiosyncrasies of conceptual labor, we can more effectively relate our work to the narratives that frame it. Beyond that, we can practice the special patterns of work that are required to shift our frames of reference. We can prepare ourselves for the narrative to change once we escape it, for it to change once again, and for it to keep changing.
 
 
-\pagebreak
-# How to Use The Theory
-\pagebreak
 
-\pagebreak
+---
+
+
+
+# Part 3
+# How to Use The Theory
+
+---
+
+
+
 ## Introduction to Conceptual Labor Analysis
 
 
@@ -539,7 +599,11 @@ The Theory provides a framework in which to ask these questions. The Tenets prop
 
 Using the theory to analyze our labor, then, should provide a way to clearly define models and the relationships between their components to our own satisfaction. Doing so should help us become aware of significant changes to any of the components, or help reveal where our definitions were wrong. We should be able to repeat this process until it produces an understood model with static components that we can use as a set of instructions. This process should also allow us to infer broader principals and lessons from the answers to specific questions.
 
-\pagebreak
+
+---
+
+
+
 ## Conceptual Labor Analysis vs What We Already Do
 
 As Tenet 7 reminds us, we end up following our own ad-hoc version of this process simply by doing our work and thinking carefully about it. Asking questions grounded by the specificity of our work will produce broader, abstract questions during conceptual labor. So why introduce a separate term for Conceptual Labor Analysis? Doesn't conceptual labor imply self-considering work? 
@@ -565,7 +629,11 @@ Conceptual Labor Analysis focuses on describing the composition, relationships, 
 
 So, in analyzing our labor, we may not always be able to anticipate the right questions and answers, but we can familiarize ourselves with the process to ask and answer these questions with more ease, insight, and precision. To that end, this section outlines the basic process of using the language of the Theory as an analytical tool.
 
-\pagebreak
+
+---
+
+
+
 ## Conceptual Labor Analysis in a Nutshell
 
 All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by Creating a Model of Labor. 
@@ -584,7 +652,8 @@ We could consider our racing thoughts mid-fall to be conceptual labor, because t
 
 So with this in mind we can develop a sense of what to put in our models. They only need to be detailed enough to describe the *fundamental* qualities of our project at our current level of focus -- the project that remains an open loop.
 
-![Figure 2: Open and Closed Loops of Conceptual Labor](images/fig2.png)
+![Open and Closed Loops of Conceptual Labor](theory-text/images/fig2.png)
+*Open and Closed Loops of Conceptual Labor*
 
 #### Step 1. Create a model of your labor
 
@@ -606,7 +675,7 @@ In conceptual labor analysis, the point of modeling work is to critically assess
 * discern 
 
 
-Projects often start as a monolithic idea built on assumptions, prior knowledge, and deeply-held models of how the external world behaves. Breaking one’s initial idea of a project into a detailed model is in itself a form of critical analysis. Sometimes this is all we have to do to realize what we need to be doing differently. A lot can be accomplished simply by consciously considering each piece of our labor and how they all fit together.[^fn45] The “analysis” part of Conceptual Labor Analysis doesn’t just happen when we compare existing models. Significant analysis also goes into trying to precisely describe the model in the first place.
+Projects often start as a monolithic idea built on assumptions, prior knowledge, and deeply-held models of how the external world behaves. Breaking one’s initial idea of a project into a detailed model is in itself a form of critical analysis. Sometimes this is all we have to do to realize what we need to be doing differently. A lot can be accomplished simply by consciously considering each piece of our labor and how they all fit together.[^fn46] The “analysis” part of Conceptual Labor Analysis doesn’t just happen when we compare existing models. Significant analysis also goes into trying to precisely describe the model in the first place.
 
 When we try to describe a project by its fundamental components, remembering that they must be *essential* to the stated project we can confirm that we are actually working in the context we say we are, or realize that we are focused on something else. One outcome of conceptual labor analysis is to produce models that are not in doubt. If the necessity of a component is a matter of debate, that debate should generate new questions or cause important realizations, producing better models or new working methods.
 
@@ -618,7 +687,11 @@ If a model we have confidence in produces instructions that we can reliably foll
 
 To demonstrate how Conceptual Labor Analysis can describe our individual experience of labor, and how it allows us to identify the difference between conventional and conceptual labor, we need a narrative of labor. First we will go through it like a story, from start to finish. Then we will use Conceptual Labor Analysis to diagram the models that drive the story forward and to account for how the story changes.
 
-\pagebreak
+
+---
+
+
+
 ## Example: How to Do Conceptual Labor in the Woods
 
 An adventurous friend draws you a map to a secret, picturesque picnic spot she discovered just the other week. In a nearby state park full of rocky hills, a small alpine lake, surrounded by verdant green fields and rare wildflowers, can be reached by a short hike from a public path.
@@ -651,7 +724,11 @@ As is often the case, the trip back seems to go much faster than the trip there.
 
 As your friend promised, it weaves through the trees at a moderate incline until reaching a clearing. The lake is clearer than you imagined, the fields are a perfect green, and the wildflowers are in bloom. Luckily, you still have half a sandwich.
 
-\pagebreak
+
+---
+
+
+
 ### A Caveat
 
 Before we attempt to articulate the doing of conceptual labor in terms of the Theory, we must recognize that this is an artificial and incomplete approach. 
@@ -662,11 +739,16 @@ Conceptual Labor Analysis should not be used to submit the heuristic and often n
 
 Conceptual Labor Analysis shows how to *verbally analyze* your labor, most likely after you have done it, not “how to do conceptual labor.” 
 
-There can be no definitive guide to all forms of conceptual labor. It would certainly be an exciting and fruitful project to attempt to create a sort of pan-disciplinary pattern language,[^fn46] but that would be an enormous, multifaceted project, best attempted by a diverse team of experts. This book must be written first, as a framework in which to identify and discuss such patterns.
+There can be no definitive guide to all forms of conceptual labor. It would certainly be an exciting and fruitful project to attempt to create a sort of pan-disciplinary pattern language,[^fn47] but that would be an enormous, multifaceted project, best attempted by a diverse team of experts. This book must be written first, as a framework in which to identify and discuss such patterns.
 
 Becoming familiar enough with the Theory to wield it in your own way should be far more useful in most cases. That said, this particular method should still prove valuable in circumstances that are so complex or opaque as to demand that all those concerned take a collective step back to explicitly and methodically write down what they think they are doing in neutral, common language.
 
-\pagebreak
+
+---
+
+
+
+
 ## CLA of Our Example
 
 #### Step 1: Define our project and model our labor
@@ -705,7 +787,7 @@ In the absence of satisfactory answers, we go back to Step 1.
 
 When we give up and sit down to wrack our brains about what went wrong, we begin to consider the conventional narrative of our instructions in a number of possible broader contexts. 
 
-We must leave behind the “actor working in a context towards an end” structure entirely. Science-fiction author Ursula K. LeGuin vividly described the power of stories that exist beyond this paradigm in her 1986 essay, *The Carrier Bag Theory of Fiction*.[^fn47]
+We must leave behind the “actor working in a context towards an end” structure entirely. Science-fiction author Ursula K. LeGuin vividly described the power of stories that exist beyond this paradigm in her 1986 essay, *The Carrier Bag Theory of Fiction*.[^fn48]
 
 This theory is a rebuttal to these common assumptions about narratives: 
 
@@ -725,7 +807,7 @@ Earlier, we acknowledged that simply creating an ordered model with well-defined
 
 Contract workers or employees working for a “visionary” boss are likely to spend a surprising amount of their time on this step. When a mission or project is issued by someone who doesn’t have to be concerned with the “nuts and bolts” to someone who must be, the container-story is much like a carrier-bag, without internal order or a clear sense of scale, jumbling many things together.
 
-The conceptual labor required to go from that to an orderly model with well-defined components is, a large part of the valuable work done by experts that is hard to see and understand from the outside[^fn48]. Again, let us acknowledge that CLA is far from the only or best way to do that. The steps and methods here are, in a way, better for educational purposes than real-world application, as they allow us to proceed methodically and transparently through the process using the terms of the Theory.
+The conceptual labor required to go from that to an orderly model with well-defined components is, a large part of the valuable work done by experts that is hard to see and understand from the outside[^fn49]. Again, let us acknowledge that CLA is far from the only or best way to do that. The steps and methods here are, in a way, better for educational purposes than real-world application, as they allow us to proceed methodically and transparently through the process using the terms of the Theory.
 
  
 
@@ -739,13 +821,31 @@ Then we list each fundamental component, and note which other components it can 
 
 #### Model 1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor               You                 Self, W
------------------------------------------------------------
-
 **Project:** Hike to the secret lake 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, W</td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 When following reliable directions, you are the only significant actor. As a human being, you can alter your own state of mind in relevant ways by learning or deciding, and you can change the work you do or how you do it. However, at this point we labor under the assumption that we understand the context that matters to our work. We may not know everything about the parts of the park represented on the map, but we know we should not deviate from it, and that other contexts, like the other side of the park or our email inbox, do not apply to our project
@@ -754,17 +854,36 @@ Next, the work
 
 #### Model 1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor               You                 Self, W
-
-Work                Follow the          A
-                    directions           
------------------------------------------------------------
 
 **Project:** Hike to the secret lake 
 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, W</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work</td>
+<td style="text-align: left;">Follow the directions</td>
+<td style="text-align: left;">A</td>
+</tr>
+</tbody>
+</table>
 
 As mentioned previously, the work of hiking the trail has the potential to require conceptual labor as its own, more specific sub-project. But as long as we keep our footing, those situations remain closed-loops of conceptual labor, and do not need to be considered at this scale of modeling.
 
@@ -776,18 +895,39 @@ While we trust our instructions, our context is known and bounded. Remember, con
 
 #### Model 1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor               You                 Self, W
-
-Work                Follow the          A
-                    directions           
-
-Context             The park            A, W
------------------------------------------------------------
-
 **Project:** Hike to the secret lake 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, W</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work</td>
+<td style="text-align: left;">Follow the directions</td>
+<td style="text-align: left;">A</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context</td>
+<td style="text-align: left;">The park</td>
+<td style="text-align: left;">A, W</td>
+</tr>
+</tbody>
+</table>
 
 So far, there is little utility in analyzing this task to this degree. The project title sufficiently describes our work, and we can easily understand it in terms of the basic models of moving through the physical world that come with being a conscious person. This is conventional labor. This model represents the “let’s sit down and go over this one more time” point.
 
@@ -804,35 +944,65 @@ The questions we asked while taking the first sandwich break propose a complex m
 
 #### Model 1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2, C3
-
-Actor 2             Your friend when    Self, W2, C1
-                    she wrote the map  
-
-Work 1              A1: Follow the      A1
-                    directions on 
-                    the map (C2) 
-
-Work 2              A1: Imagine what    A1, W1, C1, C3
-                    your friend (A2) 
-                    was thinking (C3)  
-
-Work 3              A2: Make a map (C2) A2, C1, W1
-                    for A1 to follow      
-
-Context 1           The map             A1, W1, C2
-
-Context 2           The park            A1, W1, W2, C1
-
-Context 3           Your Friend’s       Self, A1, A2, W1, 
-                    state of mind       W2, W3, W1
------------------------------------------------------------
-
 *Project:* Hike to the secret lake with unreliable directions 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2, C3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">Your friend when she wrote the map</td>
+<td style="text-align: left;">Self, W2, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Imagine what your friend (A2) was thinking (C3)</td>
+<td style="text-align: left;">A1, W1, C1, C3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 3</td>
+<td style="text-align: left;">A2: Make a map (C2) for A1 to follow</td>
+<td style="text-align: left;">A2, C1, W1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+<td style="text-align: left;">A1, W1, C2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">The park</td>
+<td style="text-align: left;">A1, W1, W2, C1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 3</td>
+<td style="text-align: left;">Your Friend’s state of mind</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, W3, W1</td>
+</tr>
+</tbody>
+</table>
+
 
 This model is rather general, and allows for many possibilities --- you forgot a step in the directions, your friend is playing a joke on you, something in the woods changed, etc. 
 
@@ -849,30 +1019,57 @@ We label the model and project like so:
 
 And define components. Example:
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Actor 1             You                 
-                                        
-Work 1              A1: Follow the      
-                    directions on 
-                    the map (C2) 
-
-Context 1           The map            
----------------------------------------
 
 *Project:* Hike to the secret lake with unreliable directions 
+
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+</tr>
+</tbody>
+</table>
 
 Components will necessarily have relationships. References to other components in a definition look like this:
 
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Work 1              A1: Follow the      
-                    directions on 
-                    the map (C2) 
----------------------------------------
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+</tr>
+</tbody>
+</table>
 
 
 This means Actor 1 does this Work that includes Context 2.
@@ -882,37 +1079,78 @@ These are *definitional relationships* --- relationships between components that
 We label *functional relationships* in their own column, and we do so in a one-way relationship. If the current component has the capacity to affect the *defining qualities* of another component, we include that component in the third column of the model. We need not prove that the current component *has affected* another one. What matters is whether the actor who subscribes to this model *believes* that one component can affect another. 
 
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2, C3
------------------------------------------------------------
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2, C3</td>
+</tr>
+</tbody>
+</table>
 
 
 #### A component and its relationships
 
 Let us annotate A1 as a demonstration of how to create and interpret a model.
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Actor 1             You                 
----------------------------------------
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+</tr>
+</tbody>
+</table>
 
 Of course, this is an exceptionally short description for a very complex part of the model. This is a simple model for explanatory purposes, but your models don’t necessarily have to be much more complex at first. One of the major purposes of CLA is to discern significant details that are hidden by the way we define parts of the world to ourselves. More often, we have not taken the step to define a component explicitly, and only work with an opaque notion “you” rather than a detailed picture of a complex person.
 
 
 As the primary actor, you have the most power to change the components of the model and the model itself (M1). The only component you can’t change is your friend in the past. 
 
-
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2, C3
------------------------------------------------------------
-
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2, C3</td>
+</tr>
+</tbody>
+</table>
 
 
 #### The components A1 (You) can affect.
@@ -932,58 +1170,114 @@ Since Model 1 represents your own thoughts, you can change the *structure* of th
 #### Work
 
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Work 1              A1: Follow the      
-                    directions on 
-                    the map (C2) 
-
----------------------------------------
-
-
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+</tr>
+</tbody>
+</table>
 
 To change work is to change the meaning of its instructions. If you change what you believe about any of the contexts in which you are doing the work, you will change what it means to “follow the directions.” If you think your friend wrote the map with an ulterior motive, you may change the meaning of this work. If your friend is trying to trick you, which seems unlikely, then the directions must be interpreted rather than simply followed. You may *articulate* new directions to yourself, you may *expand* the definition of this work to include your own directions, you may *discern* subtext to C2 to *navigate* better, etc.
 
 
----------------------------------------
-Label               Component          
-------------------- -------------------                   
-Work 2              A1: Imagine what
-                    your friend (A2) 
-                    was thinking (C3)
-
----------------------------------------
+<table style="width:82%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 54%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Imagine what your friend (A2) was thinking (C3)</td>
+</tr>
+</tbody>
+</table>
 
 
 This is even more fluid work, as it depends on your own imagination. Your capacity to change it is self-explanatory.
 
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Context 1           The map
----------------------------------------
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+</tr>
+</tbody>
+</table>
 
 
 As we do W1 and W2, our beliefs and knowledge about the map that our friend wrote may change. If we see something significant on our hike that the map doesn’t include, we will re-articulate the meaning of the map to ourselves, removing it from a position of authority to place it in dialogue with our observations as we move through C2.
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Context 2           The park
----------------------------------------
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">The park</td>
+</tr>
+</tbody>
+</table>
 
 
 When we were following a conventional narrative through the park, the differences between reality and our expectations were only a reflection on our state of mind. The conceptual labor of hiking creates a dialogue between ourselves as Actors and our *experience* of the reality around us, which is represented here as C2. So we no longer treat the park as an external and static entity, we engage it as something dynamic that we relate to. C2 is what we *believe about* the park. Since an Actor’s belief is part of the definition of Context, it would be redundant to indicate that here. 
 
 
----------------------------------------
-Label               Component          
-------------------- -------------------
-Context 3           Your friend’s 
-                    state of mind
----------------------------------------
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Context 3</td>
+<td style="text-align: left;">Your friend’s state of mind</td>
+</tr>
+</tbody>
+</table>
 
 This is the context in which W2 takes place. By doing W2, you propose different definitions of C3. 
 
@@ -1006,7 +1300,7 @@ A crucial part of the process is to come up with models that let us do this in a
 
 The “My friend is a spy” model may be a dead end, but maybe she was playing a joke on you? That’s also unlikely, but not impossible. She could also have been mistaken, or distracted. We need a way to represent the possibilities that your friend, as a conscious actor, brings to the situation. Our description of her is as much of a placeholder as the word “you” is for your role, containing but not exposing many possibly relevant details.
 
-Her state of mind, as you imagine it, (C3) is a very complex component --- you would anticipate that she would anticipate you anticipating her. Hiking, while considering this, is very different work than just hiking. The work (W2) is more mental than it is physical, searching for a reason your friend would do something so obnoxious and of little benefit to her. Note that, in the example, we did a little bit of W2 in a closed loop to *avoid changing* our conventional narrative[^fn49]. When the trail got rough, we imagined that our friend didn’t think that would be such a big deal for us. We thought about what she might think about us. 
+Her state of mind, as you imagine it, (C3) is a very complex component --- you would anticipate that she would anticipate you anticipating her. Hiking, while considering this, is very different work than just hiking. The work (W2) is more mental than it is physical, searching for a reason your friend would do something so obnoxious and of little benefit to her. Note that, in the example, we did a little bit of W2 in a closed loop to *avoid changing* our conventional narrative[^fn50]. When the trail got rough, we imagined that our friend didn’t think that would be such a big deal for us. We thought about what she might think about us. 
 
 Once we begin trying to represent another person’s thoughts, we encounter the limitations of simple descriptions and “if-then” narratives. When we have to consider the inner workings of another conscious actor in any detail, we need a model to do so. 
 
@@ -1015,32 +1309,60 @@ Since this is a hypothetical story, with a hypothetical friend, we won’t write
 
 #### Model 1.1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2, C3
-
-Actor 2             Your friend when    Self, W2, C1
-                    she wrote the map 
-
-Work 1              A1: Follow the      A1
-                    directions on the 
-                    map (C2)  
-
-Work 2              A1: Do CLA on       A1, W1, C1, C3
-                    Model 1.1
-
-Context 1           The map             A1, W1, C2 
-
-Context 2           The park            A1, W1, W2, C1
-
-Context 3           Model 2 - Your      Self, A1, A2, W1,   
-                    friend              W2, W3, W1
-
------------------------------------------------------------
-
 *Project:* Hike to the secret lake with unreliable directions 
+
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2, C3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">Your friend when she wrote the map</td>
+<td style="text-align: left;">Self, W2, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Do CLA on Model 1.1</td>
+<td style="text-align: left;">A1, W1, C1, C3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+<td style="text-align: left;">A1, W1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">The park</td>
+<td style="text-align: left;">A1, W1, W2, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 3</td>
+<td style="text-align: left;">Model 2 - Your friend</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, W3, W1</td>
+</tr>
+</tbody>
+</table>
 
 
 The way we think about other people is a prime example of how we are able to think with models without making their every detail explicit. With those we know, we may possess a developed set of behaviors that closely resemble their real behavior that we can apply to questions of what they would or would not think and do. With those we don’t --- or refuse to --- know, we mentally represent them with what amounts to conceptual spare parts. The dangers of thinking of people as a collection of un-interrogated broad ideas, is demonstrated every day in every country.
@@ -1057,34 +1379,70 @@ There is another complex component that is only represented in shorthand in Mode
 
 #### Model 1.1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2, C3
-Actor 2             Your friend when    Self, W2, C1
-                    she wrote the map 
-Work 1              A1: Follow the      A1
-                    directions on the 
-                    map (C2)  
-Work 2              A1: Imagine what    A1, W1, C1, C3
-                    your friend (A2) 
-                    was thinking (C3) 
-Work 3              A2: Make a map      A2, C1, W1
-                    (C2) for A1 to 
-                    follow 
-Work 4              Understand C2       Self, M1, W1, W2, 
-                                        W3, C1, C2, C3
-Context 1           The map             A1, W1, C2
-Context 2           Model 3 - The park  A1, A2 W1, W2, 
-                                        C1, C3
-Context 3           Model 2- Your       Self, A1, A2, 
-                    friend’s state      W1, W2, W3, W1
-                    of mind             
------------------------------------------------------------
-
 *Project:* Hike to the secret lake with unreliable directions 
 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2, C3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">Your friend when she wrote the map</td>
+<td style="text-align: left;">Self, W2, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Imagine what your friend (A2) was thinking (C3)</td>
+<td style="text-align: left;">A1, W1, C1, C3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 3</td>
+<td style="text-align: left;">A2: Make a map (C2) for A1 to follow</td>
+<td style="text-align: left;">A2, C1, W1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 4</td>
+<td style="text-align: left;">Understand C2</td>
+<td style="text-align: left;">Self, M1, W1, W2, W3, C1, C2, C3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+<td style="text-align: left;">A1, W1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">Model 3 - The park</td>
+<td style="text-align: left;">A1, A2 W1, W2, C1, C3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 3</td>
+<td style="text-align: left;">Model 2- Your friend’s state of mind</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, W3, W1</td>
+</tr>
+</tbody>
+</table>
 
 While this is our working model, W4 is our preoccupying task. If we only imagine that the lake could have changed, we should refine our context to refer to the lake only rather than all of the woods. But, as it turns out, this more general model contains the possibility that explains our situation. The lake didn’t change, but the cliff did. 
 
@@ -1104,25 +1462,55 @@ If the woods are the component that behaves unexpectedly, you can go back to tru
 
 #### Model 1.x
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2
-Work 1              A1: Follow the      A1
-                    directions on 
-                    the map (C1)
-Work 2              A1: Compare M3      A1, W1, C1 
-                    to C1
-Work 3              Understand C2       Self, M1, W1, W2, 
-                                        W3, C1, C2
-Context 1           The map             A1, W1, C2
-Context 2           Model 3 - The park  A1, A2, W1, W2, C1 
-                                        M3
------------------------------------------------------------
-
 *Project:* Hike to the spot your friend went to and remain aware of changes to the park
 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C1)</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Compare M3 to C1</td>
+<td style="text-align: left;">A1, W1, C1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 3</td>
+<td style="text-align: left;">Understand C2</td>
+<td style="text-align: left;">Self, M1, W1, W2, W3, C1, C2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+<td style="text-align: left;">A1, W1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">Model 3 - The park</td>
+<td style="text-align: left;">A1, A2, W1, W2, C1 M3</td>
+</tr>
+</tbody>
+</table>
 
 
 This is what Conceptual Labor Analysis should do for us --- systematically navigate our models so that we can discern which component or model needs to be expanded or better-articulated. 
@@ -1131,26 +1519,50 @@ We can simplify this model further
 
 #### Model 1.x
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             You                 Self, M1, W1, W2, 
-                                        C1, C2
-Work 1              A1: Follow the      A1
-                    directions on 
-                    the map (C1)
-Work 2              A1: Pay close       A1, C1
-                    attention to the 
-                    parts of the park 
-                    that correspond 
-                    to the map (C1) 
-Context 1           The map             A1
-Context 2           Your observations   A1
-                    of the park 
------------------------------------------------------------
-
 *Project:* Hike to the spot your friend went to and remain aware of changes to the park
 
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">You</td>
+<td style="text-align: left;">Self, M1, W1, W2, C1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C1)</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Pay close attention to the parts of the park that correspond to the map (C1)</td>
+<td style="text-align: left;">A1, C1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">The map</td>
+<td style="text-align: left;">A1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">Your observations of the park</td>
+<td style="text-align: left;">A1</td>
+</tr>
+</tbody>
+</table>
 
 Our work expects dynamic contexts, so context changes cannot loop back to change work. Our critical reading of C1 and our personalized definition of C2 can accommodate unexpected results from doing W1 and W2 without changing the definitions of our components. Put another way, we expect to learn as we hike. Any conceptual labor that happens in the process would do so in a closed-loop that does not challenge the structure of this high-level model.
 
@@ -1158,47 +1570,78 @@ With a little bit of W1 and W2, you can confidently settle back to a conventiona
 
 You follow the directions, paying close attention, through the woods.
 
-\pagebreak
+
+---
+
+
+
 
 ## Case Study: What is Programming?
 
-The journey in our example may be straightforward, but many of us are more likely to find ourselves lost in a virtual wilderness, losing trust in our electronic maps --- user interfaces. Even when they are designed to help us accomplish a certain goal, we often find ourselves laboring to understand them rather than use them[^fn50].
+The journey in our example may be straightforward, but many of us are more likely to find ourselves lost in a virtual wilderness, losing trust in our electronic maps --- user interfaces. Even when they are designed to help us accomplish a certain goal, we often find ourselves laboring to understand them rather than use them[^fn51].
 
 In his 2012 talk, *Inventing on Principle*, interface designer Brett Victor said something about programming computers that may resonate with readers who have felt this way.
 
-> In order to write code... you essentially have to *play* *computer*. You have to simulate in your head what each line of code *would* do on a computer. And to a large extent, the people that we consider to be skilled software engineers are just those people that are really good at playing computer. But if we’re writing our code, on a computer, why are we simulating what a computer would do in our head? Why doesn’t the computer just do it, and show us? TODO CITE
+> In order to write code... you essentially have to *play* *computer*. You have to simulate in your head what each line of code *would* do on a computer. And to a large extent, the people that we consider to be skilled software engineers are just those people that are really good at playing computer. But if we’re writing our code, on a computer, why are we simulating what a computer would do in our head? Why doesn’t the computer just do it, and show us? [^fn52]
 
-Of course, filling out a basic form isn’t the same as writing code. But if, as Victor says, “playing computer” is important, legitimate work to a coder, we can see that some of it sneaks into the conceptual labor we are forced to do to interact with a faulty interface[^fn51]. With that in mind, we could create a high-level model that meaningfully describes both the labor of a coder or a frustrated computer user.
+Of course, filling out a basic form isn’t the same as writing code. But if, as Victor says, “playing computer” is important, legitimate work to a coder, we can see that some of it sneaks into the conceptual labor we are forced to do to interact with a faulty interface[^fn53]. With that in mind, we could create a high-level model that meaningfully describes both the labor of a coder or a frustrated computer user.
 
 #### Model 1
 
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 2             The Computer        Self, A2, W1, W2, 
-                                        C2, C3
-Work 1              Provide the correct Self, A1, A2, W2, 
-                    instructions in     C1, C2
-                    the correct format 
-
-Work 2              (A1) Interpret the  Self, A1, W1, C1, 
-                    behavior of A2.     C2
-
-Work 3              (A2) Interpret the  Self, A1, A2, W1,
-                    input of A1 (W1)    W2, C1, C2
-
-Context 1           What you think      Self, A1, A2, W1, 
-                    you’re doing        W2
-
-Context 2           A1's understanding  Self, A1, W1, W2,
-                    of A2's behavior    C1, C2
-                    and C3 
-
-Context 3           A2's interpretive   A1, A2, W1, W2, 
-                    conditions          C1, C2
------------------------------------------------------------
-
 *Project:* Make a computer do what you want
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">The Computer</td>
+<td style="text-align: left;">Self, A2, W1, W2, C2, C3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">Provide the correct instructions in the correct format</td>
+<td style="text-align: left;">Self, A1, A2, W2, C1, C2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">(A1) Interpret the behavior of A2.</td>
+<td style="text-align: left;">Self, A1, W1, C1, C2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 3</td>
+<td style="text-align: left;">(A2) Interpret the input of A1 (W1)</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, C1, C2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">What you think you’re doing</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Context 2</td>
+<td style="text-align: left;">A1’s understanding of A2’s behavior and C3</td>
+<td style="text-align: left;">Self, A1, W1, W2, C1, C2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 3</td>
+<td style="text-align: left;">A2’s interpretive conditions</td>
+<td style="text-align: left;">A1, A2, W1, W2, C1, C2</td>
+</tr>
+</tbody>
+</table>
+
 
 
 Ideally, a computer *user* wouldn’t have to “play computer” as much as a coder, and this model would be much simpler for them. But, of course, coders are computer users too. The Theory reduces this confusion by allowing us to think of anyone doing labor described by this model as an actor, and worry about labels later. 
@@ -1233,28 +1676,40 @@ Code is "making" because we've figured out how to package it up into discrete un
 
 But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
 
-Chachra’s reference to the Chinese room argument [^fn52] evokes a high-level model which can plausibly apply to both coding and education, much in the same way that we proposed our first model to relate to Victor’s example. Searle’s argument imagines a Turing test administered by a Chinese speaker slipping notes under a door to an unseen party on the other side. As long as the mystery actor inside the room replied in fluent Mandarin, we would think they “knew” the language even if they were just following the instructions of a computer that could perfectly parse conversational Mandarin. Philosophical implications aside, Chachra’s use of this metaphor closely follows the process behind Conceptual Labor Analysis here by reconfiguring a model of labor in an effort to more deeply understand some of its components. In this case, she creates a shared context so that we may contrast the work and the actors.
+Chachra’s reference to the Chinese room argument [^fn54] evokes a high-level model which can plausibly apply to both coding and education, much in the same way that we proposed our first model to relate to Victor’s example. Searle’s argument imagines a Turing test administered by a Chinese speaker slipping notes under a door to an unseen party on the other side. As long as the mystery actor inside the room replied in fluent Mandarin, we would think they “knew” the language even if they were just following the instructions of a computer that could perfectly parse conversational Mandarin. Philosophical implications aside, Chachra’s use of this metaphor closely follows the process behind Conceptual Labor Analysis here by reconfiguring a model of labor in an effort to more deeply understand some of its components. In this case, she creates a shared context so that we may contrast the work and the actors.
 
-Is that context usefully articulated? Teaching, of course, doesn’t have to happen in a classroom, so, yes, it could technically happen by way of notes passed under a door[^fn53]. Maybe that would be a very slow way to learn, but if education has a minimum speed then a lot of what happens at schools wouldn’t count. How about programming? 
+Is that context usefully articulated? Teaching, of course, doesn’t have to happen in a classroom, so, yes, it could technically happen by way of notes passed under a door[^fn55]. Maybe that would be a very slow way to learn, but if education has a minimum speed then a lot of what happens at schools wouldn’t count. How about programming? 
 
-Victor’s work has already produced strong examples of how to program without touching a digital computer[^fn54], but we can find a mainstream example in the tech-world convention of the whiteboard interview. In it, interviewees are often challenged to demonstrate how they would solve a computer science problem --- in relevant detail --- on a whiteboard. Whether or not this is an effective interview practice, its popularity demonstrates a practical acceptance of the idea that the conceptual labor of programming can be meaningfully done, at least in part, with a pen.
+Victor’s work has already produced strong examples of how to program without touching a digital computer[^fn56], but we can find a mainstream example in the tech-world convention of the whiteboard interview. In it, interviewees are often challenged to demonstrate how they would solve a computer science problem --- in relevant detail --- on a whiteboard. Whether or not this is an effective interview practice, its popularity demonstrates a practical acceptance of the idea that the conceptual labor of programming can be meaningfully done, at least in part, with a pen.
 
 So we can imagine a programmer and an educator, standing side by side in front of an ornate door, each slipping notes inside to ply their trade. Chachra has already defined the fundamental work that they each must do for the mysterious actor behind the door: “change their cognition, abilities, and behaviors.” The written model of this labor would similar enough to M1 that the Conceptual Labor Analysis to write it out is another exercise for willing readers.
 
 Being able to imagine such a model means we can compare it to other models or reconfigure it to articulate specific definitions of labor --- in this case “making.” This is exactly what Chachra does --- she asks what difference it makes to do this work with people rather than computers, whether the actor is a man or a woman, and whether or not the work creates a fungible product. Having done this Conceptual Labor Analysis on her own terms she concludes:
 
-I am not a maker. In a framing and value system that is about creating artifacts, specifically ones you can sell, I am a less valuable human. As an educator, the work I do is superficially the same, year on year. That’s because all of the actual change, the actual effects, are at the interface between me as an educator, my students, and the learning experiences I design for them. 
+> I am not a maker. In a framing and value system that is about creating artifacts, specifically ones you can sell, I am a less valuable human. As an educator, the work I do is superficially the same, year on year. That’s because all of the actual change, the actual effects, are at the interface between me as an educator, my students, and the learning experiences I design for them.[^fn57]
 
 Here, too, she carefully articulates the context of education to discern a narrative that hides the actual product of her labor --- educated humans. It’s not that the work the programmer does by passing notes under the door turns into something and the work of the educator goes into a black hole. It’s just that the work that happens in the context of a human mind is “deeper, richer, messier, less reproducible, immeasurably more difficult.” Certainly, it’s worth the effort to learn to see such labor clearly.
 
 
 
-\pagebreak
+
+---
+
+
+
 # The Theory, Expanded
-\pagebreak
+
+---
+
+
+
 
 ## Tenets 1 & 2: Modeling Labor
-\pagebreak
+
+---
+
+
+
 
 ### Summary
 
@@ -1279,17 +1734,21 @@ Here, too, she carefully articulates the context of education to discern a narra
    
 
 
-Tenet 1 is the core proposition of the Theory --- that we can imagine a useful and dynamic representation of labor --- a model --- and that we can place the fundamental parts of that representation into three distinct categories.
+Tenet 1 is the core proposition of the Theory --- that we can imagine a useful and dynamic representation of labor --- a model --- and that we can place the fundamental parts of that representation into three distinct categories. Tenet 2 acknowledges that individuals are the ones doing the imagining, each operating with models of their own conception.
 
 Given any description of a project, we cannot assume that everyone who does the work it demands will understand it in the terms and structure used by that description. Nor can we assume that the description is exhaustive for all circumstances. Even when labor is thought to be “brainless” and routine, we review the conditions of a project and load them into our own mental model. Though this model may refer to external instructions or materials, our models are what we directly engage with.
 
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
-> What is the end result of perception? What is the output of linguistic comprehension? How do we anticipate the world, and make sensible decisions about what to do? What underlies thinking and reasoning? One answer to these questions is that we rely on mental models of the world. Perception yields a mental model, linguistic comprehension yields a mental model, and thinking and reasoning are the internal manipulations of mental models[^fn55]. 
+> What is the end result of perception? What is the output of linguistic comprehension? How do we anticipate the world, and make sensible decisions about what to do? What underlies thinking and reasoning? One answer to these questions is that we rely on mental models of the world. Perception yields a mental model, linguistic comprehension yields a mental model, and thinking and reasoning are the internal manipulations of mental models[^fn58]. 
 
 --- Philip Johnson-Laird
 
@@ -1297,33 +1756,37 @@ A profound divide separates how we experience work as individuals, and the role 
 
 There is no guarantee that an individual’s experience of doing work will match the way they are told it should be done, how the results of their efforts will be perceived, or even their own explanation --- to themselves or others --- of what they were doing and why.
 
-Every job, every problem, every new thing to learn has to be translated from its external conditions into whatever internal language an individual worker uses to comprehend and accomplish *work*. The conventional narrative of work subjugates this thought process to the external conditions of work, as if an individual’s mind is a black box whose only requirement is that it contain whatever machinery is necessary to process the appropriate inputs into the desired output. The Theory describes how it is the other way round in conceptual labor --- that the outcome of work is a property of the worker’s mind.
+Every project, every problem, every new thing to learn has to be translated from its external conditions into whatever internal language an individual worker uses to comprehend and accomplish *work*. The conventional narrative of work subjugates this thought process to the external conditions of work, as if an individual’s mind is a black box whose only requirement is that it contain whatever machinery is necessary to process the appropriate inputs into the desired output. The Theory describes how it is the other way round in conceptual labor --- that the outcome of work is a property of the worker’s mind.
 
 Tenet 1 declares that, inside that black box, the individual’s state of mind reflects the external qualities of work through what we call a model, and their experience of creating and interacting with that model is significant to their labor. While we can identify three basic categories in which to sort the components of any model, Tenet 2 declares that the actual composition and “feel” of models will vary from one person to the next. Whatever form it takes, an individual’s model is the interface through which they do work. The decisions made, actions taken, and understanding developed by an individual in the course of their work are organized within the paradigm of their specific, up-to-the-second model.
 
 The Core Concepts in this section articulate the significant implications that follow from defining an individual’s experience of work in a detailed model.
 
-\pagebreak
+
+---
+
+
+
 
 ### Tenet 1: Work can be modeled with fundamental components
 
 ---------------------------------
 
-The concept of a “mental model” has a well-defined presence in many disciplines including cognitive science, psychology, human-computer interaction, and system dynamics. A handy summary of the history and current state of mental models can be found in the literature review of a 2016 study that asked middle-school students to draw their mental models of Google[^fn56].
+The concept of a “mental model” has a well-defined presence in many disciplines including cognitive science, psychology, human-computer interaction, and system dynamics. A handy summary of the history and current state of mental models can be found in the literature review of a 2016 study that asked middle-school students to draw their mental models of Google[^fn59].
 
 > The modern conceptualization of ‘‘mental model’’ dates back to Scottish psychologist Kenneth Craik (1943), who defined mental models as ‘‘small-scale models’’ of reality (Johnson- Laird 1989; Westbrook 2006)....Doyle and Ford (1998) analyzed these varying definitions and proposed the following conceptual definition based on how the term was most commonly being used within the field of System Dynamics: ‘‘A mental model of a dynamic system is a relatively enduring and accessible, but limited, internal conceptual representation of an external system whose structure maintains the perceived structure of that system’’ (p. 17). A more broadly applicable definition of mental models is offered by Besnard et al. (2004): ‘‘simplified, cognitively acceptable versions of a too-complex reality’’ (p. 119). 
 
-Cited above, Johnson-Laid’s article, *The History of Mental Models*[^fn57], traces the multiple origins of similar theories to the late 1800s. Johnson-Laird’s work largely founded contemporary psychological Model Theory, which has grown into an international network[^fn58] of researchers continuing to develop the field. The literature of Model Theory is rich, ranging from scientific papers[^fn59] to books for general audiences[^fn60], and should be rewarding reading for anyone interested in conceptual labor.
+Cited above, Johnson-Laid’s article, *The History of Mental Models*[^fn60], traces the multiple origins of similar theories to the late 1800s. Johnson-Laird’s work largely founded contemporary psychological Model Theory, which has grown into an international network[^fn61] of researchers continuing to develop the field. The literature of Model Theory is rich, ranging from scientific papers[^fn62] to books for general audiences[^fn63], and should be rewarding reading for anyone interested in conceptual labor.
 
 Much of Model Theory overlaps with the parallel concept of mental models in user interface design and the field of human-computer interaction, or HCI.
 
-> Donald Norman (1983), who subsequently coined the highly relevant term/philosophy ‘‘user-centered design,’’ adapted the term ‘‘mental model’’ for the field of human--computer interaction.... Norman described mental models as people’s continuously evolving cognitive representations of a system that incorporate their beliefs regarding the way the system works. Norman emphasized that a person’s mental model of a particular system both guides his/her use of the system and is iteratively (re)informed by his/her interactions with the system across time[^fn61]. 
+> Donald Norman (1983), who subsequently coined the highly relevant term/philosophy ‘‘user-centered design,’’ adapted the term ‘‘mental model’’ for the field of human--computer interaction.... Norman described mental models as people’s continuously evolving cognitive representations of a system that incorporate their beliefs regarding the way the system works. Norman emphasized that a person’s mental model of a particular system both guides his/her use of the system and is iteratively (re)informed by his/her interactions with the system across time[^fn64]. 
 
-More recently, a pop-psychology interpretation of mental models has gained traction in the self-help and entrepreneurial fields[^fn62]. There, models are presented much like apps, with defined sets of features which they will provide the user once installed, with fairly predictable input and output. Were these models software, they would be considered very “high-level” programs. (Code that executes closer to the machine language that runs the physical computer is, perhaps counter-intuitively, called “low level.”) While useful to many from a self-educational standpoint, presenting models in this way restricts them to a scale and rigidness that, ultimately, isn’t fully compatible with the lower level at which models must operate in the Theory.
+More recently, a pop-psychology interpretation of mental models has gained traction in the self-help and entrepreneurial fields[^fn65]. There, models are presented much like apps, with defined sets of features which they will provide the user once installed, with fairly predictable input and output. Were these models software, they would be considered very “high-level” programs. (Code that executes closer to the machine language that runs the physical computer is, perhaps counter-intuitively, called “low level.”) While useful to many from a self-educational standpoint, presenting models in this way restricts them to a scale and rigidness that, ultimately, isn’t fully compatible with the lower level at which models must operate in the Theory.
 
-Continuing the metaphor, we could say that models in the Theory sit somewhere between the lower level Model Theory and higher-level models of HCI. Model Theory aims to empirically describe qualities of how the human mind operates and interacts with the world, so the rules for its models are borne of research and data. HCI certainly employs rigorous observation in its work with models, but the end use of such data is much more specific --- to “provide predictive and explanatory power for understanding the interaction[^fn63]” between a person and technology. Similarly, the Theory is organized around practical description and useful prediction rather than discovering and describing true principles of human psychology and neurology; however, it aims to provide a framework that operates at a low-enough level that it can describe the interaction between a person and a task of any kind or size that they have set themselves to.
+Continuing the metaphor, we could say that models in the Theory sit somewhere between the lower level Model Theory and higher-level models of HCI. Model Theory aims to empirically describe qualities of how the human mind operates and interacts with the world, so the rules for its models are borne of research and data. HCI certainly employs rigorous observation in its work with models, but the end use of such data is much more specific --- to “provide predictive and explanatory power for understanding the interaction[^fn66]” between a person and technology. Similarly, the Theory is organized around practical description and useful prediction rather than discovering and describing true principles of human psychology and neurology; however, it aims to provide a framework that operates at a low-enough level that it can describe the interaction between a person and a task of any kind or size that they have set themselves to.
 
-Both paradigms describe models in many ways that support the assertions of the Theory. That models are personalized and must be represented carefully to be understood. That using and updating models is a cyclical process. That models provide more deductive conclusions than can be easily considered all at once by the author of the model. That we can use our prior experience formulate novel explanations from incomplete information[^fn64].
+Both paradigms describe models in many ways that support the assertions of the Theory. That models are personalized and must be represented carefully to be understood. That using and updating models is a cyclical process. That models provide more deductive conclusions than can be easily considered all at once by the author of the model. That we can use our prior experience formulate novel explanations from incomplete information[^fn67].
 
 The Theory’s major departure from either discipline is in constructing models with the three types of fundamental components. This is a practical rather than empirical matter --- the Theory doesn’t intend to prove that, from a neurological standpoint, there are only these three components of all mental models. Rather, it intends to present a coherent and useful conceptual framework that proceeds from interpreting of our experience of labor according to these three categories. The purpose of the Theory is to assist in comprehending and using one’s own mental models to solve problems, accomplish projects, and self-educate. So conceptual labor should be compatible with Model Theory, the work of HCI, and most other fields that attend to mental models. It is not meant as a referendum on the conclusions of any field’s research, but as a complementary model-of-models to be used in the furtherance of labor of all kinds.
 
@@ -1360,21 +1823,28 @@ There are assumptions or beliefs hidden within the definition of what a “map�
 
 An expanded definition of `Context 1 The Map` from our model would include the following beliefs:
 
-|  The Map 
-|     which:
-|      accurately represents open, passable trails 
-|       which:
-|         lead to where you are going
-|         leaves out information you do not need
-|         does not leave out information you do need
+_The Map_
 
-Put this way, we can see that a map drawn by a friend is more like a transit map[^fn65] than a geographic record.
+> which: 
+>> accurately represents open, passable trails 
+>>> which:
+>>>> lead to where you are going
+
+>>>> leaves out information you do not need
+
+>>>> does not leave out information you do need
+
+Put this way, we can see that a map drawn by a friend is more like a transit map[^fn68] than a geographic record.
 
 These are reasonable things to believe about the map, but they are still beliefs. The map could neither tell you about itself nor update its own content, so we had no outside verification of the definition of this context beyond our observations. When we began to doubt our beliefs, we had to interrogate this context. When we say a map “says” or “shows” something, we treat it as a proxy for the beliefs of its creator. Hence the necessity of adding `Context 3 - Model 2 - Your friend`. 
 
-Context is potentially the most complex of the fundamental components, since our beliefs about the world and our interactions with it often contain many complex models themselves[^fn66]. When interrogating a context we are not entirely certain of, we are almost guaranteed to find relevant models within it which we have not yet fully defined to ourselves. 
+Context is potentially the most complex of the fundamental components, since our beliefs about the world and our interactions with it often contain many complex models themselves[^fn69]. When interrogating a context we are not entirely certain of, we are almost guaranteed to find relevant models within it which we have not yet fully defined to ourselves. 
 
-\pagebreak
+
+---
+
+
+
 ### Tenet 2: Individuals experience work through a unique mental model
 
 ---------------------------------
@@ -1385,7 +1855,7 @@ Deconstructing our labor into the terms of the Theory is like diagramming a sent
 
 Were this not true, we wouldn’t see the countless workplace and classroom strategies designed to resolve the differences between how individuals conceive of a problem. Over the course of our labor as individuals, we constantly imagine new models filled with specific, momentary meaning. We can do so with shared or personal languages, non-verbal yet specific strategies, and with a freely mixed combination of emotional and rational responses. 
 
-#### We work according to our model of work[^fn67]. 
+#### We work according to our model of work[^fn70]. 
 
 When we construct these models to work through, they necessarily imply judgements of what is and isn’t legitimate work. At any given moment while working, we strive to do what we consider to be work and to not do anything that we think will get in its way. If we are not passing judgement with our conscious minds, we may do so with our hands simply by where we choose to place them on our materials and tools.
 
@@ -1395,7 +1865,7 @@ The Theory emphasizes the individual’s experience as a defining quality of wor
 
 An individual activates other actors by attempting to understand their behavior. The unseen walls of a maze may stand still, but to someone building a mental model by which to navigate, the imagined walls constantly shift places as they work their way through. This isn’t to say that we must invent a whole personality for non-human actors, but that we can reasonably expect self-talk that affords agency to relevant parts of the outside world such as “the maze goes this way” or, in the case of our map “this path might not be the one I think it is.”
 
-Statements like these are a way of recognizing that existing conditions can be activated by our labor in unknown and dynamic ways. In the Theory, we call these externalities that we perceive[^fn68] the context. By definition, context is entirely dependent on an individual’s understanding of it.
+Statements like these are a way of recognizing that existing conditions can be activated by our labor in unknown and dynamic ways. In the Theory, we call these externalities that we perceive[^fn71] the context. By definition, context is entirely dependent on an individual’s understanding of it.
 
 The designers of our maze aren’t *doing* anything while we walk it, but if we find out that they were drunk when they made it, everything around us will seem to change in that moment of clarity. 
 
@@ -1405,7 +1875,7 @@ It’s no great revelation that what we know and understand can affect our labor
 
 Statements such as “I’m doing this” or “I should do that next,” and their implied conceptual structures construct the mental reality of labor. External qualities of the work are contextualized within this mental reality. This includes evidence of the effects of one’s labor, belief in the the necessity of it, and systematic theories of how one does that labor.
 
-The simplest demonstration of this concept is an experience we have all had at some point --- that of feeling effective while you work only to later discover that you made no progress. This concept is just another outcome of the executive functions of the human brain. Our mind weaves a coherent narrative from observations and experiences which are only a small sample of the world around us. These narratives are anything but reliable or complete. In fact, many disciplines are occupied with the study of how our minds fill in the gaps, including neuropsychology, visual studies, and artificial intelligence[^fn69]. 
+The simplest demonstration of this Concept is an experience we have all had at some point --- that of feeling effective while you work only to later discover that you made no progress. This Concept is just another outcome of the executive functions of the human brain. Our mind weaves a coherent narrative from observations and experiences which are only a small sample of the world around us. These narratives are anything but reliable or complete. In fact, many disciplines are occupied with the study of how our minds fill in the gaps, including neuropsychology, visual studies, and artificial intelligence[^fn72]. 
 
 When we recognize that labor is a narrative constructed by an individual, we can see that the “reality” of that narrative is a function of an individual’s perceptions, beliefs and actions as much as it is a reflection of factual conditions.
 
@@ -1430,7 +1900,7 @@ Work does not just happen within models --- it also happens *to* them. This is f
 
 ##### Conceiving of work is hard work
 
-This concept is explored in depth in the section *Expertise Grows out of Conceptual Labor*.
+This Concept is explored in depth in the section *Expertise Grows out of Conceptual Labor*.
 
 ##### Models must be revealed 
 ##### Models must be compared against reality 
@@ -1438,7 +1908,7 @@ This concept is explored in depth in the section *Expertise Grows out of Concept
 
 The complexity of working models and our tendency to focus on the parts that matter most to us means that we can’t assume that we completely understand how they operate before we use them. 
 
-Our models are often constructed out of complex concepts that we have absorbed at over our lifetime, especially if we are working in an area which we have studied or trained in extensively. It is easy to assemble a mental model that leads us to surprising conclusions simply because it is hard to consider every possible outcome of a usefully-complex model[^fn70]. When we think of using a camera in a project, we may think of taking pictures before we think of charging its battery or cleaning its lenses. In the same way that we use computer programs or power tools to do work without knowing exactly how they operate, we don’t necessarily know everything about each concept we use to assemble a model, and often focus only on the features that are of use to us. Creating a mental model of work is a matter of imagination and perception as much at is a matter of skill or knowledge, and it is subject to all the hazards and critiques that we can apply to perceiving or imagining anything. 
+Our models are often constructed out of complex concepts that we have absorbed at over our lifetime, especially if we are working in an area which we have studied or trained in extensively. It is easy to assemble a mental model that leads us to surprising conclusions simply because it is hard to consider every possible outcome of a usefully-complex model[^fn73]. When we think of using a camera in a project, we may think of taking pictures before we think of charging its battery or cleaning its lenses. In the same way that we use computer programs or power tools to do work without knowing exactly how they operate, we don’t necessarily know everything about each concept we use to assemble a model, and often focus only on the features that are of use to us. Creating a mental model of work is a matter of imagination and perception as much at is a matter of skill or knowledge, and it is subject to all the hazards and critiques that we can apply to perceiving or imagining anything. 
 
 
 ### Case Study: Good Intentions and Propaganda
@@ -1493,7 +1963,7 @@ These matrices should not be read as an appeal to objective rationality. They do
 #### The Uses of Helping / Not Helpful
 
 
-The *Simple Sabotage Field Manual*[^fn71] can be read as a classic text on the uses of *Helping / Not Helpful.* Published during World War II by the Office of Strategic Services (the precursor to the CIA), the manual was a resource for citizen resistance in Axis-occupied countries. The tactics within conceal destructive activities behind the allure of the conventional narrative of labor. The plausibility of being a feckless or incompetent worker, earnestly but poorly doing “real work” easily overshadowed the reality of someone doing sophisticated conceptual labor to carefully manage the appearance and ultimate effect of their work.
+The *Simple Sabotage Field Manual*[^fn74] can be read as a classic text on the uses of *Helping / Not Helpful.* Published during World War II by the Office of Strategic Services (the precursor to the CIA), the manual was a resource for citizen resistance in Axis-occupied countries. The tactics within conceal destructive activities behind the allure of the conventional narrative of labor. The plausibility of being a feckless or incompetent worker, earnestly but poorly doing “real work” easily overshadowed the reality of someone doing sophisticated conceptual labor to carefully manage the appearance and ultimate effect of their work.
 
 Since declassified, the CIA has made the *Manual* available for download, noting that while some of the tactics are outdated, “others remain surprisingly relevant. Together they are a reminder of how easily productivity and order can be undermined.” The agency goes on to list classics, including:
 
@@ -1506,9 +1976,9 @@ This is an important, widespread trick, used by friend and enemy alike, that the
 
 This is the core mechanic of propaganda --- weaponizing a simple narrative to prevent conceptual labor. Political and social change and the accumulation of power all require ongoing, coordinated labor. To keep such complex operations on track, the individual models through which the converts work must be normalized and simplified. The active re-interpretation of work that conceptual labor requires is directly opposed to the entrenched agendas that propaganda serves.
 
-Propaganda’s relationship to how we think and talk about about work is apparent in the the sort of contemporary workplace sloganeering typified by Facebook’s infamous “Move Fast and Break Things.” While that individual slogan hasn’t survived the obvious question of “what did Facebook break?” the social media giant is still in the business of spreading reassuring narratives of work. This task was important enough that, until 2019, Facebook maintained a private print studio called the Analog Research Lab to create colorful, high-quality prints that say things like “Stay Focused And Keep Shipping” and “I Am So Thankful for You in My LIKE[^fn72].” The ur-message conveyed by the posters that make their way from the ARL to employees’ walls is *Your work has known, knowable and good results. You will make the world a better place.* Or even more simply put --- *You are helping and helpful.*
+Propaganda’s relationship to how we think and talk about about work is apparent in the the sort of contemporary workplace sloganeering typified by Facebook’s infamous “Move Fast and Break Things.” While that individual slogan hasn’t survived the obvious question of “what did Facebook break?” the social media giant is still in the business of spreading reassuring narratives of work. This task was important enough that, until 2019, Facebook maintained a private print studio called the Analog Research Lab to create colorful, high-quality prints that say things like “Stay Focused And Keep Shipping” and “I Am So Thankful for You in My LIKE[^fn75].” The ur-message conveyed by the posters that make their way from the ARL to employees’ walls is *Your work has known, knowable and good results. You will make the world a better place.* Or even more simply put --- *You are helping and helpful.*
 
-From the perspective of the Theory, the mechanism by which propaganda like these corporate slogans hijack our mental models of work is a simple one. Human actors are relieved of the conceptual labor to continuously define and understand the ultimate context in which they __work*.*__ It can be treated as a fixed quantity, nullifying Tenet 3, and the meaning and effect of all of their actions will proceed from the certainty of this context and inherit its norms and values.
+From the perspective of the Theory, the mechanism by which propaganda like these corporate slogans hijack our mental models of work is a simple one. Human actors are relieved of the conceptual labor to continuously define and understand the ultimate context in which they work. It can be treated as a fixed quantity, nullifying Tenet 3, and the meaning and effect of all of their actions will proceed from the certainty of this context and inherit its norms and values.
 
 If “connecting people” is the most abstract and basic purpose of all the labor of Facebook employees, and if that is an inherently good thing, then the missteps and questionable practices along the way can be excused because the “mission” is good. Of course there is no room in a busy work week to think “should I even be doing this work?” The challenges facing a Facebook employee can easily be complex and deep enough to exhaust their capacity for conceptual labor. So it’s a practical matter to make sure that workers’ critical powers are focused on the work that serves the agenda of the company and not on the structures and super-structures that contain that work. The friendly, colorful encouragement from an attractively designed poster on the office wall, appealing to deeper human motivations, keeps conceptual labor within appropriate boundaries.
 
@@ -1520,16 +1990,21 @@ This context-fixing mechanism is the same one that allows “normal” people to
 
 Propaganda needs to spread to succeed, so it has to install itself into the minds of individuals who will then repeat and reinforce its worldview. Converts no longer have to look at the posters --- they’re repeating the slogans in their own head. These slogans do Work in two directions at once. They forward a particular agenda, and they make the Actor’s adherence to that agenda more palatable by presenting a simplified Context fixed in place by euphemism and a promise of personal advancement. 
 
-To meet propaganda with conceptual labor is more than to simply “think different” or “question authority”. When doing conceptual labor, the workings of mental models must be revealed and compared with other models, including the model presented by real-world evidence[^fn73]. Propaganda models labor --- in politics it presents models of the labor performed in social relations and the interpretation of the law, and in our example it models the social effect of the work performed at a corporate job. It’s no use to argue against  individual points made by propaganda as long as the debate occurs within the worldview that the propaganda exists to maintain. Propaganda is adapted to resistance, meant to overwhelm, contain, and exhaust argument more than it is meant to prove anything.
+To meet propaganda with conceptual labor is more than to simply “think different” or “question authority”. When doing conceptual labor, the workings of mental models must be revealed and compared with other models, including the model presented by real-world evidence[^fn76]. Propaganda models labor --- in politics it presents models of the labor performed in social relations and the interpretation of the law, and in our example it models the social effect of the work performed at a corporate job. It’s no use to argue against  individual points made by propaganda as long as the debate occurs within the worldview that the propaganda exists to maintain. Propaganda is adapted to resistance, meant to overwhelm, contain, and exhaust argument more than it is meant to prove anything.
 
 Conceptual labor does not commit to a position. Conceptual labor is a continuous process, just as propaganda is, so it is the means by which we construct, critique, and work through models of a world that includes propaganda and self-concealing, bad-faith arguments. Revealing, comparing, and refining our own mental models, continuously as we work, is the most basic process of conceptual labor. If we refuse to do this labor, we can be convinced to believe things we would find repellant if we saw them clearly.
 
 
 
-\pagebreak
 
-## Tenets 3 & 4: Competing Narratives
-\pagebreak
+---
+
+## Tenets 3 & 4: Labor Changes
+
+---
+
+
+
 
 ### Summary
 
@@ -1547,25 +2022,32 @@ Conceptual labor does not commit to a position. Conceptual labor is a continuous
 * We resist conceptual labor for many reasons
 * It is difficult to redefine work at the rate at which it changes
 
-Though labor involves change by definition, it can still be systematized, described, and planned in effective ways if at least one of its fundamental components can be treated as a known quantity. This is Conventional Labor --- the work we do when we think we know what to do. In this type of work, being confused about the job is not part of the job.
+Though labor involves change by definition, it can still be systematized, described, and planned in effective ways if at least one of its fundamental components can be treated as a known quantity. This is conventional labor --- the work we do when we think we know what to do. In this type of work, being confused about the job is not part of the job.
 
-Tenet 3 declares that labor behaves much differently when “all components of a model are dynamic and interdependent” This is the most basic condition of Conceptual Labor --- when the Actor, Work, and Context are all able to change on their own accord, and changing one component will meaningfully the others. In this type of work, managing our environment, solving our confusion, coming up with new instructions, and executing them are all considered legitimate forms of work.
+However, work behaves much differently when all significant components are dynamic. When the actor, labor, and context are all able to change on their own accord, and able to change the other types of components, the work takes on another dimension. In this type of work, solving one’s confusion, coming up with new instructions, and executing them are all considered part of the same project.
 
-Tenet 4 states that “We tend towards models with static and well-defined components.” In other words, without questioning our beliefs about the conditions of our labor, we will default to the conventional narrative. Critically observing and responding to how and why you work is in itself a departure from conventional labor. There may be compelling reasons to stick with the conventional narrative, but it often turns out not to be true or useful. Conceiving of new, accurate narratives of work while it changes is not easy.
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
 ---------------------------------
 
-Tenet 3 declares that labor behaves much differently when “all components of a model are dynamic and interdependent” This is the most basic condition of Conceptual Labor --- when the Actor, Work, and Context are all able to change on their own accord, and changing one component will meaningfully the others. In this type of work, managing our environment, solving our confusion, coming up with new instructions, and executing them are all considered legitimate forms of work.
+Tenet 3 declares that labor behaves much differently when “all components of a model are dynamic and interdependent” This is the most basic condition of Conceptual Labor --- when the actor, work, and context are all able to change on their own accord, and changing one component will meaningfully change the others. In this type of work, managing our environment, solving our confusion, coming up with new instructions, and executing them are all considered legitimate forms of work.
 
 Tenet 4 states that “We tend towards models with static and well-defined components.” In other words, without questioning our beliefs about the conditions of our labor, we will default to the conventional narrative. Critically observing and responding to how and why you work is in itself a departure from conventional labor. There may be compelling reasons to stick with the conventional narrative, but it often turns out not to be true or useful. Conceiving of new, accurate narratives of work while it changes is not easy.
 
-\pagebreak
 
-### TODO SECTION HEAD
+---
+
+
+
+
+### Tenets 3 & 4: Labor Changes and We Must Change With It 
 
 #### Models embody beliefs
 
@@ -1573,13 +2055,13 @@ Listening for your own laughter is a good way to find evidence of this tenet. Da
 
 In each of these situations, think of when and why they might cause you to laugh at something other than a joke. Whether it come from frustration or delight, there is a type of laughter that marks the point when the idea we showed up with breaks to pieces as it collides with reality. Sometimes we watch an absurd but undeniable truth steamroll our perfectly reasonable expectations, and other times we realize that it’s our notions that are ridiculous. Or we simply discover that we had no idea what we were expecting.
 
-This follows from our previous concept that reminds us that we often are able to conceive of and interact with models that are too complex for us to completely understand all at once. However aware we are of our models, they express assumptions about the state of the outside world, our presence in it, and the conceptual landscape we project upon it. Models are the practical manifestation of the worldview that shapes their assumptions. If we are not completely convinced of this worldview, we must do conceptual labor --- we must sculpt our models, examine the beliefs that they embody, and test them against our observations and other potential models.
+This follows from our previous Concept that reminds us that we often are able to conceive of and interact with models that are too complex for us to completely understand all at once. However aware we are of our models, they express assumptions about the state of the outside world, our presence in it, and the conceptual landscape we project upon it. Models are the practical manifestation of the worldview that shapes their assumptions. If we are not completely convinced of this worldview, we must do conceptual labor --- we must sculpt our models, examine the beliefs that they embody, and test them against our observations and other potential models.
 
 #### We follow the conventional narrative if we believe that our model has as least one static component
 
 As soon as we are confident that we can meaningfully define at least one fundamental component of our model and rely on that definition not to change, we can weave a conventional narrative around it. Even if every other component is in chaos, we can at least plot a path from incomplete to complete using our finite component as a reference point. 
 
-In the process of doing conceptual labor, we may develop an understanding of our work, our circumstances, and ourselves that will clarify our model enough for us to find conventional narratives within its boundaries[^fn74]. Our conceptual labor can resolve enough questions and remove enough obstacles that we do figure out where we are going, and can predict what the path ahead will look like. 
+In the process of doing conceptual labor, we may develop an understanding of our work, our circumstances, and ourselves that will clarify our model enough for us to find conventional narratives within its boundaries[^fn77]. Our conceptual labor can resolve enough questions and remove enough obstacles that we do figure out where we are going, and can predict what the path ahead will look like. 
 
 Though the conventional narrative may seem like the opposite of conceptual labor, we can switch modes at any moment at any scope of a project. When trying something new, such as learning an instrument or playing a new sport, we shrink and expand our context in the process of drilling new skills into our memory. Doing so lets us focus our narrative on the portion of the whole project that we are immediately working on, so that we can crystalize formerly unclear activities into conventional labor that we can reliably accomplish. 
 
@@ -1599,9 +2081,9 @@ In the conventional narrative, there are two different kinds of work. The first 
 
 If we think this way as workers, then the first kind of work seems like the Real Work*.* “Real” Work is the work that applies directly to the fundamental needs of a job we wish to do. This is work that would exist whether or not we attempted to do it. A broken pipe must be fixed for plumbing to be done, a novel's words must be typed for writing to be done, data must be transferred for information to be communicated. The Real Work doesn’t have to be completely known, but it can be completely found out.
 
-The second kind of work is then determined not by the requirements of the job but by the qualities of the worker attempting to complete the job and by the conditions under which they work; how much there is to be found out depends on how much the worker does or doesn’t know. How much information needs to be revealed relies on what obstacles lie in their particular way. None of this, of course, is Real Work --- it is investigation or preparation. A perfect worker in perfect conditions would greet a job with total knowledge of what the job requires to be completed, and then do those things without hesitation.[^fn75]
+The second kind of work is then determined not by the requirements of the job but by the qualities of the worker attempting to complete the job and by the conditions under which they work; how much there is to be found out depends on how much the worker does or doesn’t know. How much information needs to be revealed relies on what obstacles lie in their particular way. None of this, of course, is Real Work --- it is investigation or preparation. A perfect worker in perfect conditions would greet a job with total knowledge of what the job requires to be completed, and then do those things without hesitation.[^fn78]
 
-This is the conventional, linear narrative of work, and it is the default --- if not preferred --- theory of work in most cases. In this theory, jobs are a context in which some conditions have not been met, and work is the process of changing things within that context to meet those conditions. There may be many different paths from start to finish, but this narrative says that these paths are straight by nature, and that they end (with a “thock, ” as Ursula K. LeGuin put it[^fn76]). If these paths appear circuitous, we blame our efforts to understand them or our working conditions for not being ideal. We feel that we've discovered one of these ideal paths when we say “That’s all I had to do?" after expending great effort on something that just wasn't working.
+This is the conventional, linear narrative of work, and it is the default --- if not preferred --- theory of work in most cases. In this theory, jobs are a context in which some conditions have not been met, and work is the process of changing things within that context to meet those conditions. There may be many different paths from start to finish, but this narrative says that these paths are straight by nature, and that they end (with a “thock, ” as Ursula K. LeGuin put it[^fn79]). If these paths appear circuitous, we blame our efforts to understand them or our working conditions for not being ideal. We feel that we've discovered one of these ideal paths when we say “That’s all I had to do?" after expending great effort on something that just wasn't working.
 
 The idea of Real Work is incompatible with Tenets 1 and 2 of The Theory. The time and effort individuals spend managing mental models would not count as Real Work, nor would the life experience that slowly constructed those models in the first place. Real Work, it seems, is obvious with common sense, so just do it.
 
@@ -1618,14 +2100,14 @@ Following the conventional narrative too far, even in good faith with “the bes
 
 Our tendency to avoid conceptual labor and our preference for models with at least one fixed component as stated by Tenet 4 causes systemic problems when work is as fluid as Tenet 3 describes.
 
-This brings us to our next core concept of Conceptual Labor
+This brings us to our next core Concept of Conceptual Labor
 
 #### We resist conceptual labor for many reasons
 
 
 The Core Concepts of Tenets 1 and 2 outlined the way in which doing conceptual labor can be difficult. Besides the fact that it’s generally easier work when you understand what you’re doing, there appears to be a deeply-rooted pattern of human psychology that resists the conceptual labor required to critique the conventional narrative of our behavior. 
 
-We can see evidence in the body of research supporting “dual-process[^fn77] theory,” which separates the mind into System 1 and System 2 thinking. Daniel Kahneman defined them this way in his popular *Thinking Fast, Thinking Slow*[^fn78]*:* 
+We can see evidence in the body of research supporting “dual-process[^fn80] theory,” which separates the mind into System 1 and System 2 thinking. Daniel Kahneman defined them this way in his popular *Thinking Fast, Thinking Slow*[^fn81]*:* 
 
  * System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.
  * System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration. 
@@ -1635,9 +2117,9 @@ A common thread of Kahneman’s work is how reluctant humans are by nature to en
   1. the myth that seeing provides a faithful record of the world in front of us
   2. the myth that seeing occurs automatically and without any thoughtful activity on our part
   3. the myth that our eyes are responsible for our sight
-  4. the myth that we can think without using our senses[^fn79]
+  4. the myth that we can think without using our senses[^fn82]
 
-Neuroscience has shown that the underlying, biological mechanics of how the brain tells a useful story of the world  are far less reliable and unbiased than we once thought[^fn80]. It seems that there is something about our brains that prefers to follow straightforward narratives rather than navigate the murky territory where we find conceptual labor.
+Neuroscience has shown that the underlying, biological mechanics of how the brain tells a useful story of the world  are far less reliable and unbiased than we once thought[^fn83]. It seems that there is something about our brains that prefers to follow straightforward narratives rather than navigate the murky territory where we find conceptual labor.
 
 While there is no end to the ways in which we can be enticed by a conventional narrative, our motivations to overlook conceptual labor often fall into one of the following categories.
 
@@ -1649,7 +2131,7 @@ Stakeholders in a certain narrative may characterize it as logically obvious as 
 ##### Strategy
 
 
-Even when knowing that conceptual labor is important and required for the work that you’re doing, there are real-world limits on how much exploration and questioning one can do. Many disciplines are defined by the structures put in place to manage and segregate conceptual labor from conventional labor[^fn81].
+Even when knowing that conceptual labor is important and required for the work that you’re doing, there are real-world limits on how much exploration and questioning one can do. Many disciplines are defined by the structures put in place to manage and segregate conceptual labor from conventional labor[^fn84].
 
 ##### Identity
 
@@ -1669,7 +2151,7 @@ Individuals doing labor understand it differently than observers watching them. 
 #### It is difficult to redefine work at the rate at which it changes  
 
 
-The subjectivity of the term “difficult” is relevant to this concept. For any way of working, easy tasks will be treated differently than difficult ones. This concept is simply a warning not to treat this task as easy.
+The subjectivity of the term “difficult” is relevant to this concept. For any way of working, easy tasks will be treated differently than difficult ones. This Concept is simply a warning not to treat this task as easy.
 
 Rate, here, is not a matter of speed as much as it is proportional, dependent change. Our actions set the tempo of our labor. We can imagine fast fluctuations in the context of musicians or surfers, but big, slow moving problems can outpace our ability to change our minds through pure complexity or depth. The implications of changing part of one’s worldview cascade quickly through the rest of it, and it is easy to be caught doing irrelevant or wrong-footed work while trying to update your working models.
 
@@ -1678,7 +2160,11 @@ If we think of adjusting a model and doing work as separate actions, trying to k
 
 
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Industrious Fictions
 
@@ -1688,16 +2174,16 @@ If we think of adjusting a model and doing work as separate actions, trying to k
 
 There is a tension between the assertions of Tenets 3 and 4. These two tenets say, essentially, that conceptual labor involves complex, multi-dimensional change, but as humans we prefer to do straightforward work. This tension drives many stories of best laid plans gone wrong, and can be useful in trying to understand what Horst Rittel and Melvin Weber called “wicked problems.”
 
-> The problems that scientists and engineers have usually focused upon are mostly "tame" or "benign" ones. As an example, consider a problem of mathematics, such as solving an equation; or the task of an organic chemist in analyzing the structure of some unknown compound; or that of the chessplayer attempting to accomplish checkmate in five moves. For each the mission is clear. It is clear, in turn, whether or not the problems have been solved. Wicked problems, in contrast, have neither of these clarifying traits; and they include nearly all public policy issues--whether the question concerns the location of a freeway, the adjustment of a tax rate, the modification of school curricula, or the confrontation of crime.[^fn82] 
+> The problems that scientists and engineers have usually focused upon are mostly "tame" or "benign" ones. As an example, consider a problem of mathematics, such as solving an equation; or the task of an organic chemist in analyzing the structure of some unknown compound; or that of the chessplayer attempting to accomplish checkmate in five moves. For each the mission is clear. It is clear, in turn, whether or not the problems have been solved. Wicked problems, in contrast, have neither of these clarifying traits; and they include nearly all public policy issues--whether the question concerns the location of a freeway, the adjustment of a tax rate, the modification of school curricula, or the confrontation of crime.[^fn85] 
 
 We can see the roots of this opposition in a deeper disconnect expressed by Tenets 1 and 2. While Tenet 1 lays out some terms to describe an individual’s experience of labor, Tenet 2 recognizes the boundless variation of that experience. The core concepts of Tenets 3 and 4 are borne out of the impossibility of understanding the subjects of our conceptual labor without critiquing the models that mediate our contact with them.
 
 #### Models embody beliefs
 
-The meme What People Think I Do / What I Really Do[^fn83] demonstrates this concept on a broad scale. Popular enough to merit its own generator[^fn84], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you did the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
+The meme What People Think I Do / What I Really Do[^fn86] demonstrates this Concept on a broad scale. Popular enough to merit its own generator[^fn87], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you did the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
 
-![Meme image by artist Garnet Hertz that popularized the format.](images/Hertz-original-600.jpeg)
-
+![Meme image by artist Garnet Hertz that popularized the format.](theory-text/images/Hertz-original-600.jpeg)
+*Meme image by artist Garnet Hertz that popularized the format.*
 
 When we sit down to work, we do so through a model of our labor in our head, and with it comes a variety of beliefs and assumptions. We work according to that model, subject to the implications of the picture it paints, whether we understand those implications or not. Anyone who has watched a robotic vacuum bash itself repeatedly into a corner has seen a real-world example of this.
 
@@ -1728,7 +2214,7 @@ A robot bashing into a wall does so within the conventional narrative, not from 
 
 A robot bumping into a wall *doesn’t know it’s wrong*. The most common reasons robotic home vacuums bash into furniture or walls are blocked sensors or lighting conditions that hide obstacles from the device. Our robot cannot avoid what it cannot see. It follows all of its rules perfectly within the worldview it is capable of assembling, and cannot critically observe its own behavior and beliefs “from the outside.” Since we can see the limits of a robot’s ability to do conceptual labor, we can see how the work it does beyond those limits defaults to a conventional narrative.
 
-Because there are fixed boundaries to how much the robot can change as an actor, its beliefs are inherently always “correct.” Because its work is also contained within a finite set of possible actions (however sophisticated those actions may be), it attempts the actions required to take incomplete work to a state of completeness even when they are ineffective. The context in which it works is even more confined than the rooms that it cleans --- it works entirely within a world of its own measurements and observations, lacking the ability to *generally* perceive and model its environment through abstract inferences[^fn85]. 
+Because there are fixed boundaries to how much the robot can change as an actor, its beliefs are inherently always “correct.” Because its work is also contained within a finite set of possible actions (however sophisticated those actions may be), it attempts the actions required to take incomplete work to a state of completeness even when they are ineffective. The context in which it works is even more confined than the rooms that it cleans --- it works entirely within a world of its own measurements and observations, lacking the ability to *generally* perceive and model its environment through abstract inferences[^fn88]. 
 
 There’s an obvious discrepancy between where walls are in the real world and where they are in the robot actor’s working model. But we would do well to remember that  “obvious” is a matter of perspective here. Even when many experienced, intelligent people collaborate in good faith to break big problems down into conventional narratives that can be solved, they can miss salient aspects of reality until it’s too late.
 
@@ -1740,7 +2226,7 @@ The proof of this is all around us. When we watch a robot bash into a wall from 
 ##### Example
 
 
-Something unexpected happened when the Millennium Bridge first opened to the London public in June of 2000.  Thousands of pedestrians flocked to the iconic walking bridge, and while it was certainly strong enough to hold all of them, it demonstrated “synchronous lateral excitation” --- it swayed an alarming distance from side to side. No weakness was found in the designs that could account for this behavior. The high-profile bridge “surpassed standards for withstanding weight and wind. Every nonhuman element had been tested.”[^fn86]
+Something unexpected happened when the Millennium Bridge first opened to the London public in June of 2000.  Thousands of pedestrians flocked to the iconic walking bridge, and while it was certainly strong enough to hold all of them, it demonstrated “synchronous lateral excitation” --- it swayed an alarming distance from side to side. No weakness was found in the designs that could account for this behavior. The high-profile bridge “surpassed standards for withstanding weight and wind. Every nonhuman element had been tested.”[^fn89]
 
 Modeling the human element was the key to an eventual solution. The bridge was designed for a degree of flexibility, but it flexed at a frequency that closely matched that of human walking. That shouldn’t be a problem with hundreds of pedestrians walking at their own rate, out of sync with each other. 
 
@@ -1748,80 +2234,114 @@ We could very reasonably model that situation, in accordance with a sophisticate
 
 #### Model 1
 
-
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             Hundreds of         Self
-                    individual 
-                    pedestrians         
-
-Actor 2             The Bridge          None 
-
-Work 1              A1:  Walk across    Self 
-                    the bridge 
-
-Work 2              A2: Respond to W1   None 
-                    within engineering 
-                    regulations 
-
-Context 1           A bridge full of    None
-                    pedestrians within 
-                    designated limits
-
------------------------------------------------------------
-
-
 **Project**: Get hundreds of pedestrians across a river
 
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">Hundreds of individual pedestrians</td>
+<td style="text-align: left;">Self</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">The Bridge</td>
+<td style="text-align: left;">None</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Walk across the bridge</td>
+<td style="text-align: left;">Self</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A2: Respond to W1 within engineering regulations</td>
+<td style="text-align: left;">None</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">A bridge full of pedestrians within designated limits</td>
+<td style="text-align: left;">None</td>
+</tr>
+</tbody>
+</table>
 
 Components’ ability to affect each other to a degree that is significant at this very high-level of modeling have been effectively engineered away. A bridge that could be significantly distorted by the crowds walking over it would not be erected in the first place. Whether it would even be considered a bridge is in question.
 
 However, the crowds spontaneously began to sync up with each other --- and the bridge.
 
-> It turns out[^fn87] that people walking on a bridge that starts to shift will instinctively adjust their stride to match the bridge's swaying motion as it lurches sideways. This will be familiar to anyone who has tried to walk on a fast-moving train and needed to find steady footing as the train wobbled from side to side. But on a bridge, this exacerbates the problem, giving rise to additional small sideways oscillations that amplify the swaying[^fn88].
+> It turns out[^fn90] that people walking on a bridge that starts to shift will instinctively adjust their stride to match the bridge's swaying motion as it lurches sideways. This will be familiar to anyone who has tried to walk on a fast-moving train and needed to find steady footing as the train wobbled from side to side. But on a bridge, this exacerbates the problem, giving rise to additional small sideways oscillations that amplify the swaying[^fn91].
 
-A feedback loop quickly emerged from the sidesteps of the crowd and the slight wobble of the bridge, creating a mass, synchronized rocking motion that caused the bridge to flex much more than expected. In videos of the event, the bridge appears to shake while pedestrians struggle to keep walking in a straight line. In reality, the pedestrians are the ones shaking the bridge, but they all adjust their gaits in time to maintain forward motion, resulting in massive, synchronized lateral forces[^fn89]. 
+A feedback loop quickly emerged from the sidesteps of the crowd and the slight wobble of the bridge, creating a mass, synchronized rocking motion that caused the bridge to flex much more than expected. In videos of the event, the bridge appears to shake while pedestrians struggle to keep walking in a straight line. In reality, the pedestrians are the ones shaking the bridge, but they all adjust their gaits in time to maintain forward motion, resulting in massive, synchronized lateral forces[^fn92]. 
 
 
 #### Model 1.1
 
-
------------------------------------------------------------
-Label               Component           Can affect
-------------------- ------------------- -------------------
-Actor 1             Hundreds of         Self, A2, W1, W2, 
-                    individual          W3, W4, C1
-                    pedestrians         
-
-Actor 2             The Bridge          A1, W1, W2, W4, C1 
-
-Work 1              A1:  Walk across    Self, A1, A2, W2, 
-                    the bridge          W3, W4, C1 
-
-Work 2              A1: Don’t fall down Self, A1, A2, W1,
-                                        W3, W4, C1
-
-Work 3              A2: Respond to W1   Self, A1, A2, W1, 
-                    within engineering  W2, W4 
-                    regulations 
-
-Work 4              A1: Respond to W3   Self, A1, A2, W1, 
-                                        W2, W3
-
-Context 1           A flexible bridge   Self, All
-                    full of pedestrians 
-                    within designated 
-                    limits responding 
-                    to each other and 
-                    trying not to fall 
-                    down
-
------------------------------------------------------------
-
-
 **Project**: Get hundreds of pedestrians across a river
 
+<table style="width:83%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Can affect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Actor 1</td>
+<td style="text-align: left;">Hundreds of individual pedestrians</td>
+<td style="text-align: left;">Self, A2, W1, W2, W3, W4, C1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Actor 2</td>
+<td style="text-align: left;">The Bridge</td>
+<td style="text-align: left;">A1, W1, W2, W4, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Walk across the bridge</td>
+<td style="text-align: left;">Self, A1, A2, W2, W3, W4, C1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 2</td>
+<td style="text-align: left;">A1: Don’t fall down</td>
+<td style="text-align: left;">Self, A1, A2, W1, W3, W4, C1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Work 3</td>
+<td style="text-align: left;">A2: Respond to W1 within engineering regulations</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, W4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Work 4</td>
+<td style="text-align: left;">A1: Respond to W3</td>
+<td style="text-align: left;">Self, A1, A2, W1, W2, W3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Context 1</td>
+<td style="text-align: left;">A flexible bridge full of pedestrians within designated limits responding to each other and trying not to fall down</td>
+<td style="text-align: left;">Self, All</td>
+</tr>
+</tbody>
+</table>
 
 
 The changes here all seem obvious --- of course pedestrians don’t want to fall down, of course they will respond to a movement in a bridge, of course they are all human with human instincts. It’s the way that those obvious yet significant qualities can all affect each other that created the emergent behavior that shook the bridge. The bridge eventually re-opened with an asymmetrical set of dampers to prevent regular patterns of flexion.
@@ -1836,11 +2356,11 @@ Conventional, fixed, or stereotypical narratives can be useful illusions. By foc
 
 We can find troubling examples of this in any profession. Nonprofits and NGOs develop what nonprofit director and theorist Vu Le calls a “shadow mission”
 
-> which is often to get as much funding as possible, grow as big as possible, even at the cost of program quality or staff morale, and screw anyone who gets in their way[^fn90].
+> which is often to get as much funding as possible, grow as big as possible, even at the cost of program quality or staff morale, and screw anyone who gets in their way[^fn93].
 
-Technologists have “the Shirky Principle” from writer Clay Shirky: Institutions will try to preserve the problem to which they are the solution.
+Technologists have “the Shirky Principle” from writer Clay Shirky: Institutions will try to preserve the problem to which they are the solution.[^fn94]
 
-And from 2008 to 2009, a police whistleblower[^fn91] at the NYPD used secret recordings to catch his department systemically manipulating CompStat data to produce politically desirable outcomes --- what the TV series *The Wire* called “juking the stats”.
+And from 2008 to 2009, a police whistleblower[^fn95] at the NYPD used secret recordings to catch his department systemically manipulating CompStat data to produce politically desirable outcomes --- what the TV series *The Wire* called “juking the stats”.
 
 Bad-faith examples illuminate the deeper problems of sticking to work that looks like work “should” --- it will let you down when you’re trying to solve really complex problems.
 
@@ -1850,19 +2370,19 @@ Sociologist Charles Perrow coined the term “normal accidents” to describe th
 
 > * Complex
 > * Tightly coupled
-> * Potentially catastrophic[^fn92]
+> * Potentially catastrophic[^fn96]
 
 Human error in such systems is “normal” because it proceeds from rational decisions or predictable responses. The term “tightly coupled” refers to the small or nonexistent margins between components --- change in one area will precipitate change in many others at the same time. Tenet 3 describes how conceptual labor functions as a tightly-coupled system. Normal accidents, alas, follow Tenet 4.
 
-For an example of a deadly, normal accident that, despite occurring slowly over decades, outpaced the conceptual labor required to comprehend it, we can turn to the obsolete disease of *thymic asthma*. Doctor Jeffrey Ritterman told its story in the Permanente Journal in 2017[^fn93]
+For an example of a deadly, normal accident that, despite occurring slowly over decades, outpaced the conceptual labor required to comprehend it, we can turn to the obsolete disease of *thymic asthma*. Doctor Jeffrey Ritterman told its story in the Permanente Journal in 2017[^fn97]
 
 > In the first half of the 19th century, physicians were becoming alarmed by sudden infant death syndrome (SIDS). Healthy infants would be put to bed and found dead in the morning. In 1830, pathologists noted that SIDS-affected infants had enlarged thymus glands compared with “normal” autopsy specimens. It seemed logical to conclude that these “enlarged” glands were in some way responsible for the deaths.
 
-In 1830, the term “thymic asthma” was introduced to describe the “enlarged” thymus glands that pressed on infants tracheas and suffocated them from inside. Surgical removal of the gland had an “unacceptable” rate of mortality, while radiation treatment seemed safe and effective by comparison. So, thousands of responsible parents, on the advice of trusted medical professionals, had their children’s thymus glands irradiated in an effort to shrink them. It is estimated that more than 10,000 thymic radiation “therapy” patients died from cancers later in life before irradiation of the thymus was declared, in 1945,“an irrational procedure at all ages.”[^fn94]
+In 1830, the term “thymic asthma” was introduced to describe the “enlarged” thymus glands that pressed on infants tracheas and suffocated them from inside. Surgical removal of the gland had an “unacceptable” rate of mortality, while radiation treatment seemed safe and effective by comparison. So, thousands of responsible parents, on the advice of trusted medical professionals, had their children’s thymus glands irradiated in an effort to shrink them. It is estimated that more than 10,000 thymic radiation “therapy” patients died from cancers later in life before irradiation of the thymus was declared, in 1945,“an irrational procedure at all ages.”[^fn98]
 
 Knowing what we do now about radiation, this outcome is sadly obvious. However, the deeper error in this story could not be found out within the bounds of the original problem. The thymus glands were never enlarged.
 
-> The cadavers used by anatomists to determine the “normal” thymus size were from the poor, most having died of highly stressful chronic illnesses such as tuberculosis, infectious diarrhea, and malnutrition. What was not appreciated at the time was that chronic stress shrinks the thymus gland. The “normal” thymus glands of the poor were abnormally small[^fn95].
+> The cadavers used by anatomists to determine the “normal” thymus size were from the poor, most having died of highly stressful chronic illnesses such as tuberculosis, infectious diarrhea, and malnutrition. What was not appreciated at the time was that chronic stress shrinks the thymus gland. The “normal” thymus glands of the poor were abnormally small[^fn99].
 
 The thymuses in otherwise healthy infants that died of SIDS were, in actuality, the first large set of normally-sized thymus glands studied by medical science.
 
@@ -1872,15 +2392,23 @@ Doing so collided with the boundaries of medical authority, turning absolute kno
 
 > To avoid future errors and their associated harm, I suggest a cultural shift encouraging professional humility and greater questioning of medical dogma. Medical education focused on teaching students this history may help with this cultural shift.
 
-This is not an appeal for better research methods or to fix a lack of education. Rather it wants for more flexible models, ready to redefine the ever changing work of doctors --- for more skillful conceptual labor[^fn96].
+This is not an appeal for better research methods or to fix a lack of education. Rather it wants for more flexible models, ready to redefine the ever changing work of doctors --- for more skillful conceptual labor[^fn100].
 
 
 
 
-\pagebreak
 
-## Tenets 5 & 6: Work Changes
-\pagebreak
+---
+
+
+
+
+## Tenets 5 & 6: Competing Narratives
+
+---
+
+
+
 
 ### Summary
 
@@ -1897,9 +2425,13 @@ This is not an appeal for better research methods or to fix a lack of education.
 * Successful conceptual labor cannot be fully planned, only cultivated
 
 
-There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a job can be considered skills in their own right. 
+There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right. 
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
@@ -1910,13 +2442,17 @@ Tenet 5 says that if one’s working model is to stay in sync with their labor a
 
 Tenet 6 is an outcome of this necessary conversation about what work is, should, or could be. Conventional labor proceeds according to its authority as being effective and necessary. If conceptual labor begins when we question that narrative, then it must include an argument for the necessity of conceptual labor and the new narratives it produces.
 
-\pagebreak
+
+---
+
+
+
 
 
 #### Doing work and modifying the narrative of how you work must happen simultaneously in conceptual labor
 
 
-Conventional labor can be done when at least one of the three fundamental components of work is expected not to change. So it follows that, in contrast, we must do conceptual labor while all three types of components of our working model, including the work it contains, are in flux. Since that is a definitional quality of conceptual labor, discussing this concept risks becoming circular. We must recognize that the beliefs and intentions of actors doing work can take an active role in determining whether or not work occurs at the same time the narrative that it follows is being modified. The same activities which require deep conceptual labor from an inexperienced actor may be able to comfortably follow a conventional narrative for experienced actors, in which “real work” is separate from metawork such as preparation and management. 
+Conventional labor can be done when at least one of the three fundamental components of work is expected not to change. So it follows that, in contrast, we must do conceptual labor while all three types of components of our working model, including the work it contains, are in flux. Since that is a definitional quality of conceptual labor, discussing this Concept risks becoming circular. We must recognize that the beliefs and intentions of actors doing work can take an active role in determining whether or not work occurs at the same time the narrative that it follows is being modified. The same activities which require deep conceptual labor from an inexperienced actor may be able to comfortably follow a conventional narrative for experienced actors, in which “real work” is separate from metawork such as preparation and management. 
 
 
 ##### Example
@@ -1925,14 +2461,14 @@ If you’re learning to play the guitar, you will greet a practice session of sc
 
 A thoughtless repetition of known scales and exercises is conventional labor, but a practice session that even threatens to contain unknown material becomes conceptual labor. The session becomes a flexible context, in which the musician watches for and considers the relationship of unknown passages to known ones  --- assembling a model of what they know, what is happening, and what they’re doing *at the same time* that they do it.
 
-Discussing this concept can be useful as a way of critically examining exactly how simultaneous work actually is with meaningful observation of it. The question of shared duration is important --- work may appear to finish before its effects have fully propagated or certain actors believe themselves to be finished. In the end, the model defines the timeframe in which work occurs, and if this timeframe allows for meaningful self-modification to the model, the conventional narrative will fall apart and conceptual labor becomes necessary for the duration of that timeframe.
+Discussing this Concept can be useful as a way of critically examining exactly how simultaneous work actually is with meaningful observation of it. The question of shared duration is important --- work may appear to finish before its effects have fully propagated or certain actors believe themselves to be finished. In the end, the model defines the timeframe in which work occurs, and if this timeframe allows for meaningful self-modification to the model, the conventional narrative will fall apart and conceptual labor becomes necessary for the duration of that timeframe.
 
 
 
 #### Work that modifies its own narrative is a conversation
 
 
-This kind of work can be an argument, a debate, a discursive ramble, or any other kind of conversation, but it cannot be a *lecture*. If our conversation is just a string of declarative statements to describe work, we already have a name for that --- instructions. Instructions imply the conventional narrative not just by being defined but also by being authoritative. The conventional narrative is *singular* by nature. To negotiate, argue, or modify the conventional narrative is, as Tenet 4 states, to switch to conceptual labor. Conceptual labor is work that accepts the possibility of *multiple* legitimate narratives at once. As the previous core concept demonstrates, the uncertainty of conceptual labor may resolve into conventional narratives at countless stages and scales. With conversation as a metaphor, we can see the difference between conceptual and conventional labor as the difference between negotiating potential narratives and agreeing on one. Whether the negotiation resolves quickly or continues for a lifetime, we must recognize that argument and agreement are two different states.
+This kind of work can be an argument, a debate, a discursive ramble, or any other kind of conversation, but it cannot be a *lecture*. If our conversation is just a string of declarative statements to describe work, we already have a name for that --- instructions. Instructions imply the conventional narrative not just by being defined but also by being authoritative. The conventional narrative is *singular* by nature. To negotiate, argue, or modify the conventional narrative is, as Tenet 4 states, to switch to conceptual labor. Conceptual labor is work that accepts the possibility of *multiple* legitimate narratives at once. As the previous core Concept demonstrates, the uncertainty of conceptual labor may resolve into conventional narratives at countless stages and scales. With conversation as a metaphor, we can see the difference between conceptual and conventional labor as the difference between negotiating potential narratives and agreeing on one. Whether the negotiation resolves quickly or continues for a lifetime, we must recognize that argument and agreement are two different states.
 
 #### In this conversation, we must represent our experience 
 
@@ -1945,9 +2481,9 @@ In doing so, we must also recognize that representational strategies, the subjec
 
 #### The ideal state of this conversation is spontaneous, continuous agreement.
 
-This concept is a necessary addition to the previous one.  While we may represent certain positions and beliefs in the process of conceptual labor, we must recognize the plurality of valid positions and cultivate the flexibility to navigate to new ones. Positions are proposed and taken in conceptual labor, but when they are held fast, a conventional narrative emerges. 
+This Concept is a necessary addition to the previous one.  While we may represent certain positions and beliefs in the process of conceptual labor, we must recognize the plurality of valid positions and cultivate the flexibility to navigate to new ones. Positions are proposed and taken in conceptual labor, but when they are held fast, a conventional narrative emerges. 
 
-We have all encountered conceptual labor that never completely resolves into conventional labor. We variously call this sort of work a career, a relationship, a calling, an art, or something else entirely. This kind of work defies the ideal state of conventional labor, where a perfectly-skilled worker completes the work with minimal effort to perfect results. This work follows the rules of infinite games[^fn97], where the ideal state of the players is one of ongoing, simultaneous discussion and agreement. We observe the rules of infinite games, says Carse, “as a way of continuing discourse with each other....the rules...are always evolving to guarantee the meaningfulness of discourse[^fn98].” The game will continue, and continue to change, as long as the players agree to the changing rules.
+We have all encountered conceptual labor that never completely resolves into conventional labor. We variously call this sort of work a career, a relationship, a calling, an art, or something else entirely. This kind of work defies the ideal state of conventional labor, where a perfectly-skilled worker completes the work with minimal effort to perfect results. This work follows the rules of infinite games[^fn101], where the ideal state of the players is one of ongoing, simultaneous discussion and agreement. We observe the rules of infinite games, says Carse, “as a way of continuing discourse with each other....the rules...are always evolving to guarantee the meaningfulness of discourse[^fn102].” The game will continue, and continue to change, as long as the players agree to the changing rules.
 
 Disagreements can occur within those rules as long as they don’t put an end to play. It is the agreement to continue that matters. 
 
@@ -1973,16 +2509,20 @@ If conceptual labor aims to continuously adapt to ongoing change, it follows tha
 
 Thinking of how to have a good conversation can benefit this process. Tenet 6 proceeds from having a conversation about what work is, should, or could be. Work that follows a discursive process has the potential to produce multiple useful outcomes, or to follow any number of paths to a measurable result. A useful exercise to cultivate successful conceptual labor would be to consider the ways in which you can and cannot prepare for a conversation, and how someone should approach a stimulating conversation that everyone involved would want to continue.
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Unnecessary Work
 
 
 #### Doing work and modifying the narrative of how you work must happen simultaneously 
 
-Traffic engineer Hans Monderman’s “Shared Space”[^fn99] design principle operates on this core concept. Working against the conventional wisdom of urban transportation planning, Monderman improved the safety of many dangerous traffic exchanges by *removing* signs, crosswalks, and other guides for drivers, rather than adding more infrastructure. He frequently critiqued the narrative told by traditional street design:
+Traffic engineer Hans Monderman’s “Shared Space”[^fn103] design principle operates on this core concept. Working against the conventional wisdom of urban transportation planning, Monderman improved the safety of many dangerous traffic exchanges by *removing* signs, crosswalks, and other guides for drivers, rather than adding more infrastructure. He frequently critiqued the narrative told by traditional street design:
 
-> All those signs are saying to cars, 'this is your space, and we have organized your behavior so that as long as you behave this way, nothing can happen to you’. That is the wrong story[^fn100]
+> All those signs are saying to cars, 'this is your space, and we have organized your behavior so that as long as you behave this way, nothing can happen to you’. That is the wrong story[^fn104]
 
 Monderman realized that the more static the work and context of driving seems to a driver, the more automatic and conventional their labor will become. Monderman instead designed spaces that required drivers and pedestrians to “negotiate for themselves, use their own brains.” In these spaces without obvious rules, drivers tend to drive much slower,  make eye contact with pedestrians, and negotiate a shared model which guides how they will all do the labor of traveling safely to their destination *as they are driving*. The conceptual labor of safe driving must occur simultaneously with the act of driving. Many accidents happen expressly because the driver was on “autopilot” and failed to notice something they could have avoided if they had been observing their own actions *as they happened*.  The conventional narrative relies on hindsight to correct its assumptions  --- a strategy with deadly consequences when a car follows that narrative at 50 miles an hour. 
 
@@ -1990,9 +2530,9 @@ Monderman realized that the more static the work and context of driving seems to
 
 We can understand what counts as “simultaneous” in conceptual labor by looking at how a model of labor can accommodate the ongoing give-and-take that we expect in a conversation. If we identify a problem, work on it, and declare it solved, our conversation is over. But if the duration of our labor includes the opportunity for a meaningful response to its initial results, we open up important new narratives.
 
-Monderman’s work forced an in-the-moment, vital conversation between drivers and their surroundings, but we can see significant results from a much slower conversation in the rise of the “desire path” in public spaces. Many large universities[^fn101] have engaged students in a longterm design conversation by way of the desire paths they create as they walk between classes. For whatever logical choices informed the design of the original paved walkways, students often find a preferred route, cutting corners and splitting fields. By monitoring the emergence of desire paths, and paving the popular ones, the university has made the design process a conversation. Instead of declaring the paths complete when they were first opened, the model for the project `Design useful` pedestrian paths” allowed for a slow-moving dialogue between the pedestrians and designers. 
+Monderman’s work forced an in-the-moment, vital conversation between drivers and their surroundings, but we can see significant results from a much slower conversation in the rise of the “desire path” in public spaces. Many large universities[^fn105] have engaged students in a longterm design conversation by way of the desire paths they create as they walk between classes. For whatever logical choices informed the design of the original paved walkways, students often find a preferred route, cutting corners and splitting fields. By monitoring the emergence of desire paths, and paving the popular ones, the university has made the design process a conversation. Instead of declaring the paths complete when they were first opened, the model for the project `Design useful` pedestrian paths” allowed for a slow-moving dialogue between the pedestrians and designers. 
 
-We can turn to software for a longer form of conversation. The industry experienced a sea change in work habits when it recognized the role of conversation in the broader narrative of how software is made. In 1994, A major report[^fn102] in 1994 found only a16% success rate for software projects versus a 31% cancellation rate. Conditions like these led to the famous Agile Manifesto in 2001, which defined itself in opposition to the “waterfall” method used by most of the subjects in the report. “Waterfall” refers to the way that preparation and specification would be done up to a point before spilling over that threshold like a waterfall when the writing of usable code was authorized to begin --- work could easily be called “real programming” in a conventional narrative[^fn103].
+We can turn to software for a longer form of conversation. The industry experienced a sea change in work habits when it recognized the role of conversation in the broader narrative of how software is made. In 1994, A major report[^fn106] in 1994 found only a16% success rate for software projects versus a 31% cancellation rate. Conditions like these led to the famous Agile Manifesto in 2001, which defined itself in opposition to the “waterfall” method used by most of the subjects in the report. “Waterfall” refers to the way that preparation and specification would be done up to a point before spilling over that threshold like a waterfall when the writing of usable code was authorized to begin --- work could easily be called “real programming” in a conventional narrative[^fn107].
 
 While Agile philosophy has evolved and fractured since then, at its core it represented an effort to shift the tasks and concerns of the individual worker to the realm of “real work” and create a framework in which the definition of work could be updated and modified as it happened. At the very least, it codified ways in which an individual software developer could say “no, I can see that my instructions are wrong because of what I have learned since they were given to me,” a statement which is at odds with the structures of authority that reinforced the waterfall process.
 
@@ -2000,23 +2540,23 @@ Debates around Agile orthodoxies aside, the software industry at large has embra
 
 #### In this conversation, we must represent our experience
 
-In these cases, good results hinged on the ability of a working model to absorb lessons from the subjective experience of particular actors --- the drivers in the shared spaces, students using the paths, and the developers charged with creating the promised software. Beyond these examples, we can see how this core concept functions at an organizational level in the study of “job crafting.” 
+In these cases, good results hinged on the ability of a working model to absorb lessons from the subjective experience of particular actors --- the drivers in the shared spaces, students using the paths, and the developers charged with creating the promised software. Beyond these examples, we can see how this core Concept functions at an organizational level in the study of “job crafting.” 
 
 Amy Wrzesniewski and Jane E. Dutton’s influential 2001 study, *Crafting a Job: Revisioning Employees as Active Crafters of Their Work* profiled the ways that hospital cleaners “change the meaning of their jobs to be helpers of the sick” and “see the work of the floor unit as an integrated whole of which they are a vital part.” The study draws on interviews with individual cleaners who describe how their on-the-job experience reshaped their narrative of their “real work,” changing and deepening it from their original list of duties. 
 
-> Organizational researchers ... have focused on either individual determinants... such as expectations or values, or external characteristics of the job itself ..., such as work tasks or social interaction at work. Both perspectives minimize the role that employees play in actively shaping both the tasks and social relationships that compose a job. Even in the most restricted and routine jobs, employees can exert some influence on what is the essence of the work. The core premise of this article is that the work tasks and interactions that compose the days, the jobs, and, ultimately, the lives of employees are the raw materials employees use to construct their jobs...The social context provides employees with the materials they use to build the experience of work (Salancik & Pfeffer, 1978). Interactions with others help employees define and bound tasks by shaping impressions of what is and is not part of the job[^fn104].
+> Organizational researchers ... have focused on either individual determinants... such as expectations or values, or external characteristics of the job itself ..., such as work tasks or social interaction at work. Both perspectives minimize the role that employees play in actively shaping both the tasks and social relationships that compose a job. Even in the most restricted and routine jobs, employees can exert some influence on what is the essence of the work. The core premise of this article is that the work tasks and interactions that compose the days, the jobs, and, ultimately, the lives of employees are the raw materials employees use to construct their jobs...The social context provides employees with the materials they use to build the experience of work (Salancik & Pfeffer, 1978). Interactions with others help employees define and bound tasks by shaping impressions of what is and is not part of the job[^fn108].
 
 Their ability to adapt to the changing context of their job and the needs of the individual patients they encounter is a *skill* which develops over time and cannot be adequately encoded in their job descriptions. Job crafting reflects the conceptual labor of an engaged worker’s ongoing interrogation of the narrative of their work.
 
 
-*Crafting a Job* draws heavily on John Seeley Brown and Paul Duguid’s concept of “non-canonical” work --- that which falls outside the “canonical” work encoded in job descriptions, operational manuals, and official procedure. In their seminal 1991 paper, *Organizational Learning and Communities-of-Practice*[^fn105], Brown and Duguid presented case studies of the non-canonical strategies developed by representatives charged with maintaining customers’ equipment on-site. Much like Ariely’s locksmith[^fn106], their work was observed by the customer, giving it the potential to affect long-standing customer relationships. The detailed procedural manuals the reps were required to consult in these situations emphasized “downskilling” --- they sought to create a complete “canon” of work that any representative, regardless of their personal relationships or experience, should be able to follow. Over and over, the reps encountered problems that were not covered by their manuals, and simply replacing the machinery would send the message that their machines weren’t reliable and the people maintaining them didn’t know what they were doing. The *non*-canonical work that led to the solutions always involved drawing lessons and new information from specific experiences --- of customers or other reps. The “communities of practice” in the title of the study refers to the vital, ad-hoc exchanges of lessons and stories that occur in work and non-work contexts when reps meet up and share their experiences. On an organizational scale, communities of practice and job crafting strategies perform the conceptual labor required to solve problems that the conventional narrative of canonical work cannot address. Conversations between individuals about their personal experience of work became crucial to their success.
+*Crafting a Job* draws heavily on John Seeley Brown and Paul Duguid’s concept of “non-canonical” work --- that which falls outside the “canonical” work encoded in job descriptions, operational manuals, and official procedure. In their seminal 1991 paper, *Organizational Learning and Communities-of-Practice*[^fn109], Brown and Duguid presented case studies of the non-canonical strategies developed by representatives charged with maintaining customers’ equipment on-site. Much like Ariely’s locksmith[^fn110], their work was observed by the customer, giving it the potential to affect long-standing customer relationships. The detailed procedural manuals the reps were required to consult in these situations emphasized “downskilling” --- they sought to create a complete “canon” of work that any representative, regardless of their personal relationships or experience, should be able to follow. Over and over, the reps encountered problems that were not covered by their manuals, and simply replacing the machinery would send the message that their machines weren’t reliable and the people maintaining them didn’t know what they were doing. The *non*-canonical work that led to the solutions always involved drawing lessons and new information from specific experiences --- of customers or other reps. The “communities of practice” in the title of the study refers to the vital, ad-hoc exchanges of lessons and stories that occur in work and non-work contexts when reps meet up and share their experiences. On an organizational scale, communities of practice and job crafting strategies perform the conceptual labor required to solve problems that the conventional narrative of canonical work cannot address. Conversations between individuals about their personal experience of work became crucial to their success.
 
 
 #### In this conversation, we must represent our experience 
 
 Instructions that cannot engage in dialogue with the experiences of the actors following them become a liability in conceptual labor. This is a prevailing theme in both *Crafting a Job* and *Organizational Learning* --- the truly effective workers often have to develop “work-arounds” to accommodate mandatory but out-of-touch orders. Their jobs would be easier and more effective if they were allowed to toss out their instructions and deal with problems as they came, using their training and judgement. Many of the activities that the hospital cleaners crafted into their job violate official rules or procedures, yet the create an ultimately cleaner and safer environment for the patients and workers alike. 
 
-Continuity and spontaneity are the non-negotiable, difficult qualities of this core concept. Monderman’s designs demand continuous and spontaneous agreement between driver and pedestrian, because adjusting a car’s trajectory after-the-fact is pointless and unsafe. While much conceptual labor can be safely adapted and retried after a failure, this concept reminds us that the ideal process is not to follow instructions perfectly, but to continuously adapt to labor in the moment that it changes.
+Continuity and spontaneity are the non-negotiable, difficult qualities of this core concept. Monderman’s designs demand continuous and spontaneous agreement between driver and pedestrian, because adjusting a car’s trajectory after-the-fact is pointless and unsafe. While much conceptual labor can be safely adapted and retried after a failure, this Concept reminds us that the ideal process is not to follow instructions perfectly, but to continuously adapt to labor in the moment that it changes.
 
 #### Labor that acts on itself is cyclical
 
@@ -2030,21 +2570,21 @@ Monderman’s work was subject to this when it was transplanted to other countri
 
 As Monderman’s ideas spread, his principles were often employed more to the letter than the spirit. 
 
-> The problem with some shared spaces may be that they have gone too far in the other direction, focusing on the ideal of a completely naked street rather than carefully heeding the needs of the place and people in question. Before we invented curbs and traffic lights, all streets were shared spaces. But that doesn’t mean this philosophy will work for all of them now[^fn107]. 
+> The problem with some shared spaces may be that they have gone too far in the other direction, focusing on the ideal of a completely naked street rather than carefully heeding the needs of the place and people in question. Before we invented curbs and traffic lights, all streets were shared spaces. But that doesn’t mean this philosophy will work for all of them now[^fn111]. 
 
 It is much easier to create new rules, new rituals, and busywork that produces measurable amounts of “innovation” or “adaptation” than it is to find and maintain the balance of relationships, experience, and strategy that makes space for authentic conversation and agreement. For all the good intentions of the case of the Agile Manifesto, it now carries a legacy of dogma and unnecessary ritual. In his essay *What is Code*, Paul Ford summarized the history of Agile philosophy and contrasted the Manifesto with the practical application of its recommendations. 
 
 > Done well, it avoids magical thinking (“It will all work when we get everything done and wired together”). It has its critics and can seem to have as many branches (c.f. Scrum, Kanban, and “Agile with Discipline”) as Protestantism.
 
-> Programmers are forever searching for a silver bullet and, worse, they always think they’ve found it. Which is why Frederick Brooks, the most famous of the early software methodologists, wrote a paper called “No Silver Bullet---Essence and Accident in Software Engineering.” He wrote it in 1986. He was very hopeful, back then, that object-oriented programming would help fix things. TODO CITE
+> Programmers are forever searching for a silver bullet and, worse, they always think they’ve found it. Which is why Frederick Brooks, the most famous of the early software methodologists, wrote a paper called “No Silver Bullet---Essence and Accident in Software Engineering.” He wrote it in 1986. He was very hopeful, back then, that object-oriented programming would help fix things.[^fn112]
 
 To a contemporary programmer, this is an ironic statement. Many modern programming languages incorporate object oriented principles, and they are as vulnerable to the hazards of planning and management as any other kind of programming.
 
-The tendency to chase silver bullets and Executive Maps follows from the final core concept from the previous section --- *It is difficult to redefine work at the rate at which it changes*. This concept follows from the inevitable misfires of silver bullets and the propensity for Executive Maps to lead us astray.   
+The tendency to chase silver bullets and Executive Maps follows from the final core Concept from the previous section --- *It is difficult to redefine work at the rate at which it changes*. This Concept follows from the inevitable misfires of silver bullets and the propensity for Executive Maps to lead us astray.   
 
 Beyond that, the effectiveness of an Executive Map often has more to do with the power dynamics within the system it describes than its power of description. Whether or not an actor can *decide* that they will follow an un-modified narrative of how things are--- whether or not they can participate in the status quo or the default context of their labor --- is an expression of power.
 
-Some actors may have the privilege of following a conventional narrative while others may be forced to do conceptual labor to survive. The biggest car barreling through an intersection can occupy its own fixed reality, to which pedestrians are forced to fit their narratives. Perhaps less obvious is the case of a boss working alongside their subordinates --- or participating in a forced social activity with them. The concept of “code switching[^fn108]” illuminates the disparity in the types of labor performed in the same situation by actors of different backgrounds. “Normal” conversations can require significant and unseen mental overhead to navigate for people from cultural backgrounds that were not allowed to set the norms in which they converse. For a conversation to foster a truly free exchange of ideas, it must be able to modify not just ideas but also the rules by which they are exchanged.
+Some actors may have the privilege of following a conventional narrative while others may be forced to do conceptual labor to survive. The biggest car barreling through an intersection can occupy its own fixed reality, to which pedestrians are forced to fit their narratives. Perhaps less obvious is the case of a boss working alongside their subordinates --- or participating in a forced social activity with them. The Concept of “code switching[^fn113]” illuminates the disparity in the types of labor performed in the same situation by actors of different backgrounds. “Normal” conversations can require significant and unseen mental overhead to navigate for people from cultural backgrounds that were not allowed to set the norms in which they converse. For a conversation to foster a truly free exchange of ideas, it must be able to modify not just ideas but also the rules by which they are exchanged.
 
 
 #### Successful conceptual labor cannot be fully planned, only cultivated
@@ -2052,11 +2592,11 @@ Some actors may have the privilege of following a conventional narrative while o
 
 Purposefully designing something to capture continuous, spontaneous agreement between the designers’ intentions and the user’s use of the thing is, to some degree, a contradiction. The cycle by which that agreement is negotiated cannot ever be fully captured. We can attempt attempt to find a container that is big and well-stocked enough to allow for most possible outcomes. Or we can try to constrain the use of our designs, by enforcing rigid rules or creating what designers call “affordances.”
 
-> Affordances are properties of objects which show users the actions they can take. Users should be able to perceive affordances without having to consider how to use the items. For instance, a button can be designed to look as if it needs to be turned or pushed[^fn109].
+> Affordances are properties of objects which show users the actions they can take. Users should be able to perceive affordances without having to consider how to use the items. For instance, a button can be designed to look as if it needs to be turned or pushed[^fn114].
 
 However smart or well-prepared our plans are, they will always be contained by this notion of possibility at the very least. More likely, our designs are limited by our ideas of what’s probable, or even what’s preferable.
 
-The robot vacuum, stuck in a corner, is confined by this invisible boundary. It is a marvel of engineering and programming, but it cannot change its own picture of the world[^fn110] as quickly or as deeply as the world around it can reconfigure itself. It might act like a living thing when its sensors are working, but it cannot even wipe dust from its eyes when they are clouded. 
+The robot vacuum, stuck in a corner, is confined by this invisible boundary. It is a marvel of engineering and programming, but it cannot change its own picture of the world[^fn115] as quickly or as deeply as the world around it can reconfigure itself. It might act like a living thing when its sensors are working, but it cannot even wipe dust from its eyes when they are clouded. 
 
 The vacuum doesn’t know that it’s a vacuum. Its ability to be aware of itself and is surroundings has a hard limit defined by its sensors and programming. For all it knows, it’s an airplane. 
 
@@ -2064,19 +2604,19 @@ The vacuum doesn’t know that it’s a vacuum. Its ability to be aware of itsel
 
 At worst, when a vacuum loses touch with reality, it causes a mess. When an airplane does, the results are horrifying and tragic. Another, special kind of terror lies in considering how the decisions made by airplanes and vacuums are roughly equivalent to the decision-makers. Neither is attended by a sense of urgency, guilt, fear, or even concern. They are made without a sense of consequence, fully within limited bounds of self-perception, and often out of reach of human actors that can do the conceptual labor that exceeds the limits of systems in control.
 
-Tragically, such context-less, non-human decisions appear to have caused the recent crashes of Boing 737 MAX planes. Reports issued by The House Committee on Transportation and Infrastructure[^fn111] conclude that a new automated system called the Maneuvering Characteristics Augmentation System, or the MCAS, flew the planes straight into the ground while the human pilots fought in vain to correct it. The MCAS, informed by a faulty sensor, was certain that the plane was approaching an oncoming stall and adjusted the plane’s nose down. This is yet another example of the far-reaching implications of Tenet 2 --- the work of the MCAS does not encounter reality unmediated, it only does so through its model of reality. Humans, of course, have a much more flexible and detailed model of general reality, (of course that does not exempt us from making grievous errors as a result of refusing to adjust our current working model). 
+Tragically, such context-less, non-human decisions appear to have caused the recent crashes of Boing 737 MAX planes. Reports issued by The House Committee on Transportation and Infrastructure[^fn116] conclude that a new automated system called the Maneuvering Characteristics Augmentation System, or the MCAS, flew the planes straight into the ground while the human pilots fought in vain to correct it. The MCAS, informed by a faulty sensor, was certain that the plane was approaching an oncoming stall and adjusted the plane’s nose down. This is yet another example of the far-reaching implications of Tenet 2 --- the work of the MCAS does not encounter reality unmediated, it only does so through its model of reality. Humans, of course, have a much more flexible and detailed model of general reality, (of course that does not exempt us from making grievous errors as a result of refusing to adjust our current working model). 
 
 The purpose of the MCAS was as much to shape the perceptions of the pilots as it was to fly the plane --- changes to the plane’s engine position introduced in the MAX’s design caused the steering column to respond in ways that would be unfamiliar to pilots used to other planes. In some situations where the steering column should respond with steady, increasing force, it slackened on the 737 MAX.
 
-> To correct this, Boeing settled on a software feature called the Maneuvering Characteristics Augmentation System. As the nose of the jet approached a high angle, suggesting an oncoming stall, MCAS would adjust the stabilizer on the plane’s tail, pushing the nose down, to alleviate the slackness in the control column[^fn112].
+> To correct this, Boeing settled on a software feature called the Maneuvering Characteristics Augmentation System. As the nose of the jet approached a high angle, suggesting an oncoming stall, MCAS would adjust the stabilizer on the plane’s tail, pushing the nose down, to alleviate the slackness in the control column[^fn117].
 
 The story of how this led to two plane crashes that killed more than 300 people, is a story of narratives of labor overriding crucial facts that surface during labor --- from the work of the engineers that designed the plane, to the regulators tasked with certifying the safety of the plane, to the pilots attempting to fly it. 
 
-The two planes crashed because the pilots couldn’t change the work the MCAS was doing[^fn113]. Like the robotic vacuum, the MCAS was working correctly based on its model of reality. But it couldn’t step out of that model to compare it to other observations, since it relied on a single sensor.  In turn, the MCAS passed its narrative of reality on to the pilots, through the behavior of the control column. Unable to override the MCAS, the pilots physically fought it through the steering column, in one case more than twenty times before the MCAS drove the plane into the ground.
+The two planes crashed because the pilots couldn’t change the work the MCAS was doing[^fn118]. Like the robotic vacuum, the MCAS was working correctly based on its model of reality. But it couldn’t step out of that model to compare it to other observations, since it relied on a single sensor.  In turn, the MCAS passed its narrative of reality on to the pilots, through the behavior of the control column. Unable to override the MCAS, the pilots physically fought it through the steering column, in one case more than twenty times before the MCAS drove the plane into the ground.
 
 The pilots couldn’t override the MCAS because they hadn’t been trained to do so. Boeing management decided to remove mention of the MCAS from the operations manual that the pilots depended on. The House Committee’s final report  presents evidence that this decision was based on the bottom-line, not safety. 
 
-This was one of many ways in which important conceptual labor was confined by the boundaries of the Boeing corporation’s narrative of the possible, the probable, and the preferred[^fn114]. The most profitable narrative for Boeing to tell their shareholders was that they were releasing, on schedule, a safe, reliable plane that did not require specialized training.
+This was one of many ways in which important conceptual labor was confined by the boundaries of the Boeing corporation’s narrative of the possible, the probable, and the preferred[^fn119]. The most profitable narrative for Boeing to tell their shareholders was that they were releasing, on schedule, a safe, reliable plane that did not require specialized training.
 
 If we were to create a model that could produce that narrative, it would be a very complex one that includes the following actors:
 
@@ -2094,17 +2634,17 @@ If we were to create a model that could produce that narrative, it would be a ve
 
 The House report details many ways in which management at Boeing used their ability to shape the other actors’ narratives of labor to fit their preferred one, rather than allowing them to do their own, expensive conceptual labor along the way. They stuck to the plan, whether or not it was a good one.
 
-Engineers argued that the MCAS should have a second, computerized sensor. That would have required specialized pilot training, so it was denied. This, in turn, prevented the MCAS from doing even a little bit of conceptual labor within the model of `Fly An Airplane` that it shared with the pilots --- it lacked the capability to adjust or improve its own model. Boeing itself conducted tests that indicated that the MCAS couldn’t be safely used without specialized training[^fn115]. The prevailing narrative had no room to reconfigure the plane or call for specialized training, so these tests were left off of the regulatory report that would have caused the FAA to require such changes. While the House Committee’s report finds fault with the FAA’s approach to certifying the plane, this omission is another way in which, rather than allowing conceptual labor to occur that would change the prevailing narrative to fit reality, reality was concealed to fit the prevailing narrative.
+Engineers argued that the MCAS should have a second, computerized sensor. That would have required specialized pilot training, so it was denied. This, in turn, prevented the MCAS from doing even a little bit of conceptual labor within the model of `Fly An Airplane` that it shared with the pilots --- it lacked the capability to adjust or improve its own model. Boeing itself conducted tests that indicated that the MCAS couldn’t be safely used without specialized training[^fn120]. The prevailing narrative had no room to reconfigure the plane or call for specialized training, so these tests were left off of the regulatory report that would have caused the FAA to require such changes. While the House Committee’s report finds fault with the FAA’s approach to certifying the plane, this omission is another way in which, rather than allowing conceptual labor to occur that would change the prevailing narrative to fit reality, reality was concealed to fit the prevailing narrative.
 
 The House Committee’s final report concludes that:
 
-> The MAX crashes were not the result of a singular failure, technical mistake, or mismanaged event. They were the horrific culmination of a series of faulty technical assumptions by Boeing’s engineers, a lack of transparency on the part of Boeing’s management, and grossly insufficient oversight by the FAA[^fn116]
+> The MAX crashes were not the result of a singular failure, technical mistake, or mismanaged event. They were the horrific culmination of a series of faulty technical assumptions by Boeing’s engineers, a lack of transparency on the part of Boeing’s management, and grossly insufficient oversight by the FAA[^fn121]
 
 --- 
 
 Conceptual labor moves in cycles rather than straight lines because every part of it changes. Good instructions in one cycle can be a recipe for disaster in the next one. Conceptual labor is how we do unplanned work on the way to where we plan to go. Clearly, pilots should be insulated from this kind of work as much as possible. In a congressional hearing regarding the crashes, retired captain Chesley “Sully” Sullenberger gave a statement to this effect, describing hazards that closely resemble the description of  “normal accidents”
 
-> Accidents are the end result of a causal chain of events, and in the case of the Boeing 737 MAX, the chain began with decisions that had been made years before, to update a half-century-old design... We owe it to everyone who flies, passengers and crews alike, to do much better than to design aircraft with inherent flaws that we intend pilots will have to compensate for and overcome. Pilots must be able to handle an unexpected emergency and still keep their passengers and crew safe, but we should first design aircraft for them to fly that do not have inadvertent traps set for them[^fn117].
+> Accidents are the end result of a causal chain of events, and in the case of the Boeing 737 MAX, the chain began with decisions that had been made years before, to update a half-century-old design... We owe it to everyone who flies, passengers and crews alike, to do much better than to design aircraft with inherent flaws that we intend pilots will have to compensate for and overcome. Pilots must be able to handle an unexpected emergency and still keep their passengers and crew safe, but we should first design aircraft for them to fly that do not have inadvertent traps set for them[^fn122].
 
 But unplanned work doesn’t meet product-launch deadlines, and the conceptual labor that could have prevented these plane crashes was avoided until the very last moment, when it could no longer be denied.
 
@@ -2115,14 +2655,23 @@ Much of what can be reliably done to facilitate conceptual labor is, like Monder
 
 One of science writer Lewis Thomas’s most referenced passages addresses itself to this problem. In one of his meditations on why the planning of science is a hazy process even though the outcomes are concrete, he calls out how the “instinctive behavior” of scientific discovery cannot be “prearranged in any precise way.”
 
-> What it needs is for the air to be made right. If you want a bee to make honey, you do not issue protocols on solar navigation or carbohydrate chemistry, you put him together with other bees (and you'd better do this quickly, for solitary bees do not stay alive) and you do what you can to arrange the general environment around the hive. If the air is right, the science will come in its own season, like pure honey[^fn118]. 
+> What it needs is for the air to be made right. If you want a bee to make honey, you do not issue protocols on solar navigation or carbohydrate chemistry, you put him together with other bees (and you'd better do this quickly, for solitary bees do not stay alive) and you do what you can to arrange the general environment around the hive. If the air is right, the science will come in its own season, like pure honey[^fn123]. 
 
 
 
 
-\pagebreak
+
+---
+
+
+
 ## Tenet 7: Patterns and materials of conceptual labor
-\pagebreak
+
+---
+
+
+
+
 
 ### Summary
 
@@ -2136,7 +2685,15 @@ One of science writer Lewis Thomas’s most referenced passages addresses itself
 * Mental models of work share methods of abstraction which can be measured on a fixed scale.
 * Basic patterns of conceptual labor can be learned and developed as skills.
 
-\pagebreak
+
+Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
+
+
+
+---
+
+
+
 
 ### Introduction
 
@@ -2150,13 +2707,17 @@ When we understand this, we can shift how we encounter the materials, ideas, and
 
 By consciously practicing conceptual labor in our native mental terminology, according to its internal rules, we can identify and develop deep patterns, techniques, and concepts that apply to how we do conceptual labor in general. By expressing these patterns in shared languages, we can communicate them to others.
 
-\pagebreak
 
-TODO ADD SECTION HEAD 
+---
+
+
+
+
+### Conceptual labor tends towards abstraction but is rooted in specifics
 
 #### Defining the term “Medium” 
 
-Tenets 1 and 2 lay the foundation of the Theory by describing how we work within our understanding and beliefs. They show how the world as represented in the abstract qualities of a model is the primary reality for the actors that subscribe to it. Our labor is framed by our context, which is why being wrong feels the same as being right until you realize your error. Tenets 3 and 4 address the implications of working within our beliefs, most importantly that the means by which we modify or otherwise interrogate our models is a distinct form of labor. Tenets 5 and 6 establish that this labor follows a continuous, self-reflective cycle. To fully describe the cycle of conceptual labor, we must finally recognize that what we understand is contained within the broader frame of what we *can* understand. In doing so, we introduce medium as a term[^fn119].
+Tenets 1 and 2 lay the foundation of the Theory by describing how we work within our understanding and beliefs. They show how the world as represented in the abstract qualities of a model is the primary reality for the actors that subscribe to it. Our labor is framed by our context, which is why being wrong feels the same as being right until you realize your error. Tenets 3 and 4 address the implications of working within our beliefs, most importantly that the means by which we modify or otherwise interrogate our models is a distinct form of labor. Tenets 5 and 6 establish that this labor follows a continuous, self-reflective cycle. To fully describe the cycle of conceptual labor, we must finally recognize that what we understand is contained within the broader frame of what we *can* understand. In doing so, we introduce medium as a term[^fn124].
 
 The idea of labor having a medium may seem obvious to us as creatures that exist in a physical world. If we picture a painter at their easel, we would be forgiven for assuming that their work to create a painting happens via the medium of paint. While it may be easy to separate our work from our materials like this in *conventional* labor, defining and understanding “what we are working with” is an ongoing concern of conceptual labor. Our material may be physical, or it may be purely conceptual, and it often shares the concerns of both worlds. So our painter’s work is not *just* done with paint. It is exceedingly difficult and rare (if not impossible) for a painter to be *only* concerned with paint to the *total* exclusion of ideas, perceptions, and experiences. 
 
@@ -2181,7 +2742,7 @@ The difficult task of explaining *how* falls to neuroscience and philosophy, but
 
 Conceptual labor is how we leave the frame of a narrative to encounter something on its own terms --- an encounter with the possibilities of the real rather than the strictures of our preconceptions. We can read the previous six Tenets as a guide to this encounter for conscious actors. A conscious actor will encounter their own mind as part of reality, and so their models must have a way to represent their own thoughts.  The very fact that we, as conscious actors, can consider our own thoughts reveals the referential, abstract nature of models. 
 
-Modeling is, at its core, how an actor translates external conditions into their own mental language. A writer can edit their own work because, by writing down their thoughts, they have taken a step to externalize them. Their written words are not *indistinguishable* from their previous thoughts, they are abstract symbols which *represent* their previous thoughts[^fn120]. No writer would ever need editing if they could simply leave a perfect impression of their thoughts on the page. They must use language as a *medium* (in the conventional sense). This step from thought to medium does not just happen once in the process of conceptual labor --- it happens continuously, at all levels. The writer models their thoughts to put them into words, they model their new words, and they model their thoughts about their new words. In this process, we must treat “what we are working with” as its own, real thing while letting it become something new that is no less real. 
+Modeling is, at its core, how an actor translates external conditions into their own mental language. A writer can edit their own work because, by writing down their thoughts, they have taken a step to externalize them. Their written words are not *indistinguishable* from their previous thoughts, they are abstract symbols which *represent* their previous thoughts[^fn125]. No writer would ever need editing if they could simply leave a perfect impression of their thoughts on the page. They must use language as a *medium* (in the conventional sense). This step from thought to medium does not just happen once in the process of conceptual labor --- it happens continuously, at all levels. The writer models their thoughts to put them into words, they model their new words, and they model their thoughts about their new words. In this process, we must treat “what we are working with” as its own, real thing while letting it become something new that is no less real. 
 
 What we are working with, or our *medium*, is simply a proposition of what parts of reality we are encountering. It is what grounds each cycle of the process described in Tenets 5 and 6. Our model is how we represent, in our own mental terms, our understanding of reality (context), the actions that affect it (work), and who is affecting it (actors). So a model may be built upon constantly shifting ground, but it still takes the idea of “ground” seriously. This is why these first three concepts must be understood together as parts of a whole. They say that, that while models are inherently mental abstractions, they remain connected to their medium in significant and comprehensible ways. So Conceptual labor is rooted in its specific, material conditions, but tends towards the abstractions of a model.
 
@@ -2199,7 +2760,7 @@ Such unobserved properties of external objects and ideas can be crucial to our l
 
 Surely this is conceptual labor, but it resists detailed analysis --- especially Conceptual Labor Analysis --- in the moment of its doing. It wouldn’t just be difficult for the painter to do their labor while performing full Analysis on it, it would be *impossible*. Transient physical qualities of the paint, such as its viscosity at the present moment, can be important and necessary parts of the painter’s context. Paint itself is a complex actor, exhibiting behavior and structure that can change the work of the other actor, the painter, as well as the work that new paint will do when it meets the surface. These are just some of the more obvious components of the conceptual labor of painting that cannot be usefully abstracted into any language other than paint during the labor of painting. Yet conceptual labor can still be done between the painter and the painting through the felt, thought, and experienced parts of their model. This particular activity that we call “painting” cannot be learned without using paint --- something indispensable about the activity is easily accessible by paint but out of reach when translated into words or other media.
 
-Through the continuous conversation of conceptual labor, specific qualities of a medium can become part of our context, whether or not they register with our rational state of mind as actors. In summary, this Concept recognizes that, since we cannot assume that our mental models contain everything we need to know about our media, we cannot *fully* separate conceptual labor from the medium with which we do it. *How* the medium contains some of our labor is the subject of our next Concept. TODO < Make title case everywhere.
+Through the continuous conversation of conceptual labor, specific qualities of a medium can become part of our context, whether or not they register with our rational state of mind as actors. In summary, this Concept recognizes that, since we cannot assume that our mental models contain everything we need to know about our media, we cannot *fully* separate conceptual labor from the medium with which we do it. *How* the medium contains some of our labor is the subject of our next Concept.
 
 #### Specific and relevant qualities of conceptual labor are embodied in the media in which it is performed
 
@@ -2207,9 +2768,9 @@ Imagining our painter wielding transient states of paint or sussing out subtle d
 
 The hard-to-explain work of painting is difficult to put into words because a medium can embody unexpressed facts and behaviors that fall outside of the descriptive capacity of our models. We can still do meaningful work with this embodied knowledge without fully understanding it. Our models do not have to prove or represent all the knowledge embodied in a medium to be useful, they only need to behave in a way that is tightly consistent with the medium’s internal rules. It is not enough that a model be similar to its medium, it must be *isomorphic* to its facts and behavior. Model Theory describes it this way: 
 
-> A principle of the modern theory of mental models is that a model has the same structure as the situation that it represents. Like an architect’s model, or a molecular biologist’s model, the parts of the model and their structural relations correspond to those of what it represents. Like these physical models, a mental model is also partial because it represents only certain aspects of the situation. There is accordingly a many-to-one mapping from possibilities in the world to their mental model[^fn121]. 
+> A principle of the modern theory of mental models is that a model has the same structure as the situation that it represents. Like an architect’s model, or a molecular biologist’s model, the parts of the model and their structural relations correspond to those of what it represents. Like these physical models, a mental model is also partial because it represents only certain aspects of the situation. There is accordingly a many-to-one mapping from possibilities in the world to their mental model[^fn126]. 
 
-We can better visualize what this means if we leave the painter’s studio to imagine a mechanic in their garage, working on an engine. The mechanic needs to be able to think not just about what the engine is, but about the ways it moves and changes. If they had to use a physical model, it wouldn’t be very useful if it was just a block of stone carved to look like the engine. The mechanic needs a model that is *isomorphic*[^fn122] to the physical engine. It should have structures and behaviors that match the engine, as parts and as a whole system. It doesn’t have to explain or represent the engine as much as it should *act* like the engine. It should have a set of internally-consistent rules that cause imagined changes to the model to operate the same way an equivalent change in the physical engine would. 
+We can better visualize what this means if we leave the painter’s studio to imagine a mechanic in their garage, working on an engine. The mechanic needs to be able to think not just about what the engine is, but about the ways it moves and changes. If they had to use a physical model, it wouldn’t be very useful if it was just a block of stone carved to look like the engine. The mechanic needs a model that is *isomorphic*[^fn127] to the physical engine. It should have structures and behaviors that match the engine, as parts and as a whole system. It doesn’t have to explain or represent the engine as much as it should *act* like the engine. It should have a set of internally-consistent rules that cause imagined changes to the model to operate the same way an equivalent change in the physical engine would. 
 
 It is by working through isomorphism rather than proven fact that the mechanic can do conceptual labor with their hands and the engine as much as they can with their brain. This is *the* important role of a model --- to contain an internally-consistent set of possibilities too complex to consciously apprehend all at once. 
 
@@ -2222,27 +2783,28 @@ Of course, between the engine and what the mechanic understands about it, it is 
 
 A painter clearly models their paint --- they have an isomorphic sense of what the paint (actor) will do (work) within its expressive range (context) at any given moment. However, a model of *painting* must treat the painter’s encounter with the medium as a material circumstance just as legitimate as the paint. It is a complex model that contains a model of the medium as well as a decent amount of self-reflection. What the painter sees, imagines, or feels as the canvas in front of them changes is crucial to their model.
 
-An actor who can think about their own thoughts can make self-referential models. That means that the “existing conditions” of their medium can simply be their own state of mind before taking a moment to reflect. This moment of reflection models the actor’s focus of concern just as they would a concrete phenomenon of the physical world[^fn123]. In doing so, we abstract our beliefs and perceptions of the conditions and media of our labor into the context of our model. The complex thing we hold in our head that we are calling a model becomes, if only for a moment, the primary site of conceptual labor[^fn124].
+An actor who can think about their own thoughts can make self-referential models. That means that the “existing conditions” of their medium can simply be their own state of mind before taking a moment to reflect. This moment of reflection models the actor’s focus of concern just as they would a concrete phenomenon of the physical world[^fn128]. In doing so, we abstract our beliefs and perceptions of the conditions and media of our labor into the context of our model. The complex thing we hold in our head that we are calling a model becomes, if only for a moment, the primary site of conceptual labor[^fn129].
 
 
 #### Mental models of work share methods of abstraction which can be measured on a fixed scale.
 
-At first glance, this concept may seem at odds with the emphasis previous Concepts place on the individual experience of labor. We can never assume that one person’s mental experience of labor is the same as anyone else’s, even when they are working on the same project. However, this doesn’t mean that, beyond the boundary of subjectivity, all is unstructured chaos in our heads.
+At first glance, this Concept may seem at odds with the emphasis previous Concepts place on the individual experience of labor. We can never assume that one person’s mental experience of labor is the same as anyone else’s, even when they are working on the same project. However, this doesn’t mean that, beyond the boundary of subjectivity, all is unstructured chaos in our heads.
 
 By defining “what exists” within a model, context is the  fundamental frame of conceptual labor.  We can start with the essential properties of frames to to identify common ways to measure all conceptual labor. A frame has an inside and an outside and forms a boundary between the two.
 
 Context separates what an actor knows and believes from beliefs they do not hold and knowledge they do not have. The unknown unknowns outside of its frame remain there because, from the perspective of the actor, they do not appear to be *possible*. So the most basic measure that can be applied to conceptual labor is *possibility ---* a model contains a set of possibilities of who can do what within the frame it describes. 
 
-Whether one looks at their circumstances and thinks that everything or nothing is possible, whether the circumstances are mysterious or rigorously studied, every act of work is subject to at least an implicit sense of “possibility[^fn125]”. The mishaps of hypnosis subjects and sleepwalkers show that even at a subconscious level our actions are contained within our concept of possibility. A sleepwalker  (or robotic vacuum) bumping into real obstacles while trying to navigate their dreamed surroundings isn’t trying to do something they know they can’t --- what they think is possible simply isn’t. One must be conscious to *try* to do the impossible. 
+Whether one looks at their circumstances and thinks that everything or nothing is possible, whether the circumstances are mysterious or rigorously studied, every act of work is subject to at least an implicit sense of “possibility[^fn130]”. The mishaps of hypnosis subjects and sleepwalkers show that even at a subconscious level our actions are contained within our Concept of possibility. A sleepwalker  (or robotic vacuum) bumping into real obstacles while trying to navigate their dreamed surroundings isn’t trying to do something they know they can’t --- what they think is possible simply isn’t. One must be conscious to *try* to do the impossible. 
 
 
-![Figure 3: The scale of possible to not possible](images/fig3.png)
+![The scale of possible to not possible](theory-text/images/fig3.png)
+*The scale of possible to not possible*
 
 The scope of what is and isn’t possible varies from person to person, of course, but everyone possesses an internal scale which starts at “not possible” and increases to “guaranteed.” We become keenly aware of this scale in the thrilling moments when we decide to work in the realm of the impossible, or when the borders of that realm shift and we are suddenly able to see new potential in the world or our own skills and imagination. Possibility is itself a meta-model that contains our models of physical, social, and personal reality. It is just one of countless meta-models that silently shape our labor.
 
 #### Basic patterns of conceptual labor can be learned and developed as skills.
 
-This is perhaps the most significant concept of Tenet 7, which proceeds directly from Tenet 2. If we experience all our conceptual labor through models, our means of measuring, describing, and comparing *all* the ways in which we do conceptual labor can be anchored by the inherent, abstract qualities of models themselves. 
+This is perhaps the most significant Concept of Tenet 7, which proceeds directly from Tenet 2. If we experience all our conceptual labor through models, our means of measuring, describing, and comparing *all* the ways in which we do conceptual labor can be anchored by the inherent, abstract qualities of models themselves. 
 
 “Possibility” shows us that models are containers. Whatever your model contains, you can empty it, shake it up, break it open, expand it, or focus it. Whatever you know, you can stand at the boundaries of your understanding and reach for more. The deep implication of this Tenet is that while the specific circumstances of conceptual labor must be taken seriously on their own terms, the experience of conceptual labor is ultimately a mental one that operates on common abstractions. Put another way --- it doesn’t matter what conceptual labor looks like from the outside nearly as much as how it feels in our heads.  
 
@@ -2250,7 +2812,7 @@ One of the main practical applications of the Theory is to articulate the fundam
 
 The scale of possibility is just one of many shared concepts that frame our conceptual labor. Since modeling establishes and then abstracts the “facts” of the frame in which it operates, we can identify a boundary between facts and their abstractions within a model. Anyone doing conceptual labor will experience some sense of that boundary as they attempt to understand and use those facts. 
 
-Another boundary we can infer from a previous concept is that between perceived cycles of labor --- the boundary between “working” and “reflecting.” We can also recognize personal meta-patterns within our own conceptual labor. How to work when we are tired, how to maintain and organize our tools (physical or mental), even how we personally encounter language. The effort to understand and reflect productively on these patterns is, of course, important conceptual labor that can support all our other work, like an athlete knowing their body and its responses in detail.
+Another boundary we can infer from a previous Concept is that between perceived cycles of labor --- the boundary between “working” and “reflecting.” We can also recognize personal meta-patterns within our own conceptual labor. How to work when we are tired, how to maintain and organize our tools (physical or mental), even how we personally encounter language. The effort to understand and reflect productively on these patterns is, of course, important conceptual labor that can support all our other work, like an athlete knowing their body and its responses in detail.
 
 When a painter leans back to appraise the last mark they made, the looking is as much the labor of painting as is the moving around of paint on a canvas. Much painting can be done without ever touching paint, and one can spend countless hours moving paint around without doing the labor that they wanted to do at the studio, which they called “painting” only for lack of a better term. It is a term we have to interrogate and refine just like we did with the term “map” in our Conceptual Labor Analysis example.
 
@@ -2258,15 +2820,19 @@ If we analyze our conceptual labor, formally or not, we are sure to find that ev
 
 All conceptual labor includes a form of self-education. It is the effort by which we grow familiar with the landscape of our models’ realities. We hone our instincts for our own mental laws and develop theories of their operating principles so that we may build sophisticated mental machinery. In doing so, we acquire skills that we can apply to *all* of our conceptual labor. As the Theory facilitates critical analysis of the very process of making and using models, it can be combined with our existing practices of conceptual labor to increase our faculty in perceiving, working with, and escaping the frames that contain our labor. When we are able to articulate these frames and practices, fundamental skills of conceptual labor can be learned and applied to *all* of our labor, regardless of material, discipline, or appearance.
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Translations, Possible and Impossible
 
 #### Conceptual labor cannot be fully separated from its media
 
-In the popular online video series, *5 Levels*  “an expert explains a complex subject in five levels of complexity”[^fn126]  to five different guests. In the most-viewed video[^fn127] of the first season, the musician Jacob Collier tackles the subject of musical harmony. What distinguishes this video from all the others in the series, more than its 10 million views, is that Collier supports his explanations by playing a piano. When we get to the expert level, jazz legend Herbie Hancock joins Collier with his own piano, and they communicate in musical notes as much, if not more, as they do in words. This caught the attention of the viewers.
+In the popular online video series, *5 Levels*  “an expert explains a complex subject in five levels of complexity”[^fn131]  to five different guests. In the most-viewed video[^fn132] of the first season, the musician Jacob Collier tackles the subject of musical harmony. What distinguishes this video from all the others in the series, more than its 10 million views, is that Collier supports his explanations by playing a piano. When we get to the expert level, jazz legend Herbie Hancock joins Collier with his own piano, and they communicate in musical notes as much, if not more, as they do in words. This caught the attention of the viewers.
 
-YouTube user Phyrre56 commented[^fn128] 
+YouTube user Phyrre56 commented[^fn133] 
 
 Child: You know nothing, I'll tell you the basics. 
 
@@ -2279,12 +2845,13 @@ Professor: You know the objective concepts, so let's discuss the subjective ones
 Master: Spoken word can no longer support our conversation.
 
 
-![User elden found their own non-verbal representation](images/elden-comment.png)[^fn129]
+![User elden found their own non-verbal representation](theory-text/images/elden-comment.png)[^fn134]
+*User elden found their own non-verbal representation*
 
-![Greg C had this to say](images/greg-c-comment.png)[^fn130]
+![Greg C had this to say](theory-text/images/greg-c-comment.png)[^fn135]
+*Greg C had this to say*
 
-
-These comments recognize that there are many ways to explain basic concepts to novices, but the labor of initiates and professionals cannot be properly explained without their materials. The video starts at the well-trodden center of Professor Might’s knowledge circle[^fn131], and works its way out to the specialized conceptual labor that Collier and Hancock do with music as they push the boundaries of convention. At that edge, satisfactory discussion of this kind of labor cannot be separated from certain information embodied within the medium itself.
+These comments recognize that there are many ways to explain basic concepts to novices, but the labor of initiates and professionals cannot be properly explained without their materials. The video starts at the well-trodden center of Professor Might’s knowledge circle[^fn136], and works its way out to the specialized conceptual labor that Collier and Hancock do with music as they push the boundaries of convention. At that edge, satisfactory discussion of this kind of labor cannot be separated from certain information embodied within the medium itself.
 
  
 
@@ -2292,7 +2859,7 @@ These comments recognize that there are many ways to explain basic concepts to n
 
 What the comments overlook is that the piano is necessary at *all* stages of explanation. Collier needs a piano because to non-musicians, the abstract term “F sharp diminished 7th” means nothing. Each successive guest has a greater ability to understand musical terminology, but their conceptual labor to understand what Collier is talking about is still grounded in what comes out of the piano.  Why should a piano explain something better than words? To answer that, we have to carefully define the medium of the conceptual labor at hand as we did in the previous chapter. Collier’s topic is not the physics of harmonics and fundamental frequencies, it is musical harmony as played --- how to play notes and chords *in music of a certain style.*
 
-The video repeatedly makes this distinction --- the thing that Collier is explaining is how to create harmonies that resolve in such a way that serve a musical performance. This is a salient point as he focuses his efforts on using harmonic progressions that often defy a traditional understanding of musical theory. To Collier’s labor, concepts like “gratification,” “home,” and “polarity” are as real and demonstrable as are triads, overtones, and specific chords[^fn132]. This is what this Concept means by “specific and relevant.” Identifiable, irreducible qualities of Collier’s medium are necessary to his conceptual labor. It is one thing to be told that you will feel a certain way when you hear something, and it is another to feel it. The cycle of conceptual labor would be broken without access to the specific information one gets from actually hearing the music.
+The video repeatedly makes this distinction --- the thing that Collier is explaining is how to create harmonies that resolve in such a way that serve a musical performance. This is a salient point as he focuses his efforts on using harmonic progressions that often defy a traditional understanding of musical theory. To Collier’s labor, concepts like “gratification,” “home,” and “polarity” are as real and demonstrable as are triads, overtones, and specific chords[^fn137]. This is what this Concept means by “specific and relevant.” Identifiable, irreducible qualities of Collier’s medium are necessary to his conceptual labor. It is one thing to be told that you will feel a certain way when you hear something, and it is another to feel it. The cycle of conceptual labor would be broken without access to the specific information one gets from actually hearing the music.
 
 This, of course, is a very familiar principle to educators, coaches, and most people who have tried to show anyone else how to do something. Hands-on lessons and explanations *in media res* are an essential part of how we learn and teach. The principle of learning that makes some ideas about chords easier to communicate with a piano than in a detailed explanation is the foundation of Tenet 7 and its Concepts. The work and thinking that happens where “spoken word can no longer support” the conversation are crucial to conceptual labor. Discussion of this work regularly breaks down into jargon and metaphor, leaning heavily on broad terms like “sense” or “intuition” or “art.” Trusting Tenet 7 should help us navigate this murky territory without appealing to mysticism or over-simplification, building on a foundation of the preceding six Tenets.
 
@@ -2311,7 +2878,7 @@ In another video in the series, Dr. Talia Gershon, a quantum computing expert, e
 
 Her abstractions behave the way that computer-chip-designer Danny Hillis explains the principle of *functional abstraction* --- the idea that, as you climb the ladder of abstraction, you don’t have to think about how the abstractions below you work as long as they work as expected.
 
-> The structure of the computer is an example of the application of this principle --- over and over again, at many levels. Computers are understandable because you can focus on what is happening at one level of the hierarchy without worrying about the details of what goes on at the lower levels. Functional abstraction is what decouples the ideas from the technology[^fn133].
+> The structure of the computer is an example of the application of this principle --- over and over again, at many levels. Computers are understandable because you can focus on what is happening at one level of the hierarchy without worrying about the details of what goes on at the lower levels. Functional abstraction is what decouples the ideas from the technology[^fn138].
 
 Gershon’s “lower levels” are supported by math, computation, and experimental result --- different methods of laying out precise, repeatable steps that produce the same result every time they are followed correctly. An arrangement of quarters or the symbols 01000001 are abstract references to the result of those steps, so they can serve the same function as the thing that they abstract. Gershon uses the word “spin” in the same way that Collier uses “gratification” or “home.” Things in the quantum realm do not spin like they do in the classical realm of quarters and humans, but our idea of “spinning” is isomorphic to phenomena in her work within the level of detail discussed in the video, so she can can treat that abstraction as a concrete, external phenomena. 
 
@@ -2339,7 +2906,8 @@ We can imagine, then, a threshold between the known and the unknown that defines
 
 This labor is different than the labor that occurs within that boundary. Whatever you know, you must do conceptual labor to cross that boundary. Our fundamental fixed scale goes from *here* to *there*.
 
-![Figure 4: The fundamental scale of conceptual labor](images/fig4.png)
+![The fundamental scale of conceptual labor](theory-text/images/fig4.png)
+*The fundamental scale of conceptual labor*
 
 #### CL can be learned and practiced
 
@@ -2353,36 +2921,36 @@ So when we invoke the term “art” in describing any kind of activity, we are 
 
 In the book, *What Painting Is*, James Elkins compares painters to alchemists. Both painters and alchemists 
 
-> ...do not know (or care) what modern chemistry might have to say about their favorite substances. Nearly any artist would fail an exam on the composition of paints.... What muralist knows why fresco requires lime plaster, ordinary plaster, cement, and sand?[^fn134]
+> ...do not know (or care) what modern chemistry might have to say about their favorite substances. Nearly any artist would fail an exam on the composition of paints.... What muralist knows why fresco requires lime plaster, ordinary plaster, cement, and sand?[^fn139]
 
 This is from the chapter, *A short course in forgetting chemistry*.  Rather than refuting modern chemistry, Elkins reminds us that for most of human history we tried to make sense of the world “without the instruments of quantitative science.” The lessons to be taken from alchemy do not overwrite what we know, they help us find our way when we work with what we do not know.
 
-> When nothing is known, anything is possible... If there is no way to predict the outcome, or to confidently name the substance, or to describe the process accurately enough so it can be repeated by someone else, then the experimenter has to watch as carefully as possible and take note of every change. That close observation is sometimes lost today, when we think we know what substances are. In a chemistry experiment, the chemist might watch for just one thing: a certain temperature, or a pressure, or the signs of boiling. But artists and alchemists have to keep their eye on everything, because they do not know what to expect[^fn135].
+> When nothing is known, anything is possible... If there is no way to predict the outcome, or to confidently name the substance, or to describe the process accurately enough so it can be repeated by someone else, then the experimenter has to watch as carefully as possible and take note of every change. That close observation is sometimes lost today, when we think we know what substances are. In a chemistry experiment, the chemist might watch for just one thing: a certain temperature, or a pressure, or the signs of boiling. But artists and alchemists have to keep their eye on everything, because they do not know what to expect[^fn140].
 
 An alchemist’s labor to order the stuff of the world is rooted in the real materials in front of them, but tends towards the general principles and new knowledge they wish to abstract out of their encounter with them. It requires a special kind of continuous attention.
 
 Elkins goes on to reference alchemical texts and painter’s techniques that reveal alternative orderings of the world. These reveal glimpses of a separate episteme, parallel to the science-based world that we live in. In it, knowledge is produced through metaphor, and observations that rely, in part, on the observer. This world is neither obscure nor irrelevant to our labor. We may pass quickly between routine, repeatable work and the kind of thing that alchemists and artists do, whatever we want to call that. Our mental realities combine factual reality and the meanings we construct through metaphor and abstraction.
 
-In *Metaphors We Live By*[^fn136], George Lakoff concludes
+In *Metaphors We Live By*, George Lakoff concludes
 
-> Metaphors may create realities for us, especially social realities. A metaphor may thus be a guide for future action. Such actions will, of course, fit the metaphor. This will, in turn, reinforce the power of the metaphor to make experience coherent. In this sense metaphors can be self-fulfilling prophecies.
+> Metaphors may create realities for us, especially social realities. A metaphor may thus be a guide for future action. Such actions will, of course, fit the metaphor. This will, in turn, reinforce the power of the metaphor to make experience coherent. In this sense metaphors can be self-fulfilling prophecies.[^fn141]
 
-Appropriately, the field of sociology uses the term “the social imaginary” to refer to “the set of values, institutions, laws, and symbols through which people imagine their social whole[^fn137].” As painters have their chemical imaginary, we all interact with models of observed behaviors and folk psychology that often influence our decisions and our lives more than comparable empirical data, should any even exist. The process of metaphor is one of abstraction, of impressing the pattern of an outside phenomena into the workings of our mental models.
+Appropriately, the field of sociology uses the term “the social imaginary” to refer to “the set of values, institutions, laws, and symbols through which people imagine their social whole[^fn142].” As painters have their chemical imaginary, we all interact with models of observed behaviors and folk psychology that often influence our decisions and our lives more than comparable empirical data, should any even exist. The process of metaphor is one of abstraction, of impressing the pattern of an outside phenomena into the workings of our mental models.
 
 As Lakoff puts it:
 
 > Metaphors, as we have seen, are conceptual in nature. They are among our principal vehicles for understanding. And they play a central role in the construction of social and political reality.
 
-That social and political reality, however made-up it is, can be the matter of life and death. Philosopher Kwame Anthony Appia makes this clear in his work to explode modern theories of race as a concept based in biology rather than localized “social imaginaries.” His research shows how, since the 19th century, we have constructed often brutal social realities of race founded on various scientific claims, none of which hold up[^fn138].
+That social and political reality, however made-up it is, can be the matter of life and death. Philosopher Kwame Anthony Appia makes this clear in his work to explode modern theories of race as a concept based in biology rather than localized “social imaginaries.” His research shows how, since the 19th century, we have constructed often brutal social realities of race founded on various scientific claims, none of which hold up[^fn143].
 
-> You try to say what the whiteness of a white person or the blackness of a black person actually means in scientific terms, there’s almost nothing you can say that is true or even remotely plausible. Yet socially, we use these things all the time as if there’s a solidity to them[^fn139].”
+> You try to say what the whiteness of a white person or the blackness of a black person actually means in scientific terms, there’s almost nothing you can say that is true or even remotely plausible. Yet socially, we use these things all the time as if there’s a solidity to them[^fn144].”
 
 
 The work to navigate social reality is conceptual labor, and we must do it every day. When a society is set up with rigid, arbitrary boundaries of class, race, and status, entire populations are forced to do extra conceptual labor every day just to participate. If we want to discern our effective social reality and expand its possibilities for ourselves and our fellow citizens, we must engage the close observation Elkins talks about when we consider what we think we know about “how things are.” 
 
 We can apply lessons from alchemy to painting and then carry that close-looking into our social, political, and personal lives because conceptual labor uses fundamental mental machinery. It is what we engage every time someone says, in effect, “the work might look this, but *this* is what it really is.” 
 
-This is why so many organizations feel the need to have a mission statement --- to overtly connect their specific activities to their value in a conceptual realm, however aspirational that connection may be. Any educational institution will furnish an example of the conceptual nature of their concrete offerings. It is commonplace for an athletic departments declare that “the lessons learned on the playing field are in many ways lessons of life[^fn140],” before going on to list those lessons, such as “the value of setting common, achievable goals” and “the value of accepting responsibility.” These lists are, in a way, a precursor to every post-game interview with an athlete who says “At the end of the day, what really matters is \_\_\_.”
+This is why so many organizations feel the need to have a mission statement --- to overtly connect their specific activities to their value in a conceptual realm, however aspirational that connection may be. Any educational institution will furnish an example of the conceptual nature of their concrete offerings. It is commonplace for an athletic departments declare that “the lessons learned on the playing field are in many ways lessons of life[^fn145],” before going on to list those lessons, such as “the value of setting common, achievable goals” and “the value of accepting responsibility.” These lists are, in a way, a precursor to every post-game interview with an athlete who says “At the end of the day, what really matters is \_\_\_.”
 
 Whether your labor begins in the gym, the art studio, or the laboratory, labor that tends in this direction, away from fixed narratives, does indeed foster shared skills and deep, generally applicable lessons. Whatever frame you start in, you can learn to see it better, and to leave it more readily. There are particular skills and habits to working with narratives unmoored from a fixed reality. You must cultivate multiple approaches and understand when and why to employ each one. You may work while lightly holding many narratives in your mind at once, or while cycling through potential narratives one by one.
 
@@ -2392,11 +2960,56 @@ This is the fundamental process of labor that can be described by these seven Te
 
 
 
-\pagebreak
 
-## Author's Note
+---
 
-One of the unique challenges of writing This Theory was to find an appropriate method of citing the near-infinite amount of relevant source material. I struggled to respect and acknowledge the vast scope of existing theory that figures have written about the specific conceptual labor of their fields without situating the Theory in any one of them more than the other. Examples must be succinct without being glib, and certain terms must be avoided, like a particularly strong pigment, lest they color the whole text with the connotations of a particular industry, discipline, or type of book. I have, for example, avoided any mention of the stock market, since most of the extant literature of that field conflates the very idea of “being smart” with owning profitable investments. It would not be fair to say I have avoided it because I know almost nothing about it, as I have touched on dozens of subjects that I know almost nothing about. Conversely, the subjects in which I do have a depth of experience, were even more hazardous to the tone and pretenses to neutrality of this text, being both my native language of conceptual labor and the main arenas in which I can examine it. That the final tenet uses the example of a painter at their easel as a metaphor for major lessons of the Theory is my way of coming clean.
+
+
+
+## Author's Note -- Where this Theory Comes From
+
+
+This project began a decade and a half ago when I began to notice patterns in the way that people talk about how to do their hardest work. I had the great privelege of studying painting at the Glasgow School of Art, where I was surrounded by professors, working artists, and fellow students who were seriously, generously, and earnestly trying to make art and know what it means to do so. At the same time, I was trying to learn martial arts for the first time, develop as a writer, and figure out if I could be a computer programmer. On any given day I would try to listen to and learn from  professionals, fellow students, academics, books, websites, and my own hunches in my efforts to develop in any one of these directions. It was impossible not to get the what I heard confused in the most interesting ways.
+
+Much of what I heard from experts in each field sounded strangely similar. They emphasized that some of the most important work could not be directly explained, instead it had to be cultivated and chased down. 
+
+* when you study art, you encounter lots of executive maps
+* even working on my own, I felt a tendency to drift towards "an inadequate yet comforting certainty"
+* this was always a trap
+
+
+The vigilant self-assessment that it took to prevent that drift at first seemed like a by-product of the work, but I later understood it to be central. 
+
+* in fact, this was one of the lessons that seemed to be part of a broader pattern that anyone trying to teach art for real ended up trying to convey
+
+* So it turned out that 
+
+The pattern that I kept noticing was a type of work that combined domain-specific practices with intense, recursive analysis in an attempt to cultivate or discover novel ideas expressed through a particular medium.
+ 
+I couldn’t completely describe this type of work, but I was certain it showed up regularly and unexpectedly, especially in the process of learning and studying. 
+
+
+I thought this was a special condition of the arts until I graduated and started working as a web developer. While learning even the basics of programming, I recognized the same patterns of working, learning, and talking that I thought belonged in “the arts.” 
+
+* On one hand we could say that the most important methods of our work were difficult, if not impossible, to fully describe, while on the other hand spending most of our attention and words on describing all the other parts.
+
+* I thought we needed a better vocabulary, and that it should not be so hard to find one if everyone kept saying roughly the same things over and over.
+
+* I was in my 20s then, and I am 40 now, and I have been trying to find that vocabulary since then, so it was a little harder than I expected.
+
+### Precursors
+
+* At school, I wrote my dissertation on the conflict between fundamental uncertainty of the work of making art and the obligations of an institution founded on the idea that it can reliably graduate students who have learned how to do that work. 
+
+* That was mainly focused on A-art institutions, but made furtive attempts to connect to the world of computer programming.
+
+After I graduated, I was left with the hunch that the patterns I was seeing were more fundamental to working and learning than I could understand from my own experience. This led me to found a small organization dedicated to talking about work and ideas across disciplines. For five years, I listened to how people described, in their own terms, what was important to them about their work and how they did it. In the conversations at these events, people naturally identified common patterns and practices of working. It became clear that the only special claim art had over these patterns was that when, for lack of a better term, someone said there was “an art” to what they did, they began to talk about the patterns I was looking for.
+ 
+My first attempt at a theory was to try to extract these patterns from my personal experience of trying to do this work as a painter, which became the essay [The Thing I am Trying to Do](http://painting.school){:target="blank"}. While developing that essay, I taught two classes at a code school which incorporated early ideas of the Theory, focused on its expression in the tech industry. Finishing that essay and seeing my students successfully apply the ideas to their jobs and careers spurred me to develop a general theory. 
+
+[something more here]
+
+One of the unique challenges of writing the Theory was to find an appropriate approach to citing the near-infinite amount of relevant source material. I struggled to respect and acknowledge the vast scope of existing theory that prominent figures in many fields have written about the conceptual labor specific to their disciplines without situating the Theory in any one of them more than the other. Examples must be succinct without being glib, and certain terms must be avoided, like a particularly strong pigment, lest they color the whole text with the connotations of a particular industry, discipline, or type of book. Conversely, the subjects in which I do have a depth of experience were even more hazardous to the tone and pretenses to neutrality of this text, being both my native language of conceptual labor and the main arenas in which I can examine it. That the final tenet uses the example of a painter at their easel as a metaphor for major lessons of the Theory is my way of coming clean.
 
 This theory and its resulting framework were distilled from methods and patterns which can be found in the practices and theory of countless other disciplines. It is not meant to define which activities are conceptual labor and which aren’t; that would be as useful and possible as documenting every change in the surface of a river. It is more to say that one can identify patterns of conditions, habits, and questions that tend to be useful in understanding and navigating almost any river. 
 
@@ -2411,8 +3024,7 @@ A shared language of conceptual labor can enhance the ease and effectiveness wit
 So that is all to say that, with the Theory in our back pocket, there is much, much more work to be done. When we use it to expand our definitions of work, the Theory can bridge the gap between different disciplines --- or different areas of the same discipline --- that do similar conceptual labor in their own ways, so we ought to try to build bridges. When we turn to it to articulate and navigate our individual experience of work, it can provide new ways to catalogue the countless effective patterns of working that have been discovered and refined by artists and writers, researchers and engineers, counselors and parents, and so on. So we ought to try to build a card catalogue for this vast library. If we use it to see through established narratives, we can expose important work which is overlooked, willfully or by accident, so we ought to write new job descriptions and build new unions. Perhaps most importantly it can help us figure out if we are thinking what we think we are thinking or if we are doing what we think we are doing. In this era of unintended consequences we ought to double-check on whatever scale we can.
 
 
-
-
+# Footnotes
 
 
 [^fn1]: Farzad, Houman. “Looking for the Missing Ring.” In Classic Tales of Mulla Nasreddin, Retold by Houman Farzad, translated by Diane L. Wilcox, v. Costa Mesa, California: Mazda Publishers, 1989.
@@ -2431,9 +3043,9 @@ So that is all to say that, with the Theory in our back pocket, there is much, m
 
 [^fn8]: The Labor Theory of Value is primarily associated with Marxism, though it was previously addressed by a number of economists and philosophers before Marx wrote about it in Das Capital. For  a contemporary analysis of its adherents, criticisms, and legacy see Keen, Steve. “Use-Value, Exchange Value, and the Demise of Marx’s Labor Theory of Value.” *Journal of the History of Economic Thought* 15, no. 1 (1993): 107--21. https://doi.org/10.1017/S1053837200005290.
 
-[^fn9]: “Knowledge Worker.” In *Wikipedia*, May 2, 2021. https://en.wikipedia.org/w/index.php?title=Knowledge\_worker&oldid=1021066569.
+[^fn9]: See “Knowledge Worker.” In *Wikipedia*, May 2, 2021. https://en.wikipedia.org/w/index.php?title=Knowledge\_worker&oldid=1021066569 and Pyöriä, Pasi. “The Concept of Knowledge Work Revisited.” *Journal of Knowledge Management* 9, no. 3 (January 1, 2005): 116--27. https://doi.org/10.1108/13673270510602818.
 
-[^fn10]: Pyöriä, Pasi. “The Concept of Knowledge Work Revisited.” *Journal of Knowledge Management* 9, no. 3 (January 1, 2005): 116--27. https://doi.org/10.1108/13673270510602818.
+[^fn10]: Thomas, Lewis. *Lives of a Cell: Notes of a Biology Watcher*. Demco Media, 1978.
 
 [^fn11]: Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. Updated with a new preface. Berkeley Los Angeles London: University of California Press, 2012.
 
@@ -2457,243 +3069,261 @@ So that is all to say that, with the Theory in our back pocket, there is much, m
 
 [^fn21]: Argyris, Chris. *Teaching Smart People How to Learn*. Harvard Business Review Classics Series. Boston, Mass: Harvard Business Press, 2008.
 
-[^fn22]: Smith, Zadie. “Fail Better.” *The Guardian*. January 13, 2007.
+[^fn22]: Ayers, William. To Teach: The Journey of a Teacher. Presumed First Edition. New York: Teachers College Pr, 1993.
 
-[^fn23]: Cheng, Eugenia. *The Art of Logic: How to Make Sense in a World That Doesn’t*, 2018. https://www.overdrive.com/search?q=1DA6EB17-A427-4F2D-861C-6172948D52B2.
+[^fn23]: Smith, Zadie. “Fail Better.” *The Guardian*. January 13, 2007.
 
-[^fn24]: Victor, Bret. “Bret Victor, Beast of Burden.” Accessed May 8, 2021. http://worrydream.com/\#!/InventingOnPrinciple.
+[^fn24]: Cheng, Eugenia. *The Art of Logic: How to Make Sense in a World That Doesn’t*, 2018. https://www.overdrive.com/search?q=1DA6EB17-A427-4F2D-861C-6172948D52B2.
 
-[^fn25]: Linsky, Bernard, and Andrew David Irvine. “Principia Mathematica.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/sum2021/entries/principia-mathematica/.
+[^fn25]: Victor, Bret. “Bret Victor, Beast of Burden.” Accessed May 8, 2021. http://worrydream.com/\#!/InventingOnPrinciple.
 
-[^fn26]: Mathematician Kurt Gödel’s 1931 paper, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems," used the formal logic of the Principia Mathematica, thought to be watertight in its ability to express provable statements, to prove that it was incomplete in two ways. “Gödel’s two incompleteness theorems ... concern the limits of provability in formal axiomatic theories. The first incompleteness theorem states that in any consistent formal system *F* within which a certain amount of arithmetic can be carried out, there are statements of the language of *F* which can neither be proved nor disproved in *F*. According to the second incompleteness theorem, such a formal system cannot prove that the system itself is consistent (assuming it is indeed consistent).” From Raatikainen, Panu. “Gödel’s Incompleteness Theorems.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Spring 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/spr2021/entries/goedel-incompleteness/. See also Wolchover, Natalie. “How Gödel’s Proof Works.” Quanta Magazine, July 14, 2020. https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/ and the classic, highly readable Hofstadter, Douglas R. *Gödel, Escher, Bach: An Eternal Golden Braid*. 20th anniversary ed. New York: Basic Books, 1999.
+[^fn26]: Linsky, Bernard, and Andrew David Irvine. “Principia Mathematica.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/sum2021/entries/principia-mathematica/.
 
-[^fn27]: Weitz, Morris. “The Role of Theory in Aesthetics.” *The Journal of Aesthetics and Art Criticism* 15, no. 1 (September 1, 1956): 27--35. https://doi.org/10.1111/1540\_6245.jaac15.1.0027.
+[^fn27]: Mathematician Kurt Gödel’s 1931 paper, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems," used the formal logic of the Principia Mathematica, thought to be watertight in its ability to express provable statements, to prove that it was incomplete in two ways. “Gödel’s two incompleteness theorems ... concern the limits of provability in formal axiomatic theories. The first incompleteness theorem states that in any consistent formal system *F* within which a certain amount of arithmetic can be carried out, there are statements of the language of *F* which can neither be proved nor disproved in *F*. According to the second incompleteness theorem, such a formal system cannot prove that the system itself is consistent (assuming it is indeed consistent).” From Raatikainen, Panu. “Gödel’s Incompleteness Theorems.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Spring 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/spr2021/entries/goedel-incompleteness/. See also Wolchover, Natalie. “How Gödel’s Proof Works.” Quanta Magazine, July 14, 2020. https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/ and the classic, highly readable Hofstadter, Douglas R. *Gödel, Escher, Bach: An Eternal Golden Braid*. 20th anniversary ed. New York: Basic Books, 1999.
 
-[^fn28]: Warburton, Nigel. *The Art Question*. London; New York: Routledge, 2003.
+[^fn28]: Weitz, Morris. “The Role of Theory in Aesthetics.” *The Journal of Aesthetics and Art Criticism* 15, no. 1 (September 1, 1956): 27--35. https://doi.org/10.1111/1540\_6245.jaac15.1.0027.
 
-[^fn29]: Carse, James P. *Finite and Infinite Games*. New York: The Free Press, 2013.
+[^fn29]: Warburton, Nigel. *The Art Question*. London; New York: Routledge, 2003.
 
-[^fn30]: Solnit, Rebecca. *A Field Guide to Getting Lost*. New York: Penguin Books, 2014.
+[^fn30]: Carse, James P. *Finite and Infinite Games*. New York: The Free Press, 2013.
 
-[^fn31]: The case study in Tenet 7 provides a real-world example where one can watch this happening.
+[^fn31]: Solnit, Rebecca. *A Field Guide to Getting Lost*. New York: Penguin Books, 2014.
 
-[^fn32]: Odell, Jenny. *How to Do Nothing: Resisting the Attention Economy*, 76. Brooklyn, NY: Melville House, 2019.
+[^fn32]: The case study in Tenet 7 provides a real-world example where one can watch this happening.
 
-[^fn33]: What Maciej Cegłowski. Calls “...wooly business books one comes across at airports ("Management secrets of Gengis Khan", the "Lexus and the Olive Tree") that milk a bad analogy for two hundred pages to arrive at the conclusion that people just like the author are pretty great.” from Cegłowski, Maciej. “Dabblers And Blowhards (Idle Words).” Idle Words. Accessed May 8, 2021. https://idlewords.com/2005/04/dabblers\_and\_blowhards.htm.
+[^fn33]: Odell, Jenny. *How to Do Nothing: Resisting the Attention Economy*, 76. Brooklyn, NY: Melville House, 2019.
 
-[^fn34]: Schwartz, Tony. “I Wrote The Art of the Deal with Trump. He’s Still a Scared Child \| Tony Schwartz \| The Guardian.” Accessed May 8, 2021. https://www.theguardian.com/global/commentisfree/2018/jan/18/fear-donald-trump-us-president-art-of-the-deal.
+[^fn34]: What Maciej Cegłowski. Calls “...wooly business books one comes across at airports ("Management secrets of Gengis Khan", the "Lexus and the Olive Tree") that milk a bad analogy for two hundred pages to arrive at the conclusion that people just like the author are pretty great.” from Cegłowski, Maciej. “Dabblers And Blowhards (Idle Words).” Idle Words. Accessed May 8, 2021. https://idlewords.com/2005/04/dabblers\_and\_blowhards.htm.
 
-[^fn35]: Frankfurt, Harry G. *On Bullshit*, 54. Princeton, New Jersey: Princeton University Press, 2005. https://doi.org/10.1515/9781400826537.
+[^fn35]: Schwartz, Tony. “I Wrote The Art of the Deal with Trump. He’s Still a Scared Child \| Tony Schwartz \| The Guardian.” Accessed May 8, 2021. https://www.theguardian.com/global/commentisfree/2018/jan/18/fear-donald-trump-us-president-art-of-the-deal.
 
-[^fn36]: Chomsky, Noam, David Barsamian, and Arthur Naiman. *The Common Good*. 5. print. The Real Story Series. Tucson, Ariz: Odonian Press, 2003.
+[^fn36]: Frankfurt, Harry G. *On Bullshit*, 54. Princeton, New Jersey: Princeton University Press, 2005. https://doi.org/10.1515/9781400826537.
 
-[^fn37]: Freeman, Jo. “The Tyranny of Stuctureless.” Accessed May 14, 2021. https://www.jofreeman.com/joreen/tyranny.htm.
+[^fn37]: Chomsky, Noam, David Barsamian, and Arthur Naiman. *The Common Good*. 5. print. The Real Story Series. Tucson, Ariz: Odonian Press, 2003.
 
-[^fn38]: Weizman, Eyal. “The Art of War: Deleuze, Guattari, Debord and the Israeli Defence Force.” Text. Mute. Mute Publishing Limited, March 8, 2006. https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force.
+[^fn38]: Freeman, Jo. “The Tyranny of Stuctureless.” Accessed May 14, 2021. https://www.jofreeman.com/joreen/tyranny.htm.
 
-[^fn39]: Deleuze, Gilles, and Félix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*. Minneapolis: University of Minnesota Press, 1987.
+[^fn39]: Weizman, Eyal. “The Art of War: Deleuze, Guattari, Debord and the Israeli Defence Force.” Text. Mute. Mute Publishing Limited, March 8, 2006. https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force.
 
-[^fn40]: Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
+[^fn40]: Deleuze, Gilles, and Félix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*. Minneapolis: University of Minnesota Press, 1987.
 
-[^fn41]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
+[^fn41]: Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
 
-[^fn42]: We see this when linguistic code-switching divides along racial lines; some groups can speak “normally” without a second thought, while others must modulate their usual way of speaking to suit a social context that won’t accommodate them without judgement or cost. They must do conceptual labor to model an accepted, unseen narrative so they may understand and adapt to its terms. An early definition of the term appears in Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
+[^fn42]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
 
-[^fn43]: See also Žižek, Slavoj. “The Prospects of Radical Politics Today.” *Žižek.Uk* (blog), January 1, 2008. https://zizek.uk/the-prospects-of-radical-politics-today/.
+[^fn43]: We see this when linguistic code-switching divides along racial lines; some groups can speak “normally” without a second thought, while others must modulate their usual way of speaking to suit a social context that won’t accommodate them without judgement or cost. They must do conceptual labor to model an accepted, unseen narrative so they may understand and adapt to its terms. An early definition of the term appears in Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
 
-[^fn44]: Or, more darkly, “once we get rid of all this type of person, our country will be strong.”
+[^fn44]: See also Žižek, Slavoj. “The Prospects of Radical Politics Today.” *Žižek.Uk* (blog), January 1, 2008. https://zizek.uk/the-prospects-of-radical-politics-today/.
 
-[^fn45]: We can find an example of this in the programming term “Rubber duck debugging.” This is a method in which programmers describe their code, step by step, to a rubber duck (or other inanimate object) on their desk. Since the duck can’t respond, they are forced to describe and consider, from square one, every assumption and conclusion of their code. Originally coined in Hunt, Andrew, and David Thomas. *The Pragmatic Programmer from Journeyman to Master*. Reading, Mass.: Addison-Wesley, 2000.
+[^fn45]: Or, more darkly, “once we get rid of all this type of person, our country will be strong.”
 
-[^fn46]: See also Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
+# Part 3
 
-[^fn47]: Le Guin, Ursula K, and Donna Jeanne Haraway. *Carrier Bag Theory of Fiction*, 2020.
+[^fn46]: We can find an example of this in the programming term “Rubber duck debugging.” This is a method in which programmers describe their code, step by step, to a rubber duck (or other inanimate object) on their desk. Since the duck can’t respond, they are forced to describe and consider, from square one, every assumption and conclusion of their code. Originally coined in Hunt, Andrew, and David Thomas. *The Pragmatic Programmer from Journeyman to Master*. Reading, Mass.: Addison-Wesley, 2000.
 
-[^fn48]: Surveyed in the previous section, *We Are Always Writing Theories of Conceptual Labor.*
+[^fn47]: See also Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
 
-[^fn49]: This is a hypothetical demonstration of Tenet 4.
+[^fn48]: Le Guin, Ursula K, and Donna Jeanne Haraway. *Carrier Bag Theory of Fiction*, 2020.
 
-[^fn50]: Another example of Helping / Not Helpful.
+[^fn49]: Surveyed in the previous section, *We Are Always Writing Theories of Conceptual Labor.*
 
-[^fn51]: Here is an example of a professional application of CLA. User experience designers could model computer users’ labor that, superficially, appear to be an end-user interacting with a finished product. The more the model resembles models of software development, where a user must “play computer” to achieve a straightforward goal, the less the helpful the interface is. This position is encapsulated in the design term The Principle of Least Astonishment. “Principle of Least Astonishment.” In *Wikipedia*, March 13, 2021. https://en.wikipedia.org/w/index.php?title=Principle\_of\_least\_astonishment&oldid=1011856538.
+[^fn50]: This is a hypothetical demonstration of Tenet 4.
 
-[^fn52]: Cole, David. “The Chinese Room Argument.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/win2020/entries/chinese-room/.
+[^fn51]: Another example of Helping / Not Helpful.
 
-[^fn53]: And, in fact, the COVID-19 pandemic has forced educators, parents, and students to re-consider the essential components of their model of education, and whether it can be achieved remotely, though a narrow interface.
+[^fn52]: Victor, Bret. “Bret Victor, Beast of Burden.” Accessed May 8, 2021. http://worrydream.com/\#!/InventingOnPrinciple.
 
-[^fn54]: Victor’s project, Dynamicland, is a space in Oakland, California where a system
 
-[^fn55]: Johnson-Laird, Philip N. “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*, edited by K. I. Manktelow and Man Cheung Chung, 1st ed., 179--211. Hove; New York: Psychology Press, 2004. http://modeltheory.org/papers/2005HistoryMentalModels.pdf.
+[^fn53]: Here is an example of a professional application of CLA. User experience designers could model computer users’ labor that, superficially, appear to be an end-user interacting with a finished product. The more the model resembles models of software development, where a user must “play computer” to achieve a straightforward goal, the less the helpful the interface is. This position is encapsulated in the design term The Principle of Least Astonishment. “Principle of Least Astonishment.” In *Wikipedia*, March 13, 2021. https://en.wikipedia.org/w/index.php?title=Principle\_of\_least\_astonishment&oldid=1011856538.
 
-[^fn56]: Kodama, Christie, Beth St. Jean, Mega Subramaniam, and Natalie Greene Taylor. “There’s a Creepy Guy on the Other End at Google!: Engaging Middle School Students in a Drawing Activity to Elicit Their Mental Models of Google.” *Information Retrieval Journal* 20, no. 5 (October 2017): 403--32. https://doi.org/10.1007/s10791-017-9306-x.
+[^fn54]: Cole, David. “The Chinese Room Argument.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/win2020/entries/chinese-room/.
 
-[^fn57]: Johnson-Laird,  “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*.
+[^fn55]: And, in fact, the COVID-19 pandemic has forced educators, parents, and students to re-consider the essential components of their model of education, and whether it can be achieved remotely, though a narrow interface.
 
-[^fn58]: Khemlani, Sunny. “About -- The Mental Models Global Laboratory.” The Mental Models Global Laboratory. Accessed May 8, 2021. https://www.modeltheory.org/about/.
+[^fn56]: Victor’s project, Dynamicland, is a space in Oakland, California where a system
 
-[^fn59]: “Publications -- The Mental Models Global Laboratory.” Accessed May 8, 2021. https://www.modeltheory.org/publications/.
+[^fn57]: Chachra, Debbie. 2015. “Why I Am Not a Maker.” The Atlantic. January 23, 2015. https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/.
 
-[^fn60]: Johnson-Laird, P. N. *How We Reason*. Oxford; New York: Oxford University Press, 2006.
+# part 4
 
-[^fn61]: Kodama, St. Jean, Subramaniam, and Taylor. “There’s a Creepy Guy on the Other End at Google!: Engaging Middle School Students in a Drawing Activity to Elicit Their Mental Models of Google.”
+[^fn58]: Johnson-Laird, Philip N. “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*, edited by K. I. Manktelow and Man Cheung Chung, 1st ed., 179--211. Hove; New York: Psychology Press, 2004. http://modeltheory.org/papers/2005HistoryMentalModels.pdf.
 
-[^fn62]: Titles include “The Great Mental Models”, “Think in Models: A Structured Approach to Clear Thinking and the Art of Strategic Decision-Making, Mental and Emotional Abundance”, “The Art of Clear Thinking: Mental Models for Better Reasoning, Judgment, Analysis, and Learning. Upgrade Your Intellectual Toolkit”, and even “The Art of Mental Models.”
+[^fn59]: Kodama, Christie, Beth St. Jean, Mega Subramaniam, and Natalie Greene Taylor. “There’s a Creepy Guy on the Other End at Google!: Engaging Middle School Students in a Drawing Activity to Elicit Their Mental Models of Google.” *Information Retrieval Journal* 20, no. 5 (October 2017): 403--32. https://doi.org/10.1007/s10791-017-9306-x.
 
-[^fn63]: Norman, Donald A. “Some Observations on Mental Models.” In *Mental Models.*, edited by Dedre Gentner and Albert L Stevens, 7--14. Hoboken: Taylor and Francis, 2014.
+[^fn60]: Johnson-Laird,  “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*.
 
-[^fn64]: Particularly relevant to this point is the concept of “abduction” as described by Johnson-Laird in the paper “Mental Models and Human Reasoning”: “Human reasoners have an inductive skill that far surpasses any known algorithm...it is the ability to formulate explanations. Unlike valid deductions, inductions increase information, because they use knowledge to go beyond the strict content of the premises... even if the premises are true, no guarantee exists that an inductive conclusion is true, precisely because it goes beyond the information in the premesis. This principle applies *a fortiori* to those inductions that yield putative explanations --- a process often referred to as *abduction*. From Mental Models and Human Reasoning.” *Proceedings of the National Academy of Sciences* 107, no. 43 (October 26, 2010): 18243--50. https://doi.org/10.1073/pnas.1012933107. See also Peirce, Charles S., Charles Hartshorne, and Paul Weiss. *Collected Papers of Charles Sanders Pierce*. Cambridge, Massachusetts: Harvard University Press, 1931.
+[^fn61]: Khemlani, Sunny. “About -- The Mental Models Global Laboratory.” The Mental Models Global Laboratory. Accessed May 8, 2021. https://www.modeltheory.org/about/.
 
-[^fn65]: Graham-Smith, Darien. “The History Of The Tube Map.” Londonist, May 17, 2016. https://londonist.com/2016/05/the-history-of-the-tube-map.
+[^fn62]: “Publications -- The Mental Models Global Laboratory.” Accessed May 8, 2021. https://www.modeltheory.org/publications/.
 
-[^fn66]: In our example, the friend who made the map didn’t intend to decieve. They, reasonably enough, worked on the map within a context where their knowledge of the trails in the park was up to date.
+[^fn63]: Johnson-Laird, P. N. *How We Reason*. Oxford; New York: Oxford University Press, 2006.
 
-[^fn67]: A longitudinal read on various Model Theory research projects into human reasoning suppports this tenet. The overall question of why, in so many circumstances, do rational people draw incorrect conclusions when given correct information is repeatedly answered by detailing a mental model which produces such conclusions according to its internal logic, or as inferences from disparate qualities that can be held to be independently true in a model without resolving their potential contradictions.  See Johnson-Laird 1 p193-5, also Evans, New Stead and Byrne, 1993
+[^fn64]: Kodama, St. Jean, Subramaniam, and Taylor. “There’s a Creepy Guy on the Other End at Google!: Engaging Middle School Students in a Drawing Activity to Elicit Their Mental Models of Google.”
 
-[^fn68]: The discussion of the medium of conceptual labor in Tenet 7 in the Expanded Theory complements this assertion.
+[^fn65]: Titles include “The Great Mental Models”, “Think in Models: A Structured Approach to Clear Thinking and the Art of Strategic Decision-Making, Mental and Emotional Abundance”, “The Art of Clear Thinking: Mental Models for Better Reasoning, Judgment, Analysis, and Learning. Upgrade Your Intellectual Toolkit”, and even “The Art of Mental Models.”
 
-[^fn69]: These three fields intersect in the accessible Vitz, Paul C. “Analog Art and Digital Art: A Brain-Hemisphere Critique of Modern Painting.” In *The Foundations of Aesthetics, Art & Art Education*, edited by Frank H. Farley and Ronald W. Neperud, 43--86. New York: Praeger, 1988.
+[^fn66]: Norman, Donald A. “Some Observations on Mental Models.” In *Mental Models.*, edited by Dedre Gentner and Albert L Stevens, 7--14. Hoboken: Taylor and Francis, 2014.
 
-[^fn70]: This is supported by Conclusion 3 in Johnson-Laird, *How We Reason*, 203: “Mental models represent wht is true, but not what is false. Reasoners can --- with some difficulty --- flesh them out into fully explicit models.”
+[^fn67]: Particularly relevant to this point is the concept of “abduction” as described by Johnson-Laird in the paper “Mental Models and Human Reasoning”: “Human reasoners have an inductive skill that far surpasses any known algorithm...it is the ability to formulate explanations. Unlike valid deductions, inductions increase information, because they use knowledge to go beyond the strict content of the premises... even if the premises are true, no guarantee exists that an inductive conclusion is true, precisely because it goes beyond the information in the premesis. This principle applies *a fortiori* to those inductions that yield putative explanations --- a process often referred to as *abduction*. From Mental Models and Human Reasoning.” *Proceedings of the National Academy of Sciences* 107, no. 43 (October 26, 2010): 18243--50. https://doi.org/10.1073/pnas.1012933107. See also Peirce, Charles S., Charles Hartshorne, and Paul Weiss. *Collected Papers of Charles Sanders Pierce*. Cambridge, Massachusetts: Harvard University Press, 1931.
 
-[^fn71]: https://www.cia.gov, U. S. Central Intelligence Agency: “Simple Sabotage Field Manual.” In *Homeland Security Digital Library*. United States. War Department. Strategic Services Unit, 1944. https://www.hsdl.org/?abstract&did=.
+[^fn68]: Graham-Smith, Darien. “The History Of The Tube Map.” Londonist, May 17, 2016. https://londonist.com/2016/05/the-history-of-the-tube-map.
 
-[^fn72]: Isaac, Mike. “Meet Facebook’s Secret Propaganda Arm: The Analog Research Lab \| WIRED.” Accessed May 23, 2021. https://www.wired.com/2012/05/analog-research-lab/.
+[^fn69]: In our example, the friend who made the map didn’t intend to decieve. They, reasonably enough, worked on the map within a context where their knowledge of the trails in the park was up to date.
 
-[^fn73]: Journalist Zeynep Tufekci draws on the concept of metaepistimology in her critique of propaganda and misinformation in the US government’s communication and handling of the COVID-19 pandemic. Zeynep, Tufekci. “Critical Thinking Isn’t Just a Process.” Accessed May 8, 2021. https://www.theinsight.org/p/critical-thinking-isnt-just-a-process.
+[^fn70]: A longitudinal read on various Model Theory research projects into human reasoning suppports this tenet. The overall question of why, in so many circumstances, do rational people draw incorrect conclusions when given correct information is repeatedly answered by detailing a mental model which produces such conclusions according to its internal logic, or as inferences from disparate qualities that can be held to be independently true in a model without resolving their potential contradictions.  See Johnson-Laird 1 p193-5, also Evans, New Stead and Byrne, 1993
 
-[^fn74]: This concept is first explored as “closed loop conceptual labor” in the section How To Use The Theory
+[^fn71]: The discussion of the medium of conceptual labor in Tenet 7 in the Expanded Theory complements this assertion.
 
-[^fn75]: It follows, then, that any theory that seeks to include the aspects of work that are left out by the Conventional Narrative would necessarily have to focus on the conditions of an individual’s experience of work.
+[^fn72]: These three fields intersect in the accessible Vitz, Paul C. “Analog Art and Digital Art: A Brain-Hemisphere Critique of Modern Painting.” In *The Foundations of Aesthetics, Art & Art Education*, edited by Frank H. Farley and Ronald W. Neperud, 43--86. New York: Praeger, 1988.
 
-[^fn76]: Le Guin, “The Carrier Bag theory of Fiction.”
+[^fn73]: This is supported by Conclusion 3 in Johnson-Laird, *How We Reason*, 203: “Mental models represent wht is true, but not what is false. Reasoners can --- with some difficulty --- flesh them out into fully explicit models.”
 
-[^fn77]: Dual Process Summary From Wikipedia: “The dual-process accounts of reasoning posits that there are two systems or minds in one brain. The theory of two distinct kinds of reasoning has been around for as long as documentations about theories of reasoning go. The current theory is that there are two distinctively separate cognitive systems underlying thinking and reasoning and that these different systems were developed through evolution . . . These systems are often referred to as “implicit” and “explicit” or by the more neutral “System 1” and “System 2,” as coined by Stanovich and West.” “Dual Process Theory.” In *Wikipedia*, May 13, 2021. https://en.wikipedia.org/w/index.php?title=Dual\_process\_theory&oldid=1022978665.
+[^fn74]: https://www.cia.gov, U. S. Central Intelligence Agency: “Simple Sabotage Field Manual.” In *Homeland Security Digital Library*. United States. War Department. Strategic Services Unit, 1944. https://www.hsdl.org/?abstract&did=.
 
-[^fn78]: Kahneman, *Thinking, Fast and Slow.*
+[^fn75]: Isaac, Mike. “Meet Facebook’s Secret Propaganda Arm: The Analog Research Lab \| WIRED.” Accessed May 23, 2021. https://www.wired.com/2012/05/analog-research-lab/.
 
-[^fn79]: Enns, James T. *The Thinking Eye, the Seeing Brain: Explorations in Visual Cognition*. 1st ed. New York: W.W. Norton, 2004.
+[^fn76]: Journalist Zeynep Tufekci draws on the concept of metaepistimology in her critique of propaganda and misinformation in the US government’s communication and handling of the COVID-19 pandemic. Zeynep, Tufekci. “Critical Thinking Isn’t Just a Process.” Accessed May 8, 2021. https://www.theinsight.org/p/critical-thinking-isnt-just-a-process.
 
-[^fn80]: The research of Michael Gazzaniga is an accessible starting point for a history of revisions to long-held assumptions about the neurological basis of self-awareness and perception. For a summary see Smith, Emily Esfahani. “One Head, Two Brains.” The Atlantic, July 27, 2015. https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/.
+[^fn77]: This concept is first explored as “closed loop conceptual labor” in the section How To Use The Theory
 
-[^fn81]: This is called “downskilling” in Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
+[^fn78]: It follows, then, that any theory that seeks to include the aspects of work that are left out by the Conventional Narrative would necessarily have to focus on the conditions of an individual’s experience of work.
 
-[^fn82]: Rittel, Horst W. J., and Melvin M Webber. “Dilemmas in a General Theory of Planning.” *Policy SciencesL Integraing Knowledge and Practice to Advance Human Dignity* 4, no. 2 (1973): 155--69.
+[^fn79]: Le Guin, “The Carrier Bag theory of Fiction.”
 
-[^fn83]: Know Your Meme. “What People Think I Do / What I Really Do.” Accessed May 8, 2021. https://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do.
+[^fn80]: Dual Process Summary From Wikipedia: “The dual-process accounts of reasoning posits that there are two systems or minds in one brain. The theory of two distinct kinds of reasoning has been around for as long as documentations about theories of reasoning go. The current theory is that there are two distinctively separate cognitive systems underlying thinking and reasoning and that these different systems were developed through evolution . . . These systems are often referred to as “implicit” and “explicit” or by the more neutral “System 1” and “System 2,” as coined by Stanovich and West.” “Dual Process Theory.” In *Wikipedia*, May 13, 2021. https://en.wikipedia.org/w/index.php?title=Dual\_process\_theory&oldid=1022978665.
 
-[^fn84]: “What I Really Do Meme Generator - Imgflip.” Accessed May 8, 2021. https://imgflip.com/memegenerator/13497067/What-I-really-do.
+[^fn81]: Kahneman, *Thinking, Fast and Slow.*
 
-[^fn85]: IRobot, the company that sells the popular Roomba vacuum, recognizes this and is working on room-based AI, a move which has sparked privacy concerns. See Vincent, James. “IRobot Is Giving Its Vacuum Cleaners a New AI-Powered Brain - The Verge.” Accessed May 14, 2021. https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app.
+[^fn82]: Enns, James T. *The Thinking Eye, the Seeing Brain: Explorations in Visual Cognition*. 1st ed. New York: W.W. Norton, 2004.
 
-[^fn86]: Cornell University. "Explaining Why The Millennium Bridge Wobbled." ScienceDaily. www.sciencedaily.com/releases/2005/11/051103080801.htm (accessed May 21, 2021).
+[^fn83]: The research of Michael Gazzaniga is an accessible starting point for a history of revisions to long-held assumptions about the neurological basis of self-awareness and perception. For a summary see Smith, Emily Esfahani. “One Head, Two Brains.” The Atlantic, July 27, 2015. https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/.
 
-[^fn87]: “In hindsight” or “It turns out” are both useful phrases to search for to find accounts of failed conventional narratives.
+[^fn84]: This is called “downskilling” in Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
 
-[^fn88]: Ouellette, Jennifer. “New Study Sheds More Light on What Caused Millennium Bridge to Wobble.” Ars Technica, October 31, 2018. https://arstechnica.com/science/2018/10/new-study-sheds-more-light-on-what-caused-millennium-bridge-to-wobble/.
+[^fn85]: Rittel, Horst W. J., and Melvin M Webber. “Dilemmas in a General Theory of Planning.” *Policy SciencesL Integraing Knowledge and Practice to Advance Human Dignity* 4, no. 2 (1973): 155--69.
 
-[^fn89]: Strogatz, Steven H., Daniel M. Abrams, Allan McRobie, Bruno Eckhardt, and Edward Ott. “Crowd Synchrony on the Millennium Bridge.” *Nature* 438, no. 7064 (November 2005): 43--44. https://doi.org/10.1038/438043a.
+[^fn86]: Know Your Meme. “What People Think I Do / What I Really Do.” Accessed May 8, 2021. https://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do.
 
-[^fn90]: Le, Vu. “The Nonprofit Hunger Games, and What We Must Do to End Them -- Nonprofit AF.” Accessed May 8, 2021. https://nonprofitaf.com/2015/08/the-nonprofit-hunger-games-and-what-we-must-do-to-end-them/.
+[^fn87]: “What I Really Do Meme Generator - Imgflip.” Accessed May 8, 2021. https://imgflip.com/memegenerator/13497067/What-I-really-do.
 
-[^fn91]: Rayman, Graham. “The NYPD Tapes Confirmed.” The Village Voice, March 7, 2012. https://www.villagevoice.com/2012/03/07/the-nypd-tapes-confirmed/.
+[^fn88]: IRobot, the company that sells the popular Roomba vacuum, recognizes this and is working on room-based AI, a move which has sparked privacy concerns. See Vincent, James. “IRobot Is Giving Its Vacuum Cleaners a New AI-Powered Brain - The Verge.” Accessed May 14, 2021. https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app.
 
-[^fn92]: Perrow, Charles. *Normal Accidents: Living with High Risk Technologies.* Princeton: Princeton University Press, 2011.
+[^fn89]: Cornell University. "Explaining Why The Millennium Bridge Wobbled." ScienceDaily. www.sciencedaily.com/releases/2005/11/051103080801.htm (accessed May 21, 2021).
 
-[^fn93]: Ritterman, Jeffrey. “To Err Is Human: Can American Medicine Learn from Past Mistakes?” *The Permanente Journal*, 2017. https://doi.org/10.7812/TPP/16-181.
+[^fn90]: “In hindsight” or “It turns out” are both useful phrases to search for to find accounts of failed conventional narratives.
 
-[^fn94]: Caffey, J. *Pediatric X-Ray Diagnosis: A Textbook for Students and Practitioners of Pediatrics, Surgery and Radiology*. v. 1. Year Book Publishers, Incorporated, 1945.
+[^fn91]: Ouellette, Jennifer. “New Study Sheds More Light on What Caused Millennium Bridge to Wobble.” Ars Technica, October 31, 2018. https://arstechnica.com/science/2018/10/new-study-sheds-more-light-on-what-caused-millennium-bridge-to-wobble/.
 
-[^fn95]: Ritterman, “To Err Is Human: Can American Medicine Learn from Past Mistakes?”
+[^fn92]: Strogatz, Steven H., Daniel M. Abrams, Allan McRobie, Bruno Eckhardt, and Edward Ott. “Crowd Synchrony on the Millennium Bridge.” *Nature* 438, no. 7064 (November 2005): 43--44. https://doi.org/10.1038/438043a.
 
-[^fn96]: A strikingly similar conversation surrounds the World Health Organization’s decision to amend its guidelines on the transmission of COVID-19, particularly the amount of time it took to make that amendment. For more, see Molteni, Megan. “The 60-Year-Old Scientific Screwup That Helped Covid Kill.” *Wired*. Accessed May 20, 2021. https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill.
+[^fn93]: Le, Vu. “The Nonprofit Hunger Games, and What We Must Do to End Them -- Nonprofit AF.” Accessed May 8, 2021. https://nonprofitaf.com/2015/08/the-nonprofit-hunger-games-and-what-we-must-do-to-end-them/.
 
-[^fn97]: Introduced in *We Are Always Writing Theories of Conceptual Labor*
+[^fn94]: Kelly, Kevin. April 2, 2010. “The Shirky Principle.” The Technium (blog). Accessed August 19, 2021. https://kk.org/thetechnium/the-shirky-prin/.
 
-[^fn98]: Carse, *Finite and Infinite Games*, 9-10.
+[^fn95]: Rayman, Graham. “The NYPD Tapes Confirmed.” The Village Voice, March 7, 2012. https://www.villagevoice.com/2012/03/07/the-nypd-tapes-confirmed/.
 
-[^fn99]: “Hans Monderman.” Accessed May 8, 2021. https://www.pps.org/article/hans-monderman.
+[^fn96]: Perrow, Charles. *Normal Accidents: Living with High Risk Technologies.* Princeton: Princeton University Press, 2011.
 
-[^fn100]: Lyall, Sarah. “A Path to Road Safety With No Signposts - The New York Times.” Accessed May 8, 2021. https://www.nytimes.com/2005/01/22/world/europe/a-path-to-road-safety-with-no-signposts.html.
+[^fn97]: Ritterman, Jeffrey. “To Err Is Human: Can American Medicine Learn from Past Mistakes?” *The Permanente Journal*, 2017. https://doi.org/10.7812/TPP/16-181.
 
-[^fn101]: Schorr, Parker. “Desire Paths: The Unofficial Footpaths That Frustrate, Captivate Campus Planners.” Accessed May 8, 2021. https://news.wisc.edu/desire-paths-the-unofficial-footpaths-that-frustrate-captivate-campus-planners/.
+[^fn98]: Caffey, J. *Pediatric X-Ray Diagnosis: A Textbook for Students and Practitioners of Pediatrics, Surgery and Radiology*. v. 1. Year Book Publishers, Incorporated, 1945.
 
-[^fn102]: “Chaos\_report\_1994.Pdf.” Accessed May 8, 2021. https://www.standishgroup.com/sample\_research\_files/chaos\_report\_1994.pdf.
+[^fn99]: Ritterman, “To Err Is Human: Can American Medicine Learn from Past Mistakes?”
 
-[^fn103]: See also Paul Ford’s “What Is Code?” as an illustration of how much actual conversations are part of creating software. Ford, Paul. “What Is Code? If You Don’t Know, You Need to Read This.” *Bloomberg.Com*. Accessed May 8, 2021. http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
+[^fn100]: A strikingly similar conversation surrounds the World Health Organization’s decision to amend its guidelines on the transmission of COVID-19, particularly the amount of time it took to make that amendment. For more, see Molteni, Megan. “The 60-Year-Old Scientific Screwup That Helped Covid Kill.” *Wired*. Accessed May 20, 2021. https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill.
 
-[^fn104]: Wrzesniewski, Amy, and Jane E. Dutton. “Crafting a Job: Revisioning Employees as Active Crafters of Their Work.” *The Academy of Management Review* 26, no. 2 (April 2001): 179.
+[^fn101]: Introduced in *We Are Always Writing Theories of Conceptual Labor*
 
-[^fn105]: Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
+[^fn102]: Carse, *Finite and Infinite Games*, 9-10.
 
-[^fn106]: Discussed in detail in *Expertise Grows out of Conceptual Labor*
+[^fn103]: “Hans Monderman.” Accessed May 8, 2021. https://www.pps.org/article/hans-monderman.
 
-[^fn107]: Bernheimer, L. *The Shaping of Us: How Everyday Spaces Structure Our Lives, Behavior, and Well-Being*, 32. Trinity University Press, 2020.
+[^fn104]: Lyall, Sarah. “A Path to Road Safety With No Signposts - The New York Times.” Accessed May 8, 2021. https://www.nytimes.com/2005/01/22/world/europe/a-path-to-road-safety-with-no-signposts.html.
 
-[^fn108]: Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
+[^fn105]: Schorr, Parker. “Desire Paths: The Unofficial Footpaths That Frustrate, Captivate Campus Planners.” Accessed May 8, 2021. https://news.wisc.edu/desire-paths-the-unofficial-footpaths-that-frustrate-captivate-campus-planners/.
 
-[^fn109]: The Interaction Design Foundation. “What Are Affordances?” Accessed May 8, 2021. https://www.interaction-design.org/literature/topics/affordances.
+[^fn106]: “Chaos\_report\_1994.Pdf.” Accessed May 8, 2021. https://www.standishgroup.com/sample\_research\_files/chaos\_report\_1994.pdf.
 
-[^fn110]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\_source=google&utm\_medium=organic&utm\_campaign=organic.
+[^fn107]: See also Paul Ford’s “What Is Code?” as an illustration of how much actual conversations are part of creating software. Ford, Paul. “What Is Code? If You Don’t Know, You Need to Read This.” *Bloomberg.Com*. Accessed May 8, 2021. http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
 
-[^fn111]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf.
+[^fn108]: Wrzesniewski, Amy, and Jane E. Dutton. “Crafting a Job: Revisioning Employees as Active Crafters of Their Work.” *The Academy of Management Review* 26, no. 2 (April 2001): 179.
 
-[^fn112]: MacGillis, Alec. “The Case Against Boeing.” The New Yorker. Accessed May 14, 2021. https://www.newyorker.com/magazine/2019/11/18/the-case-against-boeing.
+[^fn109]: Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
 
-[^fn113]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 85
+[^fn110]: Discussed in detail in *Expertise Grows out of Conceptual Labor*.
 
-[^fn114]: In 2013, for example, a Boeing engineer suggested installing a computer-based airspeed indicator to supplement the 737 max’s single external speed sensor. The engineer’s request “was rejected by Boeing management due to cost concerns and because adding synthetic airspeed could have jeopardized the 737 MAX program’s directive to avoid pilot simulator training requirements,” the report says. If Boeing had told airlines that their pilots would need extensive retraining to fly the new planes, including instruction on how to react to an activation of the MCAS, the airlines might have been less eager to order them. Not only did Boeing neglect to inform the airlines about the MCAS, but it removed any references to it from the operations manual that pilots of the 737 max relied on. from Cassidy, John. “How Boeing and the F.A.A. Created the 737 MAX Catastrophe.” The New Yorker. Accessed May 8, 2021. https://www.newyorker.com/news/our-columnists/how-boeing-and-the-faa-created-the-737-max-catastrophe.
+[^fn111]: Bernheimer, L. *The Shaping of Us: How Everyday Spaces Structure Our Lives, Behavior, and Well-Being*, 32. Trinity University Press, 2020.
 
-[^fn115]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 15
+[^fn112]: Ford, Paul. 2015. “Paul Ford: What Is Code? \| Bloomberg.” June 11, 2015. https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
 
-[^fn116]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 14
+[^fn113]: Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
 
-[^fn117]: “Sully Sullenberger Testimony.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/Sully%20Sullenberger%20Testimony.pdf.
+[^fn114]: The Interaction Design Foundation. “What Are Affordances?” Accessed May 8, 2021. https://www.interaction-design.org/literature/topics/affordances.
 
-[^fn118]: Thomas, Lewis. *Lives of a Cell: Notes of a Biology Watcher*. Demco Media, 1978.
+[^fn115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\_source=google&utm\_medium=organic&utm\_campaign=organic.
 
-[^fn119]: Medium isn’t included as a fundamental component because it always sits outside of our models. A model is created from an actor’s perspective, so they always encounter their medium through their context.
+[^fn116]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf.
 
-[^fn120]: For example, the difference between one’s past ideas and current state of mind is important enough to the labor of computer programmers that they have a term for the problem. Eagleson’s Law states that “code you write six months ago might as well have been written by someone else.”
+[^fn117]: MacGillis, Alec. “The Case Against Boeing.” The New Yorker. Accessed May 14, 2021. https://www.newyorker.com/magazine/2019/11/18/the-case-against-boeing.
 
-[^fn121]: Johnson-Laird,  “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*.
+[^fn118]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 85
 
-[^fn122]: The hypothetical mistake in the  chapter on Conceptual Labor Analysis can illustrate this. We don’t expect maps to be a photographic record of the outside world, we expect them to be a representation of information that is isomorphic to certain qualities of the outside world. Within those parameters, the map appeared, very reasonably, to be correct.
+[^fn119]: In 2013, for example, a Boeing engineer suggested installing a computer-based airspeed indicator to supplement the 737 max’s single external speed sensor. The engineer’s request “was rejected by Boeing management due to cost concerns and because adding synthetic airspeed could have jeopardized the 737 MAX program’s directive to avoid pilot simulator training requirements,” the report says. If Boeing had told airlines that their pilots would need extensive retraining to fly the new planes, including instruction on how to react to an activation of the MCAS, the airlines might have been less eager to order them. Not only did Boeing neglect to inform the airlines about the MCAS, but it removed any references to it from the operations manual that pilots of the 737 max relied on. from Cassidy, John. “How Boeing and the F.A.A. Created the 737 MAX Catastrophe.” The New Yorker. Accessed May 8, 2021. https://www.newyorker.com/news/our-columnists/how-boeing-and-the-faa-created-the-737-max-catastrophe.
 
-[^fn123]: The field of “embodied cognition” researches connections between  thought and physical experience, arguing that much of cognition is shaped by the whole organism. George Lakoff and his collaborators’ work on conceptual metaphor and prototypes are particularly relevant to anyone interested in conceptual labor. See “Embodied Cognition.” In *Wikipedia*, May 20, 2021. https://en.wikipedia.org/w/index.php?title=Embodied\_cognition&oldid=1024193968.
+[^fn120]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 15
 
-[^fn124]: See Tenet 2
+[^fn121]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.”, 14
 
-[^fn125]: “Each mental model represents what is common to a distinct set of possibilities.. When we reason, we aim for conclusions that are true, or at least probable, given the premises.” Johnson-Laird, P. N. *How We Reason,* 2.
+[^fn122]: “Sully Sullenberger Testimony.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/Sully%20Sullenberger%20Testimony.pdf.
 
-[^fn126]: Wired Magazine 5 Levels YouTube Channel. “5 Levels - YouTube.” Accessed May 8, 2021. https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N.
+[^fn123]: Lewis. *Lives of a Cell: Notes of a Biology Watcher*.
 
-[^fn127]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M.
+[^fn124]: Medium isn’t included as a fundamental component because it always sits outside of our models. A model is created from an actor’s perspective, so they always encounter their medium through their context.
 
-[^fn128]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgyPmk9pP3FEXXWCVLR4AaABAg.
+[^fn125]: For example, the difference between one’s past ideas and current state of mind is important enough to the labor of computer programmers that they have a term for the problem. Eagleson’s Law states that “code you write six months ago might as well have been written by someone else.”
 
-[^fn129]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgwUvEgfvGQhc9NX\_Y94AaABAg.
+[^fn126]: Johnson-Laird,  “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*.
 
-[^fn130]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgzCEfXX0GNP1f\_FysB4AaABAg.
+[^fn127]: The hypothetical mistake in the  chapter on Conceptual Labor Analysis can illustrate this. We don’t expect maps to be a photographic record of the outside world, we expect them to be a representation of information that is isomorphic to certain qualities of the outside world. Within those parameters, the map appeared, very reasonably, to be correct.
 
-[^fn131]: *Figure 1* in *Expertise Grows out of Conceptual Labor*
+[^fn128]: The field of “embodied cognition” researches connections between  thought and physical experience, arguing that much of cognition is shaped by the whole organism. George Lakoff and his collaborators’ work on conceptual metaphor and prototypes are particularly relevant to anyone interested in conceptual labor. See “Embodied Cognition.” In *Wikipedia*, May 20, 2021. https://en.wikipedia.org/w/index.php?title=Embodied\_cognition&oldid=1024193968.
 
-[^fn132]: In a different, spontaneous interview, Collier explicitly distinguishes his concern as the use, rather than knowledge, of musical theory moments before once again reaching the limit of what can be verbally explained. Without an instrument around, Collier sings the progression he had just referred to as “bright.” Danilo8208SS. *Jacob Collier Discusses Negative Harmony and How To Learn Music*, 2017. https://www.youtube.com/watch?v=e2nUoq3AqjA.
+[^fn129]: See Tenet 2
 
-[^fn133]: Hillis, W.D. *The Pattern On The Stone: The Simple Ideas That Make Computers Work*. Science Masters Series. Basic Books, 2014.
+[^fn130]: “Each mental model represents what is common to a distinct set of possibilities.. When we reason, we aim for conclusions that are true, or at least probable, given the premises.” Johnson-Laird, P. N. *How We Reason,* 2.
 
-[^fn134]: Elkins, James. *What Painting Is: How to Think about Oil Painting, Using the Language of Alchemy*, 21. New York London: Routledge, 1999.
+[^fn131]: Wired Magazine 5 Levels YouTube Channel. “5 Levels - YouTube.” Accessed May 8, 2021. https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N.
 
-[^fn135]: Elkins, *What Painting Is*, 39.
+[^fn132]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M.
 
-[^fn136]: Lakoff, G., and M. Johnson. *Metaphors We Live By*. University of Chicago Press, 2008.
+[^fn133]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgyPmk9pP3FEXXWCVLR4AaABAg.
 
-[^fn137]: “Imaginary (Sociology).” In *Wikipedia*, March 31, 2021. https://en.wikipedia.org/w/index.php?title=Imaginary\_(sociology)&oldid=1015268837.
+[^fn134]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgwUvEgfvGQhc9NX\_Y94AaABAg.
 
-[^fn138]: Appiah, K.A. The Lies That Bind: Rethinking Identity. Liveright, 2018.
+[^fn135]: WIRED. *Musician Explains One Concept in 5 Levels of Difficulty Ft. Jacob Collier & Herbie Hancock \| WIRED*, 2018. https://www.youtube.com/watch?v=eRkgK4jfi6M&lc=UgzCEfXX0GNP1f\_FysB4AaABAg.
 
-[^fn139]: Ellis-Peterson, Hannah. “Racial Identity Is a Biological Nonsense, Says Reith Lecturer.” the Guardian, October 18, 2016. http://www.theguardian.com/society/2016/oct/18/racial-identity-is-a-biological-nonsense-says-reith-lecturer.
+[^fn136]: *Figure 1* in *Expertise Grows out of Conceptual Labor*
 
-[^fn140]: “Athletic Department / Guide for Parents and Athletes.” Accessed May 8, 2021. https://www.a2schools.org/Page/12923.
+[^fn137]: In a different, spontaneous interview, Collier explicitly distinguishes his concern as the use, rather than knowledge, of musical theory moments before once again reaching the limit of what can be verbally explained. Without an instrument around, Collier sings the progression he had just referred to as “bright.” Danilo8208SS. *Jacob Collier Discusses Negative Harmony and How To Learn Music*, 2017. https://www.youtube.com/watch?v=e2nUoq3AqjA.
+
+[^fn138]: Hillis, W.D. *The Pattern On The Stone: The Simple Ideas That Make Computers Work*. Science Masters Series. Basic Books, 2014.
+
+[^fn139]: Elkins, James. *What Painting Is: How to Think about Oil Painting, Using the Language of Alchemy*, 21. New York London: Routledge, 1999.
+
+[^fn140]: Elkins, *What Painting Is*, 39.
+
+[^fn141]: Lakoff, G., and M. Johnson. *Metaphors We Live By*. University of Chicago Press, 2008.
+
+[^fn142]: “Imaginary (Sociology).” In *Wikipedia*, March 31, 2021. https://en.wikipedia.org/w/index.php?title=Imaginary\_(sociology)&oldid=1015268837.
+
+[^fn143]: Appiah, K.A. The Lies That Bind: Rethinking Identity. Liveright, 2018.
+
+[^fn144]: Ellis-Peterson, Hannah. “Racial Identity Is a Biological Nonsense, Says Reith Lecturer.” the Guardian, October 18, 2016. http://www.theguardian.com/society/2016/oct/18/racial-identity-is-a-biological-nonsense-says-reith-lecturer.
+
+[^fn145]: “Athletic Department / Guide for Parents and Athletes.” Accessed May 8, 2021. https://www.a2schools.org/Page/12923.
+
+
+
 
 
 
