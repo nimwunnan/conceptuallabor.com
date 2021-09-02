@@ -49,7 +49,7 @@ kramdown:
 exclude:
   - optional
   - vendor
-
+  - theory-text
 # Theme
 theme: "ed."
 
