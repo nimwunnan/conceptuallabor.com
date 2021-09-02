@@ -1070,10 +1070,11 @@ body {
   height: 15vh;
   z-index: 500; }
   .fixedlogo.small {
-    margin-top: -50px;
+    margin-top: -30px;
+    margin-bottom: 40px;
     border-bottom: 1px solid #eee; }
     .fixedlogo.small .logomark {
-      font-size: 2rem;
+      font-size: 1.5rem;
       line-height: 1.5rem;
       padding-top: 5vh; }
   .fixedlogo.abs {

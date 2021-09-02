@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: book
 title: The Theory of Conceptual Labor
-author: Ním Wunnan
+author: Ním Daghlian
 permalink: /theory
 order: 3
 ---

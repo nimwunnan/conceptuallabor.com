@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: Why We Need a Theory of Conceptual Labor
 author: Ním
 permalink: /why-we-need-a-theory

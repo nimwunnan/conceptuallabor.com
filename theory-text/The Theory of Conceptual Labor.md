@@ -1,8 +1,11 @@
-% The Theory of Conceptual Labor
-% Ním Daghlian
-% 2021
+---
+layout: theory
+title: full-canonical-for-html
+author: Ním Daghlian
+permalink: canonical
+order: 25
+---
 
-\pagebreak
 
 # Introduction
 
@@ -36,7 +39,11 @@ The section *How To Use The Theory of Conceptual Labor* outlines basic methods b
 
 The final section, *The Expanded Theory* explains the Tenets and Core Concepts in detail, first in abstract terms and then again through case studies for each of the four groups. 
 
-\pagebreak
+
+---
+
+
+
 
 ## Summary
 
@@ -74,12 +81,20 @@ There is work involved in understanding why conventional labor fails or why a na
 
 Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
 
-\pagebreak
+
+---
+
+
+
 
 # Part 1
 # The Theory
 
-\pagebreak
+
+---
+
+
+
 
 ## Tenets of Conceptual Labor
 1. Labor can be modeled with fundamental components
@@ -133,7 +148,11 @@ Models, by nature, are abstractions. They may abstract detailed qualities of ext
 * Mental models of labor share methods of abstraction and can be measured on a fixed scale.
 * Basic patterns of conceptual labor can be learned and developed as skills.
 
-\pagebreak
+
+---
+
+
+
 
 
 ## Definitions
@@ -170,11 +189,19 @@ Other Terminology
 
 `Medium` is the material, physical or otherwise, with which we do conceptual labor. Unlike `context`, the `medium` of our conceptual labor is not defined by our understanding of it. `Medium` refers to the total set of conditions, known or unknown, relevant or not, of anything with which we do conceptual labor.
 
-\pagebreak
+
+---
+
+
+
 # Part 2
 # Why We Need a Theory of Conceptual Labor
 
-\pagebreak
+
+---
+
+
+
 ## Maps Are Not Always Perfect
 
 We know how to follow a complete, accurate map --- it is mainly conventional labor. We may still face a challenging journey moving through unfamiliar territory, but the obstacles lie within known boundaries --- to get from point A to point B, that river needs to be forded, that hill must be climbed, etc. 
@@ -198,7 +225,11 @@ Everyone has done work which felt productive at the time only to discover that i
 
 It is much harder to consider that some work has no straightforward story --- that it must be done in the dark. Some work can only be understood as one does it, some work continuously changes so it will never be fully described, and some work must be invented as it occurs. Such work frequently involves other people, learning something new, or understanding the behavior of a complex system. When we attempt to apply conventional narratives to this kind of work, we create new problems and fail at our original task. 
 
-\pagebreak
+
+---
+
+
+
 ## Expertise Grows out of Conceptual Labor
 
 One of the most important circumstances where conventional labor falls short is when there is no map in the first place. It is through conceptual labor that we create new ideas, shift paradigms, and learn.
@@ -206,10 +237,8 @@ One of the most important circumstances where conventional labor falls short is 
 In his explanation of the difference between advanced degrees, computer science professor Matt Might provides a clear, charming way to picture the difference between working within a frame of reference and working on the frame itself. In *The Illustrated Guide to the PhD*[^fn2] , Might pictures all of human knowledge as a circle. Primary education fills a smaller circle at the center. Bachelors and masters degrees extend a specialty like a spoke from the center, and professional research brings you to the “edge of human knowledge.” 
 
 
- 
-![[Matt Might](http://matt.might.net/), a professor in [Computer Science](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/), created [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) to explain what a Ph.D. is to new and aspiring graduate students. ](images/illustrated-phd.png)  
-
-*See Figure 1 next page* 
+![Matt Might, a professor in Computer Science at the University of Utah, created The Illustrated Guide to a Ph.D.http://matt.might.net/articles/phd-school-in-pictures/to explain what a Ph.D. is to new and aspiring graduate students.](theory-text/images/illustrated-phd.png)  
+*[Matt Might](http://matt.might.net/), a professor in [Computer Science](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/), created [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) to explain what a Ph.D. is to new and aspiring graduate students.* 
 
 Note that not only do the different stages of learning take distinct shapes, but work that expands the frame is accompanied by a profound shift in perspective. 
 
@@ -287,7 +316,11 @@ Our napping scientist reminds us that just because something doesn’t look like
 
 When we equate work with economic value we forget that it is also part of our *behavior ---* our labor. If we are to describe the entire picture of our labor, full of learning, experiencing, and feeling, we must make a radical departure from the conventional narrative surrounding work. 
 
-\pagebreak
+
+---
+
+
+
 ## We Are Always Writing Theories of Conceptual Labor
 
 Over and over, experts beseech us to reimagine their labor in this way. From psychology to education to martial arts to mathematics, initiates of countless fields frequently advocate for alternative theories of labor from their perspective at the edge of Professor Might’s circle of knowledge. Though they address their profession’s concerns in the specific language of their field, most direct the reader towards deeper lessons that reflect both their training and their values.
@@ -355,6 +388,7 @@ The deceptively simple instructions for doing conceptual labor have been annotat
 We need such a theory, because every field’s own *Pricipia Mathematica*[^fn26] can be met by a matching ad-hoc incompleteness theorem.[^fn27] However successful our work to order and rationalize the world may be within its goals, our actions and their results become a part of the world that we encounter and must relate to our other labor as conscious actors. We situate these frameworks along chronological, conceptual, personal, or completely novel measures. Whatever frame we may build in which to work, it is our nature as frame-builders that allows us to always step out of one frame and consider it in a broader context.
 
 ![Any container we build, we can step out of and build another. *Standards* from xkcd.com](https://imgs.xkcd.com/comics/standards.png)
+*Any container we build, we can step out of and build another. [Standards](https://xkcd.com/927/){:target="blank"} from xkcd.com.*
 
 In his essay *The Role of Theory in Aesthetics,* Philosopher Morris Weitz attends to the problem of defining “Art” when new theories and new art continue to develop.
 
@@ -382,17 +416,42 @@ However, as readers of these texts, we are in the same situation as a viewer in 
 
 This work is the *+1* in *N+1*. There can be no one guide to it, so we write countless guides. One particularly profound and surprising entry is Rebecca Solnit’s *A Field Guide to Getting Lost.* In it, she meditates on a challenge posed by Meno to Socrates: “How will you go about finding that thing the nature of which is totally unknown to you[^fn31]?” Whether we answer that we will do “conceptual labor” or use another term, we must at least recognize that the answer falls within a special category of labor, one which is always changing.
 
-\pagebreak  
+
+---
+
+
+  
 
 ## The Art of \_\_\_, Diagrammed  
---------------------------------- 
-![Finite and not-so-finite labor](images/fig1.1.png)  
-![Labor between contexts](images/fig1.2.png)  
-![Labor to create context](images/fig1.3.png) 
-![The Art of Basketball](images/fig1.4.png) 
-![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
+---
 
-\pagebreak
+*Finite and not-so-finite labor* 
+![Finite and not-so-finite labor](theory-text/images/fig1.1.png) 
+
+---
+
+*Labor between contexts* 
+![Labor between contexts](theory-text/images/fig1.2.png) 
+
+---
+
+*Labor to create context*
+![Labor to create context](theory-text/images/fig1.3.png)
+
+---
+
+*The Art of Basketball*
+![The Art of Basketball](theory-text/images/fig1.4.png)
+
+---
+
+*The Art of \_\_\_ and Conceptual Labor*
+![The Art of \_\_\_ and Conceptual Labor](theory-text/images/fig1.5.png)
+
+---
+
+
+
 ## Conceptual Labor Counters Power
 
 There is a polemical quality to The Art of \_\_\_. It says, while this work may look like the exclusive province of this discipline and those who have the specialized training to do it, the soul of this work can be understood in the abstract and carried to other parts of life. The thing we call, say, windsurfing, is not the Art of Windsurfing. That is a practice of decision making and living that must be continuously refreshed as you walk through life, and there is a way encounter that practice using a windsurf board.
@@ -459,8 +518,6 @@ Why should this be? If the ideas that they employed were powerful enough to diss
 
 However new or special a map is, if it claims to be complete it is of limited use to explorers trying to make their own maps or navigate un-mappable territory. It is through dedicated, ongoing conceptual labor that we understand that we do not just need a new map to our destination, we need to prepare for an entirely different kind of journey. 
 
----
-
 For Mulla Nasreddin and anyone else looking for something in the dark, this means not going towards the known source of light, but finding one you can carry with you, or maybe climbing the lamppost and cutting it down. 
 
 In her essay *Poetry is Not A Luxury*, Audre Lorde says:
@@ -499,12 +556,18 @@ Radical social change is often presented as a conventional narrative --- once th
 If we take seriously the demands and idiosyncrasies of conceptual labor, we can more effectively relate our work to the narratives that frame it. Beyond that, we can practice the special patterns of work that are required to shift our frames of reference. We can prepare ourselves for the narrative to change once we escape it, for it to change once again, and for it to keep changing.
 
 
-\pagebreak
+
+---
+
+
+
 # Part 3
 # How to Use The Theory
-\pagebreak
 
-\pagebreak
+---
+
+
+
 ## Introduction to Conceptual Labor Analysis
 
 
@@ -536,7 +599,11 @@ The Theory provides a framework in which to ask these questions. The Tenets prop
 
 Using the theory to analyze our labor, then, should provide a way to clearly define models and the relationships between their components to our own satisfaction. Doing so should help us become aware of significant changes to any of the components, or help reveal where our definitions were wrong. We should be able to repeat this process until it produces an understood model with static components that we can use as a set of instructions. This process should also allow us to infer broader principals and lessons from the answers to specific questions.
 
-\pagebreak
+
+---
+
+
+
 ## Conceptual Labor Analysis vs What We Already Do
 
 As Tenet 7 reminds us, we end up following our own ad-hoc version of this process simply by doing our work and thinking carefully about it. Asking questions grounded by the specificity of our work will produce broader, abstract questions during conceptual labor. So why introduce a separate term for Conceptual Labor Analysis? Doesn't conceptual labor imply self-considering work? 
@@ -562,7 +629,11 @@ Conceptual Labor Analysis focuses on describing the composition, relationships, 
 
 So, in analyzing our labor, we may not always be able to anticipate the right questions and answers, but we can familiarize ourselves with the process to ask and answer these questions with more ease, insight, and precision. To that end, this section outlines the basic process of using the language of the Theory as an analytical tool.
 
-\pagebreak
+
+---
+
+
+
 ## Conceptual Labor Analysis in a Nutshell
 
 All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by Creating a Model of Labor. 
@@ -581,7 +652,8 @@ We could consider our racing thoughts mid-fall to be conceptual labor, because t
 
 So with this in mind we can develop a sense of what to put in our models. They only need to be detailed enough to describe the *fundamental* qualities of our project at our current level of focus -- the project that remains an open loop.
 
-![Figure 2: Open and Closed Loops of Conceptual Labor](images/fig2.png)
+![Open and Closed Loops of Conceptual Labor](theory-text/images/fig2.png)
+*Open and Closed Loops of Conceptual Labor*
 
 #### Step 1. Create a model of your labor
 
@@ -615,7 +687,11 @@ If a model we have confidence in produces instructions that we can reliably foll
 
 To demonstrate how Conceptual Labor Analysis can describe our individual experience of labor, and how it allows us to identify the difference between conventional and conceptual labor, we need a narrative of labor. First we will go through it like a story, from start to finish. Then we will use Conceptual Labor Analysis to diagram the models that drive the story forward and to account for how the story changes.
 
-\pagebreak
+
+---
+
+
+
 ## Example: How to Do Conceptual Labor in the Woods
 
 An adventurous friend draws you a map to a secret, picturesque picnic spot she discovered just the other week. In a nearby state park full of rocky hills, a small alpine lake, surrounded by verdant green fields and rare wildflowers, can be reached by a short hike from a public path.
@@ -648,7 +724,11 @@ As is often the case, the trip back seems to go much faster than the trip there.
 
 As your friend promised, it weaves through the trees at a moderate incline until reaching a clearing. The lake is clearer than you imagined, the fields are a perfect green, and the wildflowers are in bloom. Luckily, you still have half a sandwich.
 
-\pagebreak
+
+---
+
+
+
 ### A Caveat
 
 Before we attempt to articulate the doing of conceptual labor in terms of the Theory, we must recognize that this is an artificial and incomplete approach. 
@@ -663,7 +743,12 @@ There can be no definitive guide to all forms of conceptual labor. It would cert
 
 Becoming familiar enough with the Theory to wield it in your own way should be far more useful in most cases. That said, this particular method should still prove valuable in circumstances that are so complex or opaque as to demand that all those concerned take a collective step back to explicitly and methodically write down what they think they are doing in neutral, common language.
 
-\pagebreak
+
+---
+
+
+
+
 ## CLA of Our Example
 
 #### Step 1: Define our project and model our labor
@@ -736,6 +821,8 @@ Then we list each fundamental component, and note which other components it can 
 
 #### Model 1
 
+**Project:** Hike to the secret lake 
+
 <table style="width:83%;">
 <colgroup>
 <col style="width: 27%" />
@@ -759,7 +846,6 @@ Then we list each fundamental component, and note which other components it can 
 </table>
 
 
-**Project:** Hike to the secret lake 
 
 
 When following reliable directions, you are the only significant actor. As a human being, you can alter your own state of mind in relevant ways by learning or deciding, and you can change the work you do or how you do it. However, at this point we labor under the assumption that we understand the context that matters to our work. We may not know everything about the parts of the park represented on the map, but we know we should not deviate from it, and that other contexts, like the other side of the park or our email inbox, do not apply to our project
@@ -767,6 +853,10 @@ When following reliable directions, you are the only significant actor. As a hum
 Next, the work
 
 #### Model 1
+
+
+**Project:** Hike to the secret lake 
+
 
 <table style="width:83%;">
 <colgroup>
@@ -795,9 +885,6 @@ Next, the work
 </tbody>
 </table>
 
-**Project:** Hike to the secret lake 
-
-
 As mentioned previously, the work of hiking the trail has the potential to require conceptual labor as its own, more specific sub-project. But as long as we keep our footing, those situations remain closed-loops of conceptual labor, and do not need to be considered at this scale of modeling.
 
 Otherwise, that work is literally legwork, in which case it can be considered a known quantity. A conventional narrative eschews work that is not included in its description, so our simple model, so far, does not include self-changing work. As the actor running the show, however, our state of mind and our behaviors would change with significantly different work --- ie reading the signs of the trail vs scrambling up the side of a cliff. This means that work can change the actor. 
@@ -807,6 +894,8 @@ Otherwise, that work is literally legwork, in which case it can be considered a 
 While we trust our instructions, our context is known and bounded. Remember, context is defined by what we believe to be true about the thing it refers to. We expect the park to be in a state that corresponds to the map and our expectations. However, not knowing *everything* about it, we would expect it to have the ability to change us, the Actor, even if it is just by greeting us with new sights. Through our reactions, work may change. So that leaves us with a model that looks like this:
 
 #### Model 1
+
+**Project:** Hike to the secret lake 
 
 <table style="width:83%;">
 <colgroup>
@@ -840,8 +929,6 @@ While we trust our instructions, our context is known and bounded. Remember, con
 </tbody>
 </table>
 
-**Project:** Hike to the secret lake 
-
 So far, there is little utility in analyzing this task to this degree. The project title sufficiently describes our work, and we can easily understand it in terms of the basic models of moving through the physical world that come with being a conscious person. This is conventional labor. This model represents the “let’s sit down and go over this one more time” point.
 
 
@@ -856,6 +943,8 @@ At this point, our labor can take so many different approaches that “steps” 
 The questions we asked while taking the first sandwich break propose a complex model that could explain our situation. Note that each type of component can change at least one instance of every type of component --- the definition of conceptual labor.
 
 #### Model 1
+
+*Project:* Hike to the secret lake with unreliable directions 
 
 <table style="width:83%;">
 <colgroup>
@@ -914,7 +1003,6 @@ The questions we asked while taking the first sandwich break propose a complex m
 </tbody>
 </table>
 
-*Project:* Hike to the secret lake with unreliable directions 
 
 This model is rather general, and allows for many possibilities --- you forgot a step in the directions, your friend is playing a joke on you, something in the woods changed, etc. 
 
@@ -930,6 +1018,9 @@ We label the model and project like so:
 
 
 And define components. Example:
+
+
+*Project:* Hike to the secret lake with unreliable directions 
 
 <table style="width:56%;">
 <colgroup>
@@ -958,8 +1049,6 @@ And define components. Example:
 </tbody>
 </table>
 
-*Project:* Hike to the secret lake with unreliable directions 
-
 Components will necessarily have relationships. References to other components in a definition look like this:
 
 
@@ -980,6 +1069,7 @@ Components will necessarily have relationships. References to other components i
 <td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
 </tr>
 </tbody>
+</table>
 
 
 This means Actor 1 does this Work that includes Context 2.
@@ -1010,26 +1100,6 @@ We label *functional relationships* in their own column, and we do so in a one-w
 </tr>
 </tbody>
 </table>
-<h4 id="a-component-and-its-relationships">A component and its relationships</h4>
-<p>Let us annotate A1 as a demonstration of how to create and interpret a model.</p>
-<table style="width:56%;">
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Label</th>
-<th style="text-align: left;">Component</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Actor 1</td>
-<td style="text-align: left;">You</td>
-</tr>
-</tbody>
-</table>
 
 
 #### A component and its relationships
@@ -1053,12 +1123,12 @@ Let us annotate A1 as a demonstration of how to create and interpret a model.
 <td style="text-align: left;">You</td>
 </tr>
 </tbody>
+</table>
 
 Of course, this is an exceptionally short description for a very complex part of the model. This is a simple model for explanatory purposes, but your models don’t necessarily have to be much more complex at first. One of the major purposes of CLA is to discern significant details that are hidden by the way we define parts of the world to ourselves. More often, we have not taken the step to define a component explicitly, and only work with an opaque notion “you” rather than a detailed picture of a complex person.
 
 
 As the primary actor, you have the most power to change the components of the model and the model itself (M1). The only component you can’t change is your friend in the past. 
-
 
 <table style="width:83%;">
 <colgroup>
@@ -1081,32 +1151,6 @@ As the primary actor, you have the most power to change the components of the mo
 </tr>
 </tbody>
 </table>
-<h4 id="the-components-a1-you-can-affect.">The components A1 (You) can affect.</h4>
-<p>These are the components that You have a functional relationship to.</p>
-<h4 id="yourself">Yourself</h4>
-<p>Conscious actors are self-modifying by definition. We learn, think, and decide.</p>
-<h4 id="model-1-6">M(odel) 1</h4>
-<p>Since Model 1 represents your own thoughts, you can change the <em>structure</em> of the model itself, not just individual components.</p>
-<h4 id="work">Work</h4>
-<table style="width:56%;">
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Label</th>
-<th style="text-align: left;">Component</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Work 1</td>
-<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
-</tr>
-</tbody>
-</table>
-
 
 
 #### The components A1 (You) can affect.
@@ -1126,6 +1170,28 @@ Since Model 1 represents your own thoughts, you can change the *structure* of th
 #### Work
 
 
+<table style="width:56%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Label</th>
+<th style="text-align: left;">Component</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Work 1</td>
+<td style="text-align: left;">A1: Follow the directions on the map (C2)</td>
+</tr>
+</tbody>
+</table>
+
+To change work is to change the meaning of its instructions. If you change what you believe about any of the contexts in which you are doing the work, you will change what it means to “follow the directions.” If you think your friend wrote the map with an ulterior motive, you may change the meaning of this work. If your friend is trying to trick you, which seems unlikely, then the directions must be interpreted rather than simply followed. You may *articulate* new directions to yourself, you may *expand* the definition of this work to include your own directions, you may *discern* subtext to C2 to *navigate* better, etc.
+
+
 <table style="width:82%;">
 <colgroup>
 <col style="width: 27%" />
@@ -1141,30 +1207,6 @@ Since Model 1 represents your own thoughts, you can change the *structure* of th
 <tr class="odd">
 <td style="text-align: left;">Work 2</td>
 <td style="text-align: left;">A1: Imagine what your friend (A2) was thinking (C3)</td>
-</tr>
-</tbody>
-</table>
-
-
-
-To change work is to change the meaning of its instructions. If you change what you believe about any of the contexts in which you are doing the work, you will change what it means to “follow the directions.” If you think your friend wrote the map with an ulterior motive, you may change the meaning of this work. If your friend is trying to trick you, which seems unlikely, then the directions must be interpreted rather than simply followed. You may *articulate* new directions to yourself, you may *expand* the definition of this work to include your own directions, you may *discern* subtext to C2 to *navigate* better, etc.
-
-
-<table style="width:56%;">
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Label</th>
-<th style="text-align: left;">Component</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Context 1</td>
-<td style="text-align: left;">The map</td>
 </tr>
 </tbody>
 </table>
@@ -1267,6 +1309,9 @@ Since this is a hypothetical story, with a hypothetical friend, we won’t write
 
 #### Model 1.1
 
+*Project:* Hike to the secret lake with unreliable directions 
+
+
 <table style="width:83%;">
 <colgroup>
 <col style="width: 27%" />
@@ -1319,8 +1364,6 @@ Since this is a hypothetical story, with a hypothetical friend, we won’t write
 </tbody>
 </table>
 
-*Project:* Hike to the secret lake with unreliable directions 
-
 
 The way we think about other people is a prime example of how we are able to think with models without making their every detail explicit. With those we know, we may possess a developed set of behaviors that closely resemble their real behavior that we can apply to questions of what they would or would not think and do. With those we don’t --- or refuse to --- know, we mentally represent them with what amounts to conceptual spare parts. The dangers of thinking of people as a collection of un-interrogated broad ideas, is demonstrated every day in every country.
 
@@ -1335,6 +1378,9 @@ There is another complex component that is only represented in shorthand in Mode
 
 
 #### Model 1.1
+
+*Project:* Hike to the secret lake with unreliable directions 
+
 
 <table style="width:83%;">
 <colgroup>
@@ -1398,9 +1444,6 @@ There is another complex component that is only represented in shorthand in Mode
 </tbody>
 </table>
 
-*Project:* Hike to the secret lake with unreliable directions 
-
-
 While this is our working model, W4 is our preoccupying task. If we only imagine that the lake could have changed, we should refine our context to refer to the lake only rather than all of the woods. But, as it turns out, this more general model contains the possibility that explains our situation. The lake didn’t change, but the cliff did. 
 
 In our example, we arrived at that possibility by accident, as the contents of our model/container jostled against each other. Out of exhaustion, we took a break from what we thought was work and just looked ahead idly. When we understand the importance of creating and interpreting dynamic models, we can see why chance or accident can act just like work. This is why conceptual labor doesn't always look like work, since sometimes the most useful thing you can do is to open your models to possibilities that seem unlikely under your working narrative. Any activity that helps you expand, articulate, navigate, or discern significant qualities of your models has the potential to yield the answers you seek or to refine the questions you ask.
@@ -1418,6 +1461,9 @@ This is the last important note from our example --- that our best model allowed
 If the woods are the component that behaves unexpectedly, you can go back to trusting your friend and remove her state of mind from significant consideration.
 
 #### Model 1.x
+
+*Project:* Hike to the spot your friend went to and remain aware of changes to the park
+
 
 <table style="width:83%;">
 <colgroup>
@@ -1466,15 +1512,15 @@ If the woods are the component that behaves unexpectedly, you can go back to tru
 </tbody>
 </table>
 
-*Project:* Hike to the spot your friend went to and remain aware of changes to the park
-
-
 
 This is what Conceptual Labor Analysis should do for us --- systematically navigate our models so that we can discern which component or model needs to be expanded or better-articulated. 
 
 We can simplify this model further
 
 #### Model 1.x
+
+*Project:* Hike to the spot your friend went to and remain aware of changes to the park
+
 
 <table style="width:83%;">
 <colgroup>
@@ -1518,16 +1564,17 @@ We can simplify this model further
 </tbody>
 </table>
 
-*Project:* Hike to the spot your friend went to and remain aware of changes to the park
-
-
 Our work expects dynamic contexts, so context changes cannot loop back to change work. Our critical reading of C1 and our personalized definition of C2 can accommodate unexpected results from doing W1 and W2 without changing the definitions of our components. Put another way, we expect to learn as we hike. Any conceptual labor that happens in the process would do so in a closed-loop that does not challenge the structure of this high-level model.
 
 With a little bit of W1 and W2, you can confidently settle back to a conventional narrative:
 
 You follow the directions, paying close attention, through the woods.
 
-\pagebreak
+
+---
+
+
+
 
 ## Case Study: What is Programming?
 
@@ -1645,12 +1692,24 @@ Here, too, she carefully articulates the context of education to discern a narra
 
 
 
-\pagebreak
+
+---
+
+
+
 # The Theory, Expanded
-\pagebreak
+
+---
+
+
+
 
 ## Tenets 1 & 2: Modeling Labor
-\pagebreak
+
+---
+
+
+
 
 ### Summary
 
@@ -1681,7 +1740,11 @@ Given any description of a project, we cannot assume that everyone who does the 
 
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
@@ -1699,7 +1762,11 @@ Tenet 1 declares that, inside that black box, the individual’s state of mind r
 
 The Core Concepts in this section articulate the significant implications that follow from defining an individual’s experience of work in a detailed model.
 
-\pagebreak
+
+---
+
+
+
 
 ### Tenet 1: Work can be modeled with fundamental components
 
@@ -1756,13 +1823,16 @@ There are assumptions or beliefs hidden within the definition of what a “map�
 
 An expanded definition of `Context 1 The Map` from our model would include the following beliefs:
 
-|  The Map 
-|     which:
-|      accurately represents open, passable trails 
-|       which:
-|         lead to where you are going
-|         leaves out information you do not need
-|         does not leave out information you do need
+_The Map_
+
+> which: 
+>> accurately represents open, passable trails 
+>>> which:
+>>>> lead to where you are going
+
+>>>> leaves out information you do not need
+
+>>>> does not leave out information you do need
 
 Put this way, we can see that a map drawn by a friend is more like a transit map[^fn68] than a geographic record.
 
@@ -1770,7 +1840,11 @@ These are reasonable things to believe about the map, but they are still beliefs
 
 Context is potentially the most complex of the fundamental components, since our beliefs about the world and our interactions with it often contain many complex models themselves[^fn69]. When interrogating a context we are not entirely certain of, we are almost guaranteed to find relevant models within it which we have not yet fully defined to ourselves. 
 
-\pagebreak
+
+---
+
+
+
 ### Tenet 2: Individuals experience work through a unique mental model
 
 ---------------------------------
@@ -1922,10 +1996,15 @@ Conceptual labor does not commit to a position. Conceptual labor is a continuous
 
 
 
-\pagebreak
+
+---
 
 ## Tenets 3 & 4: Labor Changes
-\pagebreak
+
+---
+
+
+
 
 ### Summary
 
@@ -1948,7 +2027,11 @@ Though labor involves change by definition, it can still be systematized, descri
 However, work behaves much differently when all significant components are dynamic. When the actor, labor, and context are all able to change on their own accord, and able to change the other types of components, the work takes on another dimension. In this type of work, solving one’s confusion, coming up with new instructions, and executing them are all considered part of the same project.
 
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
@@ -1958,7 +2041,11 @@ Tenet 3 declares that labor behaves much differently when “all components of a
 
 Tenet 4 states that “We tend towards models with static and well-defined components.” In other words, without questioning our beliefs about the conditions of our labor, we will default to the conventional narrative. Critically observing and responding to how and why you work is in itself a departure from conventional labor. There may be compelling reasons to stick with the conventional narrative, but it often turns out not to be true or useful. Conceiving of new, accurate narratives of work while it changes is not easy.
 
-\pagebreak
+
+---
+
+
+
 
 ### Tenets 3 & 4: Labor Changes and We Must Change With It 
 
@@ -2073,7 +2160,11 @@ If we think of adjusting a model and doing work as separate actions, trying to k
 
 
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Industrious Fictions
 
@@ -2091,8 +2182,8 @@ We can see the roots of this opposition in a deeper disconnect expressed by Tene
 
 The meme What People Think I Do / What I Really Do[^fn86] demonstrates this Concept on a broad scale. Popular enough to merit its own generator[^fn87], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you did the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
 
-![Meme image by artist Garnet Hertz that popularized the format.](images/Hertz-original-600.jpeg)
-
+![Meme image by artist Garnet Hertz that popularized the format.](theory-text/images/Hertz-original-600.jpeg)
+*Meme image by artist Garnet Hertz that popularized the format.*
 
 When we sit down to work, we do so through a model of our labor in our head, and with it comes a variety of beliefs and assumptions. We work according to that model, subject to the implications of the picture it paints, whether we understand those implications or not. Anyone who has watched a robotic vacuum bash itself repeatedly into a corner has seen a real-world example of this.
 
@@ -2306,10 +2397,18 @@ This is not an appeal for better research methods or to fix a lack of education.
 
 
 
-\pagebreak
+
+---
+
+
+
 
 ## Tenets 5 & 6: Competing Narratives
-\pagebreak
+
+---
+
+
+
 
 ### Summary
 
@@ -2328,7 +2427,11 @@ This is not an appeal for better research methods or to fix a lack of education.
 
 There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right. 
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
@@ -2339,7 +2442,11 @@ Tenet 5 says that if one’s working model is to stay in sync with their labor a
 
 Tenet 6 is an outcome of this necessary conversation about what work is, should, or could be. Conventional labor proceeds according to its authority as being effective and necessary. If conceptual labor begins when we question that narrative, then it must include an argument for the necessity of conceptual labor and the new narratives it produces.
 
-\pagebreak
+
+---
+
+
+
 
 
 #### Doing work and modifying the narrative of how you work must happen simultaneously in conceptual labor
@@ -2402,7 +2509,11 @@ If conceptual labor aims to continuously adapt to ongoing change, it follows tha
 
 Thinking of how to have a good conversation can benefit this process. Tenet 6 proceeds from having a conversation about what work is, should, or could be. Work that follows a discursive process has the potential to produce multiple useful outcomes, or to follow any number of paths to a measurable result. A useful exercise to cultivate successful conceptual labor would be to consider the ways in which you can and cannot prepare for a conversation, and how someone should approach a stimulating conversation that everyone involved would want to continue.
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Unnecessary Work
 
@@ -2549,9 +2660,17 @@ One of science writer Lewis Thomas’s most referenced passages addresses itself
 
 
 
-\pagebreak
+
+---
+
+
+
 ## Tenet 7: Patterns and materials of conceptual labor
-\pagebreak
+
+---
+
+
+
 
 
 ### Summary
@@ -2570,7 +2689,11 @@ One of science writer Lewis Thomas’s most referenced passages addresses itself
 Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
 
 
-\pagebreak
+
+---
+
+
+
 
 ### Introduction
 
@@ -2584,7 +2707,11 @@ When we understand this, we can shift how we encounter the materials, ideas, and
 
 By consciously practicing conceptual labor in our native mental terminology, according to its internal rules, we can identify and develop deep patterns, techniques, and concepts that apply to how we do conceptual labor in general. By expressing these patterns in shared languages, we can communicate them to others.
 
-\pagebreak
+
+---
+
+
+
 
 ### Conceptual labor tends towards abstraction but is rooted in specifics
 
@@ -2670,7 +2797,8 @@ Context separates what an actor knows and believes from beliefs they do not hold
 Whether one looks at their circumstances and thinks that everything or nothing is possible, whether the circumstances are mysterious or rigorously studied, every act of work is subject to at least an implicit sense of “possibility[^fn130]”. The mishaps of hypnosis subjects and sleepwalkers show that even at a subconscious level our actions are contained within our Concept of possibility. A sleepwalker  (or robotic vacuum) bumping into real obstacles while trying to navigate their dreamed surroundings isn’t trying to do something they know they can’t --- what they think is possible simply isn’t. One must be conscious to *try* to do the impossible. 
 
 
-![Figure 3: The scale of possible to not possible](images/fig3.png)
+![The scale of possible to not possible](theory-text/images/fig3.png)
+*The scale of possible to not possible*
 
 The scope of what is and isn’t possible varies from person to person, of course, but everyone possesses an internal scale which starts at “not possible” and increases to “guaranteed.” We become keenly aware of this scale in the thrilling moments when we decide to work in the realm of the impossible, or when the borders of that realm shift and we are suddenly able to see new potential in the world or our own skills and imagination. Possibility is itself a meta-model that contains our models of physical, social, and personal reality. It is just one of countless meta-models that silently shape our labor.
 
@@ -2692,7 +2820,11 @@ If we analyze our conceptual labor, formally or not, we are sure to find that ev
 
 All conceptual labor includes a form of self-education. It is the effort by which we grow familiar with the landscape of our models’ realities. We hone our instincts for our own mental laws and develop theories of their operating principles so that we may build sophisticated mental machinery. In doing so, we acquire skills that we can apply to *all* of our conceptual labor. As the Theory facilitates critical analysis of the very process of making and using models, it can be combined with our existing practices of conceptual labor to increase our faculty in perceiving, working with, and escaping the frames that contain our labor. When we are able to articulate these frames and practices, fundamental skills of conceptual labor can be learned and applied to *all* of our labor, regardless of material, discipline, or appearance.
 
-\pagebreak
+
+---
+
+
+
 
 ### Case Study: Translations, Possible and Impossible
 
@@ -2713,10 +2845,11 @@ Professor: You know the objective concepts, so let's discuss the subjective ones
 Master: Spoken word can no longer support our conversation.
 
 
-![User elden found their own non-verbal representation](images/elden-comment.png)[^fn134]
+![User elden found their own non-verbal representation](theory-text/images/elden-comment.png)[^fn134]
+*User elden found their own non-verbal representation*
 
-![Greg C had this to say](images/greg-c-comment.png)[^fn135]
-
+![Greg C had this to say](theory-text/images/greg-c-comment.png)[^fn135]
+*Greg C had this to say*
 
 These comments recognize that there are many ways to explain basic concepts to novices, but the labor of initiates and professionals cannot be properly explained without their materials. The video starts at the well-trodden center of Professor Might’s knowledge circle[^fn136], and works its way out to the specialized conceptual labor that Collier and Hancock do with music as they push the boundaries of convention. At that edge, satisfactory discussion of this kind of labor cannot be separated from certain information embodied within the medium itself.
 
@@ -2773,7 +2906,8 @@ We can imagine, then, a threshold between the known and the unknown that defines
 
 This labor is different than the labor that occurs within that boundary. Whatever you know, you must do conceptual labor to cross that boundary. Our fundamental fixed scale goes from *here* to *there*.
 
-![Figure 4: The fundamental scale of conceptual labor](images/fig4.png)
+![The fundamental scale of conceptual labor](theory-text/images/fig4.png)
+*The fundamental scale of conceptual labor*
 
 #### CL can be learned and practiced
 
@@ -2826,11 +2960,15 @@ This is the fundamental process of labor that can be described by these seven Te
 
 
 
-\pagebreak
+
+---
+
+
+
+
 
 
 # Footnotes
-
 
 
 [^fn1]: Farzad, Houman. “Looking for the Missing Ring.” In Classic Tales of Mulla Nasreddin, Retold by Houman Farzad, translated by Diane L. Wilcox, v. Costa Mesa, California: Mazda Publishers, 1989.
@@ -3056,11 +3194,11 @@ This is the fundamental process of labor that can be described by these seven Te
 
 [^fn109]: Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
 
-[^fn110]: Discussed in detail in *Expertise Grows out of Conceptual Labor*
+[^fn110]: Discussed in detail in *Expertise Grows out of Conceptual Labor*.
 
 [^fn111]: Bernheimer, L. *The Shaping of Us: How Everyday Spaces Structure Our Lives, Behavior, and Well-Being*, 32. Trinity University Press, 2020.
 
-[^fn112]: Ford, Paul. 2015. “Paul Ford: What Is Code? | Bloomberg.” June 11, 2015. https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
+[^fn112]: Ford, Paul. 2015. “Paul Ford: What Is Code? \| Bloomberg.” June 11, 2015. https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
 
 [^fn113]: Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
 
@@ -3127,6 +3265,9 @@ This is the fundamental process of labor that can be described by these seven Te
 [^fn144]: Ellis-Peterson, Hannah. “Racial Identity Is a Biological Nonsense, Says Reith Lecturer.” the Guardian, October 18, 2016. http://www.theguardian.com/society/2016/oct/18/racial-identity-is-a-biological-nonsense-says-reith-lecturer.
 
 [^fn145]: “Athletic Department / Guide for Parents and Athletes.” Accessed May 8, 2021. https://www.a2schools.org/Page/12923.
+
+
+
 
 
 

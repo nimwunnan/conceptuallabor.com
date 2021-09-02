@@ -1,5 +1,5 @@
 % The Theory of Conceptual Labor
-% Ním Wunnan
+% Ním Daghlian
 % 2021
 
 \pagebreak
