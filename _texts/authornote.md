@@ -19,35 +19,3 @@ It is my hope that with this theory, the lessons we learn from the hard work we 
 A shared language of conceptual labor can enhance the ease and effectiveness with which such patterns can be understood and shared, in the work that we recognize as work as well as the important areas of our personal lives as citizens that we each labor daily to improve.
 
 So that is all to say that, with the Theory in our back pocket, there is much, much more to discover. When we use it to expand our definitions of work, the Theory can bridge the gap between different disciplines --- or different areas of the same discipline --- that do similar conceptual labor in their own ways, so we ought to try to build bridges. When we turn to it to articulate and navigate our individual experience of work, it can provide new ways to catalogue the countless effective patterns of working that have been discovered and refined by artists and writers, researchers and engineers, counselors and parents, and so on. So we ought to try to build a card catalogue for this vast library. If we use it to see through established narratives, we can expose important work which is overlooked, willfully or by accident, so we ought to write new job descriptions and build new unions. Perhaps most importantly it can help us figure out if we are thinking what we think we are thinking and if we are doing what we think we are doing. In this era of unintended consequences we ought to double-check on whatever scale we can.
-
-
-=======
-
-I had the great privelege of spending my days in practice and study for a few years. I practiced painting at a school built to teach it, martial arts in a welcoming local community, and writing and 
-
-studying painting at the Glasgow School of Art, where I was surrounded by professors, working artists, and fellow students who were seriously, generously, and earnestly trying to make art and know what it means to do so. At the same time, I was trying to learn martial arts for the first time, 
-
-Straightforward study and rote practice could only get you so far. The comforting certainty that came with 
-
-
-
-
-At first I thought that this was a feature of the subjects I studied, that it was mainly art-ness that escaped explanation. After many episodes of feeling like I had finally figured something out only to find myself in a dead end, I began 
-
-* when you study art, you encounter lots of executive maps
-* even working on my own, I felt a tendency to drift towards "an inadequate yet comforting certainty"
-* this was always a trap
-
-
- until I graduated and started working as a web developer. While learning even the basics of programming, I recognized the same patterns of working, learning, and talking that I thought belonged in “the arts.” 
-
-
-### Precursors
-
-* At school, I wrote my dissertation on the conflict between fundamental uncertainty of the work of making art and the obligations of an institution founded on the idea that it can reliably graduate students who have learned how to do that work. 
-
-* That was mainly focused on A-art institutions, but made furtive attempts to connect to the world of computer programming.
-
-After I graduated, I was left with the hunch that the patterns I was seeing were more fundamental to working and learning than I could understand from my own experience. This led me to found a small organization dedicated to talking about work and ideas across disciplines. For five years, I listened to how people described, in their own terms, what was important to them about their work and how they did it. In the conversations at these events, people naturally identified common patterns and practices of working. It became clear that the only special claim art had over these patterns was that when, for lack of a better term, someone said there was “an art” to what they did, they began to talk about the patterns I was looking for.
- 
-My first attempt at a theory was to try to extract these patterns from my personal experience of trying to do this work as a painter, which became the essay [The Thing I am Trying to Do](http://painting.school){:target="blank"}. While developing that essay, I taught two classes at a code school which incorporated early ideas of the Theory, focused on its expression in the tech industry. Finishing that essay and seeing my students successfully apply the ideas to their jobs and careers spurred me to develop a general theory. 

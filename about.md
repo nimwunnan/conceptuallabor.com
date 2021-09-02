@@ -61,4 +61,4 @@ This text (and my life) would be far poorer and less interesting without the sup
 
 ## The Author
 
-  The Theory of Conceptual Labor and the contents of this site were written in their entirety by [Ním Daghlian](http://Daghlian.com){:target="blank"}
+  The Theory of Conceptual Labor and the contents of this site were written in their entirety by [Ním Daghlian](http://wunnan.com){:target="blank"}
