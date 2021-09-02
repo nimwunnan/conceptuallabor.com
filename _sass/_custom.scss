@@ -99,10 +99,11 @@ hr {
     height:15vh;
     z-index: 500;
     &.small{
-      margin-top: -50px;
+      margin-top: -30px;
+      margin-bottom: 40px;
       border-bottom:1px solid #eee;
       .logomark{
-        font-size:2rem;
+        font-size:1.5rem;
         line-height:1.5rem;
         padding-top: 5vh;
       }
