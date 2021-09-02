@@ -34,8 +34,8 @@ To this end, The Theory identifies seven related Tenets that reflect essential c
 
 A short [summary](summary) of the Theory follows this introduction, preceding the core text of the Theory. The [glossary](glossary) contains all the special terms used here and in the Theory. 
 
-The section *[Why We Need a Theory of Conceptual Labor](why-we-need-a-theory)* presents various arguments for why a general theory of conceptual labor is necessary and relevant, providing more examples based in real-world experience. In addition, it briefly surveys the existing language from various disciplines to describe what we are calling conceptual labor.  
+The section [Why We Need a Theory of Conceptual Labor](why-we-need-a-theory) presents various arguments for why a general theory of conceptual labor is necessary and relevant, providing more examples based in real-world experience. In addition, it briefly surveys the existing language from various disciplines to describe what we are calling conceptual labor.  
 
-The section *[How To Use The Theory of Conceptual Labor](how-to-use-the-theory)* outlines basic methods by which this theory can provide abstract mental tools to support the many ways in which specific conceptual labor is done in the mind and the physical world. It contains a demonstration of how to use the special terms of the Theory to represent and analyze a simple, real-world example of conceptual labor.
+The section [How To Use The Theory of Conceptual Labor](how-to-use-the-theory) outlines basic methods by which this theory can provide abstract mental tools to support the many ways in which specific conceptual labor is done in the mind and the physical world. It contains a demonstration of how to use the special terms of the Theory to represent and analyze a simple, real-world example of conceptual labor.
 
-The final section, *[The Expanded Theory](expanded-theory)* explains the Tenets and Core Concepts in detail, first in abstract terms and then again through case studies for each of the four groups. 
+The final section, [The Expanded Theory](expanded-theory) explains the Tenets and Core Concepts in detail, first in abstract terms and then again through case studies for each of the four groups. 

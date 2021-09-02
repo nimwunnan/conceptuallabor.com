@@ -6,16 +6,6 @@ $y: yellow;
 $k: black;
 
 
-
-body {
-  background: #ffbfb;
-  line-height: 185%;
-  &.home {
-    .content {
-    }
-  }
-}
-
 .mtext {
   color: $m;
 }
@@ -29,6 +19,18 @@ body {
   color: $k;
 }
 
+
+
+body {
+  background: #ffbfb;
+  line-height: 185%;
+  &.home {
+    .content {
+    }
+  }
+}
+
+
 .masthead {
   background: white;
   padding-top: 0px;
@@ -40,37 +42,45 @@ body {
 }
 
 #main { 
+
+  a {
+  color: $m;
+  text-shadow: -1px -1px 1px $y;
+  }
+  a:hover, a:focus {
+    color: $k;
+    text-decoration: none;
+    text-shadow: -1px -1px 1px $c;
+  }
   ul li {
     list-style: none;
   }
 
-  a {
-    text-shadow: -1px -1px 1px $y;
-    font-weight: bolder;
+  h1, h2, h3, h4, h5{
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
-  a:hover {
-    text-decoration: none;
-    color: $k;
 
-  }
   h1 {
-    font-size: 2rem;
-    text-align: center;
+   font-size: 2rem;
+   text-align: center;
   }
-  h1, h2 {
-    font-weight: 500;
-    margin-top: 3rem;
+  h2 {
+    margin-left: -20px;
   }
-
-hr {
-
-  margin: 40px 0px;
-}
+  hr {
+    margin: 40px 0px;
+  }
+  blockquote p {
+    font-style: normal;
+    line-height: 140%;
+  }
 }
   .content {
       opacity: 0;
       transition: opacity 1.2s;
-      padding-top: 12vh;
   }
 .visible {
   opacity: 1;
@@ -138,7 +148,17 @@ hr {
 #book-toc {
   max-width: 500px;
   margin: 150px auto 0px;
-
+  text-align: center;
+  color: $y;
+  a {
+  color: #333;
+  text-shadow: -1px -1px 1px $c;
+  }
+  a:hover, a:focus {
+    color: $k;
+    text-decoration: none;
+    text-shadow: -1px -1px 1px $y;
+  }
 }
 .mtext.fix {
   top: -1px;

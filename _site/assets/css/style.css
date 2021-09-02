@@ -998,10 +998,6 @@ pre code {
 .highlight pre {
   margin-bottom: 0; }
 
-body {
-  background: #ffbfb;
-  line-height: 185%; }
-
 .mtext {
   color: magenta; }
 
@@ -1014,6 +1010,10 @@ body {
 .ktext {
   color: black; }
 
+body {
+  background: #ffbfb;
+  line-height: 185%; }
+
 .masthead {
   background: white;
   padding-top: 0px;
@@ -1022,27 +1022,34 @@ body {
 .sidebar-toggle {
   z-index: 800; }
 
+#main a {
+  color: magenta;
+  text-shadow: -1px -1px 1px yellow; }
+#main a:hover, #main a:focus {
+  color: black;
+  text-decoration: none;
+  text-shadow: -1px -1px 1px cyan; }
 #main ul li {
   list-style: none; }
-#main a {
-  text-shadow: -1px -1px 1px yellow;
-  font-weight: bolder; }
-#main a:hover {
-  text-decoration: none;
-  color: black; }
+#main h1, #main h2, #main h3, #main h4, #main h5 {
+  font-family: 'Nanum Myeongjo', serif;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
 #main h1 {
   font-size: 2rem;
   text-align: center; }
-#main h1, #main h2 {
-  font-weight: 500;
-  margin-top: 3rem; }
+#main h2 {
+  margin-left: -20px; }
 #main hr {
   margin: 40px 0px; }
+#main blockquote p {
+  font-style: normal;
+  line-height: 140%; }
 
 .content {
   opacity: 0;
-  transition: opacity 1.2s;
-  padding-top: 12vh; }
+  transition: opacity 1.2s; }
 
 .visible {
   opacity: 1; }
@@ -1095,7 +1102,16 @@ body {
 
 #book-toc {
   max-width: 500px;
-  margin: 150px auto 0px; }
+  margin: 150px auto 0px;
+  text-align: center;
+  color: yellow; }
+  #book-toc a {
+    color: #333;
+    text-shadow: -1px -1px 1px cyan; }
+  #book-toc a:hover, #book-toc a:focus {
+    color: black;
+    text-decoration: none;
+    text-shadow: -1px -1px 1px yellow; }
 
 .mtext.fix {
   top: -1px;
