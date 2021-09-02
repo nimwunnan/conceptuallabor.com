@@ -1072,6 +1072,7 @@ body {
   .fixedlogo.small {
     margin-top: -30px;
     margin-bottom: 40px;
+    height: 150px;
     border-bottom: 1px solid #eee; }
     .fixedlogo.small .logomark {
       font-size: 1.5rem;
@@ -1091,6 +1092,10 @@ body {
   .fixedlogo .ctext {
     top: -1px;
     left: 1px; }
+
+#book-toc {
+  max-width: 500px;
+  margin: 150px auto 0px; }
 
 .mtext.fix {
   top: -1px;
