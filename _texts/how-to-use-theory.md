@@ -1156,6 +1156,6 @@ Here, too, she carefully articulates the context of education to discern a narra
 
 [^fn10]: And, in fact, the COVID-19 pandemic has forced educators, parents, and students to re-consider the essential components of their model of education, and whether it can be achieved remotely, though a narrow interface.
 
-[^fn11]: Victor’s project, Dynamicland, is a space in Oakland, California where a system
+[^fn11]: Victor’s project, Dynamicland, is a space in Oakland, California where visitors can program computers with pen and paper within a system of cameras and projectors that run their programs in real time.
 
 [^fn12]: Chachra, Debbie. 2015. “Why I Am Not a Maker.” The Atlantic. January 23, 2015. https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/.
