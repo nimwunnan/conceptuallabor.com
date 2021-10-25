@@ -330,13 +330,13 @@ For Mulla Nasreddin and anyone else looking for something in the dark, this mean
 
 In her essay *Poetry is Not A Luxury*, Audre Lorde says:
 
-> The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.
+> The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.[^fn41]
 
-The poetry that is indispensable to Lorde is not “sterile wordplay,” but a process --- “the revelatory distillation of experience[^fn41].” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
+The poetry that is indispensable to Lorde is not “sterile wordplay,” but a process --- “the revelatory distillation of experience[^fn42].” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
 
 To learn The Art of \_\_\_, it seems that we always must cross a gap, the one that divides a concrete practice of writing poems from the abstract pattern of revelation that such a practice has the potential to teach us. bell hooks’s *Theory as Liberatory Practice* gives us a bridge of sorts, between the abstract practice of theory and concretely personal and political concerns. 
 
- > Living in childhood without a sense of home, I found a place of sanctuary in “theorizing,” in making sense out of what was happening. I found a place where I could imagine possible futures, a place where life could be lived differently. This “lived” experience of critical thinking, of reflection and analysis, became a place where I worked at explaining the hurt and making it go away. Fundamentally, I learned from this experience that theory could be a healing practice.
+ > Living in childhood without a sense of home, I found a place of sanctuary in “theorizing,” in making sense out of what was happening. I found a place where I could imagine possible futures, a place where life could be lived differently. This “lived” experience of critical thinking, of reflection and analysis, became a place where I worked at explaining the hurt and making it go away. Fundamentally, I learned from this experience that theory could be a healing practice.[^fn43]
 
 hooks’s appeal to the deep-running social applications of theory is in the spirit of the appeals to a wider audience that we find in Art of \_\_ pieces. But, rather than asking us to expand our understanding of a specific practice to see its broader application, she argues for the power of abstraction that our specific, lived experience already contains. She argues not that one *could* use theory as a liberatory practice, but that it is, in itself, an expression of that practice. The site of her revelatory theory is not the accepted *language of theory* used by academics, but the pattern of its practice. Its power can be wielded in the preferred language of the speaker, applied to concerns of personal significance, and understood in social terms that are often denied the status of “serious” intellectual work.
 
@@ -353,13 +353,13 @@ Poststructuralism is an external label for their conceptual labor, which lends t
 Conceptual labor means asking “regardless of what I think I’m doing, what am I actually doing?” and then continuously refining your model of your labor --- which includes the way you see the world --- until it describes what you are actually doing. It only stops when it arrives at an internally-consistent model that has the power to describe new actions taken while subscribing to it. It does not let us stop at politically or personally expedient barriers like the Israeli generals do.
 
 
-To decide for yourself where you will stop doing conceptual labor to participate in social models[^fn42] is an expression of power. The mental cost of participating in many vital social narratives is wildly unequal in its distribution[^fn43]. Conceptual labor is what we have to do when the conventional narrative fails. A society or institution that refuses to negotiate narratives that demand conceptual labor only from certain members is lying to itself, for the benefit of those who don’t have to negotiate these narratives to survive.
+To decide for yourself where you will stop doing conceptual labor to participate in social models[^fn44] is an expression of power. The mental cost of participating in many vital social narratives is wildly unequal in its distribution[^fn45]. Conceptual labor is what we have to do when the conventional narrative fails. A society or institution that refuses to negotiate narratives that demand conceptual labor only from certain members is lying to itself, for the benefit of those who don’t have to negotiate these narratives to survive.
 
 Conceptual labor is the process by which we fundamentally change our model of the world. The more fluent we are in how we practice conceptual labor in the areas that we have the power to control, whether it is poetry or politics, the more we will be able to critique the paradigms that control us. 
 
-In this way, The Theory can be used to critique change that occurs within a fixed paradigm, like the radicalism of the Israeli generals[^fn44]. A critical response to oppressive models that remains within their boundaries is like insisting that poetry is only rhyming verse, that theory is only academic. Its focus on appearance veers towards the technical definition of bullshit. 
+In this way, The Theory can be used to critique change that occurs within a fixed paradigm, like the radicalism of the Israeli generals[^fn46]. A critical response to oppressive models that remains within their boundaries is like insisting that poetry is only rhyming verse, that theory is only academic. Its focus on appearance veers towards the technical definition of bullshit. 
 
-Radical social change is often presented as a conventional narrative --- once the revolution succeeds, we will be free[^fn45]. This is the tempting notion that paradigm shifts behave like chemical reactions, inevitable with sufficient conditions and fuel. However, it is only through ongoing, cooperative conceptual labor that we negotiate new futures and societies. It is not enough to deliver a vision of the future, it must also be installed and sustained.
+Radical social change is often presented as a conventional narrative --- once the revolution succeeds, we will be free[^fn47]. This is the tempting notion that paradigm shifts behave like chemical reactions, inevitable with sufficient conditions and fuel. However, it is only through ongoing, cooperative conceptual labor that we negotiate new futures and societies. It is not enough to deliver a vision of the future, it must also be installed and sustained.
 
 If we take seriously the demands and idiosyncrasies of conceptual labor, we can more effectively relate our work to the narratives that frame it. Beyond that, we can practice the special patterns of work that are required to shift our frames of reference. We can prepare ourselves for the narrative to change once we escape it, for it to change once again, and for it to keep changing.
 
@@ -444,12 +444,17 @@ If we take seriously the demands and idiosyncrasies of conceptual labor, we can 
 
 [^fn40]: Deleuze, Gilles, and Félix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*. Minneapolis: University of Minnesota Press, 1987.
 
-[^fn41]: Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
+[^fn41]: Lorde, Audre. 2007. *Sister outsider: essays and speeches*, 36. Berkeley, Calif: Crossing Press.
 
-[^fn42]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
+[^fn42]: See Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
 
-[^fn43]: We see this when linguistic code-switching divides along racial lines; some groups can speak “normally” without a second thought, while others must modulate their usual way of speaking to suit a social context that won’t accommodate them without judgement or cost. They must do conceptual labor to model an accepted, unseen narrative so they may understand and adapt to its terms. An early definition of the term appears in Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
+[^fn43]: hooks, bell. “Theory as Liberatory Practice.” Yale Journal of Law & Feminism 4, no. 1 (Accessed May 8, 2021). https://digitalcommons.law.yale.edu/yjlf/vol4/iss1/2.
 
-[^fn44]: See also Žižek, Slavoj. “The Prospects of Radical Politics Today.” *Žižek.Uk* (blog), January 1, 2008. https://zizek.uk/the-prospects-of-radical-politics-today/.
+[^fn44]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
 
-[^fn45]: Or, more darkly, “once we get rid of all this type of person, our country will be strong.”
+
+[^fn45]: We see this when linguistic code-switching divides along racial lines; some groups can speak “normally” without a second thought, while others must modulate their usual way of speaking to suit a social context that won’t accommodate them without judgement or cost. They must do conceptual labor to model an accepted, unseen narrative so they may understand and adapt to its terms. An early definition of the term appears in Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
+
+[^fn46]: See also Žižek, Slavoj. “The Prospects of Radical Politics Today.” *Žižek.Uk* (blog), January 1, 2008. https://zizek.uk/the-prospects-of-radical-politics-today/.
+
+[^fn47]: Or, more darkly, “once we get rid of all this type of person, our country will be strong.”
