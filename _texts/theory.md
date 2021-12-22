@@ -46,7 +46,7 @@ order: 3
 * Doing work and changing the narrative of how you work must happen simultaneously
 * Labor that modifies its own narrative is a conversation
 * In this conversation, we must represent our experience
-* The ideal state of this conversation is spontaneous, continuous agreement.
+* The ideal state of this conversation is spontaneous, continuous agreement
 * Labor that can change its own narrative is cyclical
 * Successful conceptual labor cannot be fully planned, only cultivated
 

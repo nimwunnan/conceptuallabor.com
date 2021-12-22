@@ -1,3 +1,130 @@
+# Footnotes
+
+
+
+[^fn1]: Farzad, Houman. “Looking for the Missing Ring.” In Classic Tales of Mulla Nasreddin, Retold by Houman Farzad, translated by Diane L. Wilcox, v. Costa Mesa, California: Mazda Publishers, 1989.
+
+[^fn2]: Might, Matt. “The Illustrated Guide to a Ph.D.” Accessed May 23, 2021. https://matt.might.net/articles/phd-school-in-pictures/.
+
+[^fn3]: Whistler, James McNeill. “The Action.” In *The Gentle Art of Making Enemies*, 3--5. New York: John W. Lowell Company, 1890.
+
+[^fn4]: Ariely, Dan. “Locksmiths.” *Dan Ariely* (blog), December 15, 2010. https://danariely.com/2010/12/15/locksmiths/.
+
+[^fn5]: In the field of architecture, the convention of “working on spec” runs counter to this concept. Defined as “any kind of creative work, either partial or completed, submitted by designers to prospective clients before designers secure both their work and equitable fees,” it is antagonistic enough to the actual labor of architects that many banded together to form a group dedicated to ending the practice. Called No!Spec, they fight for the recognition of the conceptual labor that goes into spec work. See  https://www.nospec.com
+
+[^fn6]: Daniel Kahnamen’s research into how we frame our decisions based on available knowledge provides thorough support for this assertion. After establishing the influence of framing on problem solving strategies through years of studies, he and his contemporaries now refer to the phenomenon with the acronym WYSIATI --- what you see is all there is. Likewise, George Lakoff’s research addresses the effects of linguistic framing on the meaning of statements. See  Kahneman, Daniel. *Thinking, Fast and Slow*. 1st ed. New York: Farrar, Straus and Giroux, 2011. and Lakoff, G., and M. Johnson. *Metaphors We Live By*. University of Chicago Press, 2008.
+
+[^fn7]: Cerf, Bennett. *Shake Well Before Using: A New Collection of Impressions and Anecdotes, Mostly Humorous.*, 118. New York: Simon and Schuster, 1948.
+
+[^fn8]: The Labor Theory of Value is primarily associated with Marxism, though it was previously addressed by a number of economists and philosophers before Marx wrote about it in Das Capital. For  a contemporary analysis of its adherents, criticisms, and legacy see Keen, Steve. “Use-Value, Exchange Value, and the Demise of Marx’s Labor Theory of Value.” *Journal of the History of Economic Thought* 15, no. 1 (1993): 107--21. https://doi.org/10.1017/S1053837200005290.
+
+[^fn9]: See “Knowledge Worker.” In *Wikipedia*, May 2, 2021. https://en.wikipedia.org/w/index.php?title=Knowledge\_worker&oldid=1021066569 and Pyöriä, Pasi. “The Concept of Knowledge Work Revisited.” *Journal of Knowledge Management* 9, no. 3 (January 1, 2005): 116--27. https://doi.org/10.1108/13673270510602818.
+
+[^fn10]: Thomas, Lewis. *Lives of a Cell: Notes of a Biology Watcher*. Demco Media, 1978.
+
+[^fn11]: Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. Updated with a new preface. Berkeley Los Angeles London: University of California Press, 2012.
+
+[^fn12]: Beck, Julie. “The Concept Creep of ‘Emotional Labor.’” The Atlantic, November 26, 2018. https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/.
+
+[^fn13]: Maier, Jean Marie. “It’s Not All Emotional Labor - Clippings.” *Clippings* (blog). Accessed May 8, 2021. https://thesocietypages.org/clippings/2018/12/13/its-not-all-emotional-labor/.
+
+[^fn14]: Or “How To” or, interestingly, “Against” or “The case for .” Even th simple construction “The  \_\_\_ of \_\_\_\_” frequently yields good results.
+
+[^fn15]: Knuth, Donald E. *The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links*. Boston: Addison-Wesley, 2019.
+
+[^fn16]: Tharp, Twyla, and Mark Reiter. *The Creative Habit: Learn It and Use It for Life: A Practical Guide*. 1st Simon & Schuster pbk. ed. New York: Simon & Schuster, 2006.
+
+[^fn17]: Elkins, James. *Why Art Cannot Be Taught: A Handbook for Art Students*. Urbana: University of Illinois Press, 2001.
+
+[^fn18]: Elkins. *Why Art Cannot Be Taught*, 105
+
+[^fn19]: Gooley, Tristan. *The Lost Art of Reading Nature’s Signs: Use Outdoor Clues to Find Your Way, Predict the Weather, Locate Water, Track Animals--and Other Forgotten Skills*. New York: Experiment, 2015.
+
+[^fn20]: Hamming, Richard Wesley. *The Art of Doing Science and Engineering: Learning to Learn*. Amsterdam: Gordon and Breach, 1997.
+
+[^fn21]: Argyris, Chris. *Teaching Smart People How to Learn*. Harvard Business Review Classics Series. Boston, Mass: Harvard Business Press, 2008.
+
+[^fn22]: Ayers, William. To Teach: The Journey of a Teacher. Presumed First Edition. New York: Teachers College Pr, 1993.
+
+[^fn23]: Smith, Zadie. “Fail Better.” *The Guardian*. January 13, 2007.
+
+[^fn24]: Cheng, Eugenia. *The Art of Logic: How to Make Sense in a World That Doesn’t*, 2018. https://www.overdrive.com/search?q=1DA6EB17-A427-4F2D-861C-6172948D52B2.
+
+[^fn25]: Victor, Bret. “Bret Victor, Beast of Burden.” Accessed May 8, 2021. http://worrydream.com/\#!/InventingOnPrinciple.
+
+[^fn26]: Linsky, Bernard, and Andrew David Irvine. “Principia Mathematica.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/sum2021/entries/principia-mathematica/.
+
+[^fn27]: Mathematician Kurt Gödel’s 1931 paper, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems," used the formal logic of the Principia Mathematica, thought to be watertight in its ability to express provable statements, to prove that it was incomplete in two ways. “Gödel’s two incompleteness theorems ... concern the limits of provability in formal axiomatic theories. The first incompleteness theorem states that in any consistent formal system *F* within which a certain amount of arithmetic can be carried out, there are statements of the language of *F* which can neither be proved nor disproved in *F*. According to the second incompleteness theorem, such a formal system cannot prove that the system itself is consistent (assuming it is indeed consistent).” From Raatikainen, Panu. “Gödel’s Incompleteness Theorems.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Spring 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/spr2021/entries/goedel-incompleteness/. See also Wolchover, Natalie. “How Gödel’s Proof Works.” Quanta Magazine, July 14, 2020. https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/ and the classic, highly readable Hofstadter, Douglas R. *Gödel, Escher, Bach: An Eternal Golden Braid*. 20th anniversary ed. New York: Basic Books, 1999.
+
+[^fn28]: Weitz, Morris. “The Role of Theory in Aesthetics.” *The Journal of Aesthetics and Art Criticism* 15, no. 1 (September 1, 1956): 27--35. https://doi.org/10.1111/1540\_6245.jaac15.1.0027.
+
+[^fn29]: Warburton, Nigel. *The Art Question*. London; New York: Routledge, 2003.
+
+[^fn30]: Carse, James P. *Finite and Infinite Games*. New York: The Free Press, 2013.
+
+[^fn31]: Solnit, Rebecca. *A Field Guide to Getting Lost*. New York: Penguin Books, 2014.
+
+[^fn32]: The case study in Tenet 7 provides a real-world example where one can watch this happening.
+
+[^fn33]: Odell, Jenny. *How to Do Nothing: Resisting the Attention Economy*, 76. Brooklyn, NY: Melville House, 2019.
+
+[^fn34]: What Maciej Cegłowski. Calls “...wooly business books one comes across at airports ("Management secrets of Gengis Khan", the "Lexus and the Olive Tree") that milk a bad analogy for two hundred pages to arrive at the conclusion that people just like the author are pretty great.” from Cegłowski, Maciej. “Dabblers And Blowhards (Idle Words).” Idle Words. Accessed May 8, 2021. https://idlewords.com/2005/04/dabblers\_and\_blowhards.htm.
+
+[^fn35]: Schwartz, Tony. “I Wrote The Art of the Deal with Trump. He’s Still a Scared Child \| Tony Schwartz \| The Guardian.” Accessed May 8, 2021. https://www.theguardian.com/global/commentisfree/2018/jan/18/fear-donald-trump-us-president-art-of-the-deal.
+
+[^fn36]: Frankfurt, Harry G. *On Bullshit*, 54. Princeton, New Jersey: Princeton University Press, 2005. https://doi.org/10.1515/9781400826537.
+
+[^fn37]: Chomsky, Noam, David Barsamian, and Arthur Naiman. *The Common Good*. 5. print. The Real Story Series. Tucson, Ariz: Odonian Press, 2003.
+
+[^fn38]: Freeman, Jo. “The Tyranny of Stuctureless.” Accessed May 14, 2021. https://www.jofreeman.com/joreen/tyranny.htm.
+
+[^fn39]: Weizman, Eyal. “The Art of War: Deleuze, Guattari, Debord and the Israeli Defence Force.” Text. Mute. Mute Publishing Limited, March 8, 2006. https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force.
+
+[^fn40]: Deleuze, Gilles, and Félix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*. Minneapolis: University of Minnesota Press, 1987.
+
+[^fn41]: Lorde, Audre. 2007. *Sister outsider: essays and speeches*, 36. Berkeley, Calif: Crossing Press.
+
+
+[^fn01]: See Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
+
+[^fn02]: hooks, bell. “Theory as Liberatory Practice.” Yale Journal of Law & Feminism 4, no. 1 (Accessed May 8, 2021). https://digitalcommons.law.yale.edu/yjlf/vol4/iss1/2.
+
+[^fn42]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
+
+
+[^fn43]: We see this when linguistic code-switching divides along racial lines; some groups can speak “normally” without a second thought, while others must modulate their usual way of speaking to suit a social context that won’t accommodate them without judgement or cost. They must do conceptual labor to model an accepted, unseen narrative so they may understand and adapt to its terms. An early definition of the term appears in Gumperz, John J. “Conversational Code Switching.” In *Discourse Strategies*, 59--99. Studies in Interactional Sociolinguistics 1. Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1982.
+
+[^fn44]: See also Žižek, Slavoj. “The Prospects of Radical Politics Today.” *Žižek.Uk* (blog), January 1, 2008. https://zizek.uk/the-prospects-of-radical-politics-today/.
+
+[^fn45]: Or, more darkly, “once we get rid of all this type of person, our country will be strong.”
+
+# Part 3
+
+[^fn46]: We can find an example of this in the programming term “Rubber duck debugging.” This is a method in which programmers describe their code, step by step, to a rubber duck (or other inanimate object) on their desk. Since the duck can’t respond, they are forced to describe and consider, from square one, every assumption and conclusion of their code. Originally coined in Hunt, Andrew, and David Thomas. *The Pragmatic Programmer from Journeyman to Master*. Reading, Mass.: Addison-Wesley, 2000.
+
+[^fn47]: See also Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
+
+[^fn48]: Le Guin, Ursula K, and Donna Jeanne Haraway. *Carrier Bag Theory of Fiction*, 2020.
+
+[^fn49]: Surveyed in the previous section, *We Are Always Writing Theories of Conceptual Labor.*
+
+[^fn50]: This is a hypothetical demonstration of Tenet 4.
+
+[^fn51]: Another example of Helping / Not Helpful.
+
+[^fn52]: Victor, Bret. “Bret Victor, Beast of Burden.” Accessed May 8, 2021. http://worrydream.com/\#!/InventingOnPrinciple.
+
+
+[^fn53]: Here is an example of a professional application of CLA. User experience designers could model computer users’ labor that, superficially, appear to be an end-user interacting with a finished product. The more the model resembles models of software development, where a user must “play computer” to achieve a straightforward goal, the less the helpful the interface is. This position is encapsulated in the design term The Principle of Least Astonishment. “Principle of Least Astonishment.” In *Wikipedia*, March 13, 2021. https://en.wikipedia.org/w/index.php?title=Principle\_of\_least\_astonishment&oldid=1011856538.
+
+[^fn54]: Cole, David. “The Chinese Room Argument.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/win2020/entries/chinese-room/.
+
+[^fn55]: And, in fact, the COVID-19 pandemic has forced educators, parents, and students to re-consider the essential components of their model of education, and whether it can be achieved remotely, though a narrow interface.
+
+[^fn56]: Victor’s project, Dynamicland, is a space in Oakland, California where visitors can program computers with pen and paper within a system of cameras and projectors that run their programs in real time.
+
+[^fn57]: Chachra, Debbie. 2015. “Why I Am Not a Maker.” The Atlantic. January 23, 2015. https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/.
+
 # part 4
 
 [^fn58]: Johnson-Laird, Philip N. “The History of Mental Models.” In *Psychology of Reasoning: Theoretical and Historical Perspectives*, edited by K. I. Manktelow and Man Cheung Chung, 1st ed., 179--211. Hove; New York: Psychology Press, 2004. http://modeltheory.org/papers/2005HistoryMentalModels.pdf.
@@ -104,7 +231,7 @@
 
 [^fn109]: Brown, John Seely, and Paul Duguid. “Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation.” *Organization Science* 2, no. 1 (1991): 40--57.
 
-[^fn110]: Discussed in detail in *Expertise Grows out of Conceptual Labor*.
+[^fn110]: Discussed in detail in *Expertise Grows out of Conceptual Labor*
 
 [^fn111]: Bernheimer, L. *The Shaping of Us: How Everyday Spaces Structure Our Lives, Behavior, and Well-Being*, 32. Trinity University Press, 2020.
 
@@ -114,7 +241,7 @@
 
 [^fn114]: The Interaction Design Foundation. “What Are Affordances?” Accessed May 8, 2021. https://www.interaction-design.org/literature/topics/affordances.
 
-[^fn115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\_source=google&utm\_medium=organic&utm\_campaign=organic.
+[^fn115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/.
 
 [^fn116]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf.
 

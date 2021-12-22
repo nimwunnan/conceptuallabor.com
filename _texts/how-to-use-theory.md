@@ -20,7 +20,12 @@ The terms and Tenets of the Theory can help us identify and describe our concept
 
 First, completely understand the situation. Then do the right thing. Next, completely understand the new situation. Do the new right thing. Repeat until done. 
 
-The catch is that if you do completely understand the situation, and you can do the right thing, then you *don't* need to do conceptual labor. You have discovered a conventional narrative that will work for you.
+The catch is that if you do completely understand the situation, and you can do the right thing, then you *don't* need to do conceptual labor. narrative that will work for you.
+You have discovered a conventional narrative that will work for you.
+
+
+You have discovered a conventional narrative that will work for you.
+
 
 Conceptual labor is what we do in the absence of such reliable instructions. It's what we do to understand the significant circumstances of difficult problems *as they change* so that we might do the “right thing” at any given moment.
 
@@ -33,10 +38,10 @@ We have to ask questions like children do -- responding to a good answer with an
 The Theory provides a framework in which to ask these questions. The Tenets propose the following approach:
 
 1. We can represent our experience of doing a job (our labor) with components that we can place into three basic categories: work, actors, and context.
-2. We encounter our labor through our own, individual ideas about it
-3. We cannot “just do our work” if components in all three categories are connected and changing
+2. We encounter our labor through our own, individual ideas about it.
+3. We cannot “just do our work” if components in all three categories are connected and changing.
 4. Our work will proceed towards the goal of having a solid description of the job so we *can* “just do our work”.
-5. But as long as \#3 is the case, we have to continue defining and redefining the terms of our job
+5. But as long as \#3 is the case, we have to continue defining and redefining the terms of our job.
 6. While that is the case, we will have to also do the work of understanding and justifying new terms, approaches, and work.
 7. We can learn what to do in unknown situations by working on specific problems that teach us ways of working
 
@@ -79,7 +84,7 @@ So, in analyzing our labor, we may not always be able to anticipate the right qu
 
 ## Conceptual Labor Analysis in a Nutshell
 
-All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by Creating a Model of Labor. 
+All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by creating a model of labor. 
 
 #### Conventional vs Conceptual Labor: context is everything
 
@@ -208,7 +213,7 @@ At the outset, this is quite simple. The project is to find the hidden picnic sp
 
 We can create a conventional narrative from the project description by saying the Actor does the work in the context
 
-> `Actor`  `work` \[proposition\] `context`
+> `Actor`  `work` \[preposition\] `context`
 
 > `You`  `follow the directions` through `the woods`
 
@@ -451,7 +456,7 @@ This model is rather general, and allows for many possibilities --- you forgot a
 
 #### How to Read This Model
 
-Written out, models must be read in a certain order, but the way we think of them is too complex to fit a certain sequence. So, when creating or reading a written model in Conceptual Labor Analysis, first concern yourself with understanding each fundamental component before turning to their relationships. A component description should be brief and capture the defining qualities of the component at the scale defined by the project titles. Components should be labeled as what type they are --- Actors, Work, or Context, and numbered accordingly when there are multiples of a type. The same applies to the project name and model name. Models should be numbered, as we will almost always be considering multiple models at once, and the project definition should be comprehensive but succinct, describing work at a single scale of specificity.
+Written out, models must be read in a certain order, but the way we think of them is too complex to fit a certain sequence. So, when creating or reading a written model in Conceptual Labor Analysis, first concern yourself with understanding each fundamental component before turning to their relationships. A component description should be brief and capture the defining qualities of the component at the scale defined by the project titles. Components should be labeled as what type they are --- actors, work, or context, and numbered accordingly when there are multiples of a type. The same applies to the project name and model name. Models should be numbered, as we will almost always be considering multiple models at once, and the project definition should be comprehensive but succinct, describing work at a single scale of specificity.
 
 We label the model and project like so:
 
@@ -820,7 +825,7 @@ There is another complex component that is only represented in shorthand in Mode
 “Lakes don't just dry up, do they?” is nearly as absurd a question as “Is my friend a spy?” but it implies a different state of M1 --- one in which C2 lacks a satisfactory definition.
 
 
-#### Model 1.1
+#### Model 1.2
 
 *Project:* Hike to the secret lake with unreliable directions 
 
@@ -893,7 +898,7 @@ In our example, we arrived at that possibility by accident, as the contents of o
 
 However we arrived at our solution, it came from understanding the woods as more than the static context in our first model. If we go through even a cursory process of modeling it, we can see many ways in which we can consider it an actor, capable of complex work within our main model. Wind, rain, other hikers, plants and animals all have functional and definitional relationships to things that concern you and your labor, even if they are completely indifferent to your existence. 
 
-We must remember that our original model was reasonable. We were quite justified in thinking that the major features of a map made by an experienced hiker of a public park would be where we expected them to be. In fact, our solution does not contradict this. They were were we expected them to be, we just saw things that weren’t on the map that a reasonable person could mistake for the map’s landmarks. We must do conceptual labor, whether we engage in CLA or other strategies when good ideas and reasonable assumptions lead to bad results.
+We must remember that our original model was reasonable. We were quite justified in thinking that the major features of a map made by an experienced hiker of a public park would be where we expected them to be. In fact, our solution does not contradict this. They were we expected them to be, we just saw things that weren’t on the map that a reasonable person could mistake for the map’s landmarks. We must do conceptual labor, whether we engage in CLA or other strategies, when good ideas and reasonable assumptions lead to bad results.
 
 As is often the case, we arrived at a new, more accurate model in our example not by sitting down and writing it out, but by observing something that significantly expanded our original one. The work to write out a Model 1.3 that can fully describe the conceptual labor that solved our problem is an exercise left up to the reader. Perhaps it is a model that includes the work to read the map critically, or one that includes a more thorough model of the park and how it behaves. However we choose to model our labor, once we arrive at a sufficiently descriptive model, we throw it out.
 
@@ -1115,9 +1120,9 @@ Educator Debbie Chachra did similar conceptual labor in her 2015 essay, *Why I A
 
 She does not object to “making” itself or the pride that many people take in it, rather she criticizes how the the special status of Maker is given to coders and not other professions that produce intangible products.
 
-Code is "making" because we've figured out how to package it up into discrete units and sell it, and because it is widely perceived to be done by men.
+> Code is "making" because we've figured out how to package it up into discrete units and sell it, and because it is widely perceived to be done by men.
 
-But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
+> But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
 
 Chachra’s reference to the Chinese room argument [^fn9] evokes a high-level model which can plausibly apply to both coding and education, much in the same way that we proposed our first model to relate to Victor’s example. Searle’s argument imagines a Turing test administered by a Chinese speaker slipping notes under a door to an unseen party on the other side. As long as the mystery actor inside the room replied in fluent Mandarin, we would think they “knew” the language even if they were just following the instructions of a computer that could perfectly parse conversational Mandarin. Philosophical implications aside, Chachra’s use of this metaphor closely follows the process behind Conceptual Labor Analysis here by reconfiguring a model of labor in an effort to more deeply understand some of its components. In this case, she creates a shared context so that we may contrast the work and the actors.
 

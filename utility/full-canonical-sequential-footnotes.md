@@ -121,7 +121,7 @@ Models, by nature, are abstractions. They may abstract detailed qualities of ext
 * Doing work and changing the narrative of how you work must happen simultaneously
 * Labor that modifies its own narrative is a conversation
 * In this conversation, we must represent our experience
-* The ideal state of this conversation is spontaneous, continuous agreement.
+* The ideal state of this conversation is spontaneous, continuous agreement
 * Labor that can change its own narrative is cyclical
 * Successful conceptual labor cannot be fully planned, only cultivated
 
@@ -188,7 +188,7 @@ The land an explorer moves through is incontrovertibly real, but with or without
 
 ## Doing the Wrong Work Well Still Doesn't Work
 
-A bad map will still get you lost no matter how carefully you follow it. A type of folktale to this point has circulated for hundreds of years, one of the earliest examples being a classic misadventure of Mulla Nasreddin 
+A bad map will still get you lost no matter how carefully you follow it. A type of folktale to this point has circulated for hundreds of years, one of the earliest examples being a classic misadventure of Mulla Nasreddin: 
 
 > Mulla had lost his ring in the living room. He searched for it for a while, but since he could not find it, he went out into the yard and began to look there. His wife, who saw what he was doing, asked: “Mulla, you lost your ring in the room, why are you looking for it in the yard?”
 
@@ -288,6 +288,7 @@ Our napping scientist reminds us that just because something doesn’t look like
 When we equate work with economic value we forget that it is also part of our *behavior ---* our labor. If we are to describe the entire picture of our labor, full of learning, experiencing, and feeling, we must make a radical departure from the conventional narrative surrounding work. 
 
 \pagebreak
+
 ## We Are Always Writing Theories of Conceptual Labor
 
 Over and over, experts beseech us to reimagine their labor in this way. From psychology to education to martial arts to mathematics, initiates of countless fields frequently advocate for alternative theories of labor from their perspective at the edge of Professor Might’s circle of knowledge. Though they address their profession’s concerns in the specific language of their field, most direct the reader towards deeper lessons that reflect both their training and their values.
@@ -467,7 +468,7 @@ In her essay *Poetry is Not A Luxury*, Audre Lorde says:
 
 > The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.
 
-The poetry that is indispensable to Lorde is not “sterile wordplay,” but a process --- “the revelatory distillation of experience[^fn41].” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
+The poetry that is indispensable to Lorde is not “sterile wordplay,[^fn41]” but a process --- “the revelatory distillation of experience.” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
 
 To learn The Art of \_\_\_, it seems that we always must cross a gap, the one that divides a concrete practice of writing poems from the abstract pattern of revelation that such a practice has the potential to teach us. bell hooks’s *Theory as Liberatory Practice* gives us a bridge of sorts, between the abstract practice of theory and concretely personal and political concerns. 
 
@@ -514,7 +515,12 @@ The terms and Tenets of the Theory can help us identify and describe our concept
 
 First, completely understand the situation. Then do the right thing. Next, completely understand the new situation. Do the new right thing. Repeat until done. 
 
-The catch is that if you do completely understand the situation, and you can do the right thing, then you *don't* need to do conceptual labor. You have discovered a conventional narrative that will work for you.
+The catch is that if you do completely understand the situation, and you can do the right thing, then you *don't* need to do conceptual labor. narrative that will work for you.
+You have discovered a conventional narrative that will work for you.
+
+
+You have discovered a conventional narrative that will work for you.
+
 
 Conceptual labor is what we do in the absence of such reliable instructions. It's what we do to understand the significant circumstances of difficult problems *as they change* so that we might do the “right thing” at any given moment.
 
@@ -527,10 +533,10 @@ We have to ask questions like children do -- responding to a good answer with an
 The Theory provides a framework in which to ask these questions. The Tenets propose the following approach:
 
 1. We can represent our experience of doing a job (our labor) with components that we can place into three basic categories: work, actors, and context.
-2. We encounter our labor through our own, individual ideas about it
-3. We cannot “just do our work” if components in all three categories are connected and changing
+2. We encounter our labor through our own, individual ideas about it.
+3. We cannot “just do our work” if components in all three categories are connected and changing.
 4. Our work will proceed towards the goal of having a solid description of the job so we *can* “just do our work”.
-5. But as long as \#3 is the case, we have to continue defining and redefining the terms of our job
+5. But as long as \#3 is the case, we have to continue defining and redefining the terms of our job.
 6. While that is the case, we will have to also do the work of understanding and justifying new terms, approaches, and work.
 7. We can learn what to do in unknown situations by working on specific problems that teach us ways of working
 
@@ -565,7 +571,7 @@ So, in analyzing our labor, we may not always be able to anticipate the right qu
 \pagebreak
 ## Conceptual Labor Analysis in a Nutshell
 
-All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by Creating a Model of Labor. 
+All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by creating a model of labor. 
 
 #### Conventional vs Conceptual Labor: context is everything
 
@@ -920,7 +926,7 @@ This model is rather general, and allows for many possibilities --- you forgot a
 
 #### How to Read This Model
 
-Written out, models must be read in a certain order, but the way we think of them is too complex to fit a certain sequence. So, when creating or reading a written model in Conceptual Labor Analysis, first concern yourself with understanding each fundamental component before turning to their relationships. A component description should be brief and capture the defining qualities of the component at the scale defined by the project titles. Components should be labeled as what type they are --- Actors, Work, or Context, and numbered accordingly when there are multiples of a type. The same applies to the project name and model name. Models should be numbered, as we will almost always be considering multiple models at once, and the project definition should be comprehensive but succinct, describing work at a single scale of specificity.
+Written out, models must be read in a certain order, but the way we think of them is too complex to fit a certain sequence. So, when creating or reading a written model in Conceptual Labor Analysis, first concern yourself with understanding each fundamental component before turning to their relationships. A component description should be brief and capture the defining qualities of the component at the scale defined by the project titles. Components should be labeled as what type they are --- actors, work, or context, and numbered accordingly when there are multiples of a type. The same applies to the project name and model name. Models should be numbered, as we will almost always be considering multiple models at once, and the project definition should be comprehensive but succinct, describing work at a single scale of specificity.
 
 We label the model and project like so:
 
@@ -1334,7 +1340,7 @@ There is another complex component that is only represented in shorthand in Mode
 “Lakes don't just dry up, do they?” is nearly as absurd a question as “Is my friend a spy?” but it implies a different state of M1 --- one in which C2 lacks a satisfactory definition.
 
 
-#### Model 1.1
+#### Model 1.2
 
 <table style="width:83%;">
 <colgroup>
@@ -1407,7 +1413,7 @@ In our example, we arrived at that possibility by accident, as the contents of o
 
 However we arrived at our solution, it came from understanding the woods as more than the static context in our first model. If we go through even a cursory process of modeling it, we can see many ways in which we can consider it an actor, capable of complex work within our main model. Wind, rain, other hikers, plants and animals all have functional and definitional relationships to things that concern you and your labor, even if they are completely indifferent to your existence. 
 
-We must remember that our original model was reasonable. We were quite justified in thinking that the major features of a map made by an experienced hiker of a public park would be where we expected them to be. In fact, our solution does not contradict this. They were were we expected them to be, we just saw things that weren’t on the map that a reasonable person could mistake for the map’s landmarks. We must do conceptual labor, whether we engage in CLA or other strategies when good ideas and reasonable assumptions lead to bad results.
+We must remember that our original model was reasonable. We were quite justified in thinking that the major features of a map made by an experienced hiker of a public park would be where we expected them to be. In fact, our solution does not contradict this. They were we expected them to be, we just saw things that weren’t on the map that a reasonable person could mistake for the map’s landmarks. We must do conceptual labor, whether we engage in CLA or other strategies, when good ideas and reasonable assumptions lead to bad results.
 
 As is often the case, we arrived at a new, more accurate model in our example not by sitting down and writing it out, but by observing something that significantly expanded our original one. The work to write out a Model 1.3 that can fully describe the conceptual labor that solved our problem is an exercise left up to the reader. Perhaps it is a model that includes the work to read the map critically, or one that includes a more thorough model of the park and how it behaves. However we choose to model our labor, once we arrive at a sufficiently descriptive model, we throw it out.
 
@@ -1618,16 +1624,15 @@ In Conceptual Labor Analysis terms, Victor has critically assessed the monolithi
 Instead, human actors could employ to a much more familiar model --- visual interaction. Victor’s tool makes something go up or down when we move a slider or push it across the screen with our fingers. For sighted persons, understanding that kind of work is such a fundamental kind of labor, hardwired into our brains, that we don’t need to model it at all.
 
  
-
 Victor’s analysis of the conceptual labor of “programming” has *expanded* its definition, made it much easier to *navigate*, given humans a tool to _articulate their_ ideas more clearly, and *discerns* a new qualities of what makes a good programmer. Much of his work since then has made material progress towards a new model of the labor of programming that does not include “playing computer.” 
 
 Educator Debbie Chachra did similar conceptual labor in her 2015 essay, *Why I Am Not A Maker*. In critiquing how tech culture valorizes “makers,” Chachra questioned how much of the popular conception of the labor of programming is defined by the framework of social values in which it is done. 
 
 She does not object to “making” itself or the pride that many people take in it, rather she criticizes how the the special status of Maker is given to coders and not other professions that produce intangible products.
 
-Code is "making" because we've figured out how to package it up into discrete units and sell it, and because it is widely perceived to be done by men.
+> Code is "making" because we've figured out how to package it up into discrete units and sell it, and because it is widely perceived to be done by men.
 
-But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
+> But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
 
 Chachra’s reference to the Chinese room argument [^fn54] evokes a high-level model which can plausibly apply to both coding and education, much in the same way that we proposed our first model to relate to Victor’s example. Searle’s argument imagines a Turing test administered by a Chinese speaker slipping notes under a door to an unseen party on the other side. As long as the mystery actor inside the room replied in fluent Mandarin, we would think they “knew” the language even if they were just following the instructions of a computer that could perfectly parse conversational Mandarin. Philosophical implications aside, Chachra’s use of this metaphor closely follows the process behind Conceptual Labor Analysis here by reconfiguring a model of labor in an effort to more deeply understand some of its components. In this case, she creates a shared context so that we may contrast the work and the actors.
 
@@ -1719,7 +1724,7 @@ More recently, a pop-psychology interpretation of mental models has gained tract
 
 Continuing the metaphor, we could say that models in the Theory sit somewhere between the lower level Model Theory and higher-level models of HCI. Model Theory aims to empirically describe qualities of how the human mind operates and interacts with the world, so the rules for its models are borne of research and data. HCI certainly employs rigorous observation in its work with models, but the end use of such data is much more specific --- to “provide predictive and explanatory power for understanding the interaction[^fn66]” between a person and technology. Similarly, the Theory is organized around practical description and useful prediction rather than discovering and describing true principles of human psychology and neurology; however, it aims to provide a framework that operates at a low-enough level that it can describe the interaction between a person and a task of any kind or size that they have set themselves to.
 
-Both paradigms describe models in many ways that support the assertions of the Theory. That models are personalized and must be represented carefully to be understood. That using and updating models is a cyclical process. That models provide more deductive conclusions than can be easily considered all at once by the author of the model. That we can use our prior experience formulate novel explanations from incomplete information[^fn67].
+Both paradigms describe models in many ways that support the assertions of the Theory. That models are personalized and must be represented carefully to be understood. That using and updating models is a cyclical process. That models provide more deductive conclusions than can be easily considered all at once by the author of the model. That we can use our prior experience to formulate novel explanations from incomplete information[^fn67].
 
 The Theory’s major departure from either discipline is in constructing models with the three types of fundamental components. This is a practical rather than empirical matter --- the Theory doesn’t intend to prove that, from a neurological standpoint, there are only these three components of all mental models. Rather, it intends to present a coherent and useful conceptual framework that proceeds from interpreting of our experience of labor according to these three categories. The purpose of the Theory is to assist in comprehending and using one’s own mental models to solve problems, accomplish projects, and self-educate. So conceptual labor should be compatible with Model Theory, the work of HCI, and most other fields that attend to mental models. It is not meant as a referendum on the conclusions of any field’s research, but as a complementary model-of-models to be used in the furtherance of labor of all kinds.
 
@@ -1775,7 +1780,7 @@ Context is potentially the most complex of the fundamental components, since our
 
 ---------------------------------
 
-The fundamental components are simply categories, and very basic ones at that. We can use the terms actor, work, and context to distinguish between fundamentally different areas of our labor, but we use much more concrete terms and finer distinctions to actually accomplish work.
+The fundamental components are simply categories, and very basic ones at that. We can use the terms `actor`, `work`, and `context` to distinguish between fundamentally different areas of our labor, but we use much more concrete terms and finer distinctions to actually accomplish work.
 
 Deconstructing our labor into the terms of the Theory is like diagramming a sentence into the parts of speech. It is a structure that only has meaning when we fill it with our thoughts and ideas.
 
@@ -1797,7 +1802,7 @@ The designers of our maze aren’t *doing* anything while we walk it, but if we 
 
 It’s no great revelation that what we know and understand can affect our labor, but countless states of mind can affect the composition of our models by the same mechanisms. Why we believe something can be more influential than what we believe. Our preferences can become patterns of working, our professional training can shape our very ability to perceive work, and anyone who’s had a sleepless Monday morning should be intimately familiar with the ways in which biology can transform labor. 
 
-#### An individual’s internal model of work is their most “real” version of work.
+#### An individual’s internal model of work is their most “real” version of work
 
 Statements such as “I’m doing this” or “I should do that next,” and their implied conceptual structures construct the mental reality of labor. External qualities of the work are contextualized within this mental reality. This includes evidence of the effects of one’s labor, belief in the the necessity of it, and systematic theories of how one does that labor.
 
@@ -1834,7 +1839,7 @@ This Concept is explored in depth in the section *Expertise Grows out of Concept
 
 The complexity of working models and our tendency to focus on the parts that matter most to us means that we can’t assume that we completely understand how they operate before we use them. 
 
-Our models are often constructed out of complex concepts that we have absorbed at over our lifetime, especially if we are working in an area which we have studied or trained in extensively. It is easy to assemble a mental model that leads us to surprising conclusions simply because it is hard to consider every possible outcome of a usefully-complex model[^fn73]. When we think of using a camera in a project, we may think of taking pictures before we think of charging its battery or cleaning its lenses. In the same way that we use computer programs or power tools to do work without knowing exactly how they operate, we don’t necessarily know everything about each concept we use to assemble a model, and often focus only on the features that are of use to us. Creating a mental model of work is a matter of imagination and perception as much at is a matter of skill or knowledge, and it is subject to all the hazards and critiques that we can apply to perceiving or imagining anything. 
+Our models are often constructed out of complex concepts that we have absorbed at over our lifetime, especially if we are working in an area which we have studied or trained in extensively. It is easy to assemble a mental model that leads us to surprising conclusions simply because it is hard to consider every possible outcome of a usefully-complex model[^fn73]. When we think of using a camera in a project, we may think of taking pictures before we think of charging its battery or cleaning its lenses. In the same way that we use computer programs or power tools to do work without knowing exactly how they operate, we don’t necessarily know everything about each concept we use to assemble a model, and often focus only on the features that are of use to us. Creating a mental model of work is a matter of imagination and perception as much as it is a matter of skill or knowledge, and it is subject to all the hazards and critiques that we can apply to perceiving or imagining anything. 
 
 
 ### Case Study: Good Intentions and Propaganda
@@ -1938,7 +1943,7 @@ Conceptual labor does not commit to a position. Conceptual labor is a continuous
 
 * Models embody beliefs
 * We follow the conventional narrative if we believe that our model has as least one static component
-* The Conventional Narrative is the default narrative of work.
+* The conventional narrative is the default narrative of work.
 * We have to do conceptual labor because the conventional narrative fails us all the time.
 * We resist conceptual labor for many reasons
 * It is difficult to redefine work at the rate at which it changes
@@ -1968,7 +1973,7 @@ Listening for your own laughter is a good way to find evidence of this tenet. Da
 
 In each of these situations, think of when and why they might cause you to laugh at something other than a joke. Whether it come from frustration or delight, there is a type of laughter that marks the point when the idea we showed up with breaks to pieces as it collides with reality. Sometimes we watch an absurd but undeniable truth steamroll our perfectly reasonable expectations, and other times we realize that it’s our notions that are ridiculous. Or we simply discover that we had no idea what we were expecting.
 
-This follows from our previous Concept that reminds us that we often are able to conceive of and interact with models that are too complex for us to completely understand all at once. However aware we are of our models, they express assumptions about the state of the outside world, our presence in it, and the conceptual landscape we project upon it. Models are the practical manifestation of the worldview that shapes their assumptions. If we are not completely convinced of this worldview, we must do conceptual labor --- we must sculpt our models, examine the beliefs that they embody, and test them against our observations and other potential models.
+This follows from our previous Concept that reminds us that we are often able to conceive of and interact with models that are too complex for us to completely understand all at once. However aware we are of our models, they express assumptions about the state of the outside world, our presence in it, and the conceptual landscape we project upon it. Models are the practical manifestation of the worldview that shapes their assumptions. If we are not completely convinced of this worldview, we must do conceptual labor --- we must sculpt our models, examine the beliefs that they embody, and test them against our observations and other potential models.
 
 #### We follow the conventional narrative if we believe that our model has as least one static component
 
@@ -1982,7 +1987,7 @@ This is a powerful and effective pattern of working. We must remember that conve
 
 While some work continuously rejects conventional narratives, there is nothing inherently wrong with following a conventional narrative that one has arrived at for good reasons. As long as your model holds true, believing that you know what to do is as good as knowing that you do --- until something from outside your frame of reference intrudes to prove you wrong. 
 
-#### The Conventional Narrative is the default theory of work 
+#### The conventional narrative is the default theory of work 
 
 Whether or not our beliefs are well founded, following them without question will produce a conventional narrative. This is the narrative in which our beliefs are correct, incomplete conditions should be completed, and tools are to be used rather than modified. It is, ultimately, the narrative we follow to do what we think should be done.
 
@@ -1996,7 +2001,7 @@ If we think this way as workers, then the first kind of work seems like the Real
 
 The second kind of work is then determined not by the requirements of the job but by the qualities of the worker attempting to complete the job and by the conditions under which they work; how much there is to be found out depends on how much the worker does or doesn’t know. How much information needs to be revealed relies on what obstacles lie in their particular way. None of this, of course, is Real Work --- it is investigation or preparation. A perfect worker in perfect conditions would greet a job with total knowledge of what the job requires to be completed, and then do those things without hesitation.[^fn78]
 
-This is the conventional, linear narrative of work, and it is the default --- if not preferred --- theory of work in most cases. In this theory, jobs are a context in which some conditions have not been met, and work is the process of changing things within that context to meet those conditions. There may be many different paths from start to finish, but this narrative says that these paths are straight by nature, and that they end (with a “thock, ” as Ursula K. LeGuin put it[^fn79]). If these paths appear circuitous, we blame our efforts to understand them or our working conditions for not being ideal. We feel that we've discovered one of these ideal paths when we say “That’s all I had to do?" after expending great effort on something that just wasn't working.
+This is the conventional, linear narrative of work, and it is the default --- if not preferred --- theory of work in most cases. In this theory, projects are a context in which some conditions have not been met, and work is the process of changing things within that context to meet those conditions. There may be many different paths from start to finish, but this narrative says that these paths are straight by nature, and that they end (with a “thock, ” as Ursula K. LeGuin put it[^fn79]). If these paths appear circuitous, we blame our efforts to understand them or our working conditions for not being ideal. We feel that we've discovered one of these ideal paths when we say “That’s all I had to do?" after expending great effort on something that just wasn't working.
 
 The idea of Real Work is incompatible with Tenets 1 and 2 of The Theory. The time and effort individuals spend managing mental models would not count as Real Work, nor would the life experience that slowly constructed those models in the first place. Real Work, it seems, is obvious with common sense, so just do it.
 
@@ -2089,14 +2094,14 @@ We can see the roots of this opposition in a deeper disconnect expressed by Tene
 
 #### Models embody beliefs
 
-The meme What People Think I Do / What I Really Do[^fn86] demonstrates this Concept on a broad scale. Popular enough to merit its own generator[^fn87], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you did the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
+The meme What People Think I Do / What I Really Do[^fn86] demonstrates this Concept on a broad scale. Popular enough to merit its own generator[^fn87], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you do the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
 
 ![Meme image by artist Garnet Hertz that popularized the format.](images/Hertz-original-600.jpeg)
 
 
 When we sit down to work, we do so through a model of our labor in our head, and with it comes a variety of beliefs and assumptions. We work according to that model, subject to the implications of the picture it paints, whether we understand those implications or not. Anyone who has watched a robotic vacuum bash itself repeatedly into a corner has seen a real-world example of this.
 
-An actor that has reached the limit of its ability to do conceptual labor. However much its training, foreknowledge, or programming allows it to learn, the unseen wall represents the boundary of its ability to modify its own instructions. Attempting to do the work that fits its limited model of the world despite the ways in which reality has contradicted it, it performs useless actions that appear pathetic to observers who can do flexible, continuous conceptual labor.
+The vacuum is an actor that has reached the limit of its ability to do conceptual labor. However much its training, foreknowledge, or programming allows it to learn, the unseen wall represents the boundary of its ability to modify its own instructions. Attempting to do the work that fits its limited model of the world despite the ways in which reality has contradicted it, it performs useless actions that appear pathetic to observers who can do flexible, continuous conceptual labor.
 
 
 #### We follow the conventional narrative if we believe that our model has as least one static component
@@ -2118,7 +2123,7 @@ This example gets more philosophical if we must imagine how you, the actor, coul
 
 A robot bashing into a wall does so within the conventional narrative, not from a consciously-held purpose. When our labor is unexamined, it will always end up following the conventional narrative, at any scale.
 
-#### The Conventional Narrative is the default narrative of work.
+#### The conventional narrative is the default narrative of work.
 
 
 A robot bumping into a wall *doesn’t know it’s wrong*. The most common reasons robotic home vacuums bash into furniture or walls are blocked sensors or lighting conditions that hide obstacles from the device. Our robot cannot avoid what it cannot see. It follows all of its rules perfectly within the worldview it is capable of assembling, and cannot critically observe its own behavior and beliefs “from the outside.” Since we can see the limits of a robot’s ability to do conceptual labor, we can see how the work it does beyond those limits defaults to a conventional narrative.
@@ -2322,7 +2327,7 @@ This is not an appeal for better research methods or to fix a lack of education.
 * Doing work and modifying the narrative of how you work must happen simultaneously
 * Work that modifies its own narrative is a conversation
 * In this conversation, we must represent our experience
-* The ideal state of this conversation is spontaneous, continuous agreement.
+* The ideal state of this conversation is spontaneous, continuous agreement
 * Successful conceptual labor cannot be fully planned, only cultivated
 
 
@@ -2372,7 +2377,7 @@ In conventional labor, this representation and the position it supports are irre
 In doing so, we must also recognize that representational strategies, the subjectivity of experience, and the vagaries of perception are crucial to understanding our conceptual labor.  
 
 
-#### The ideal state of this conversation is spontaneous, continuous agreement.
+#### The ideal state of this conversation is spontaneous, continuous agreement
 
 This Concept is a necessary addition to the previous one.  While we may represent certain positions and beliefs in the process of conceptual labor, we must recognize the plurality of valid positions and cultivate the flexibility to navigate to new ones. Positions are proposed and taken in conceptual labor, but when they are held fast, a conventional narrative emerges. 
 
@@ -2421,7 +2426,7 @@ We can understand what counts as “simultaneous” in conceptual labor by looki
 
 Monderman’s work forced an in-the-moment, vital conversation between drivers and their surroundings, but we can see significant results from a much slower conversation in the rise of the “desire path” in public spaces. Many large universities[^fn105] have engaged students in a longterm design conversation by way of the desire paths they create as they walk between classes. For whatever logical choices informed the design of the original paved walkways, students often find a preferred route, cutting corners and splitting fields. By monitoring the emergence of desire paths, and paving the popular ones, the university has made the design process a conversation. Instead of declaring the paths complete when they were first opened, the model for the project `Design useful` pedestrian paths” allowed for a slow-moving dialogue between the pedestrians and designers. 
 
-We can turn to software for a longer form of conversation. The industry experienced a sea change in work habits when it recognized the role of conversation in the broader narrative of how software is made. In 1994, A major report[^fn106] in 1994 found only a16% success rate for software projects versus a 31% cancellation rate. Conditions like these led to the famous Agile Manifesto in 2001, which defined itself in opposition to the “waterfall” method used by most of the subjects in the report. “Waterfall” refers to the way that preparation and specification would be done up to a point before spilling over that threshold like a waterfall when the writing of usable code was authorized to begin --- work could easily be called “real programming” in a conventional narrative[^fn107].
+We can turn to software for a longer form of conversation. The industry experienced a sea change in work habits when it recognized the role of conversation in the broader narrative of how software is made. In 1994, A major report[^fn106] in 1994 found only a 16% success rate for software projects versus a 31% cancellation rate. Conditions like these led to the famous Agile Manifesto in 2001, which defined itself in opposition to the “waterfall” method used by most of the subjects in the report. “Waterfall” refers to the way that preparation and specification would be done up to a point before spilling over that threshold like a waterfall when the writing of usable code was authorized to begin --- work could easily be called “real programming” in a conventional narrative[^fn107].
 
 While Agile philosophy has evolved and fractured since then, at its core it represented an effort to shift the tasks and concerns of the individual worker to the realm of “real work” and create a framework in which the definition of work could be updated and modified as it happened. At the very least, it codified ways in which an individual software developer could say “no, I can see that my instructions are wrong because of what I have learned since they were given to me,” a statement which is at odds with the structures of authority that reinforced the waterfall process.
 
@@ -2590,11 +2595,11 @@ By consciously practicing conceptual labor in our native mental terminology, acc
 
 #### Defining the term “Medium” 
 
-Tenets 1 and 2 lay the foundation of the Theory by describing how we work within our understanding and beliefs. They show how the world as represented in the abstract qualities of a model is the primary reality for the actors that subscribe to it. Our labor is framed by our context, which is why being wrong feels the same as being right until you realize your error. Tenets 3 and 4 address the implications of working within our beliefs, most importantly that the means by which we modify or otherwise interrogate our models is a distinct form of labor. Tenets 5 and 6 establish that this labor follows a continuous, self-reflective cycle. To fully describe the cycle of conceptual labor, we must finally recognize that what we understand is contained within the broader frame of what we *can* understand. In doing so, we introduce medium as a term[^fn124].
+Tenets 1 and 2 lay the foundation of the Theory by describing how we work within our understanding and beliefs. They show how the world as represented in the abstract qualities of a model is the primary reality for the actors that subscribe to it. Our labor is framed by our context, which is why being wrong feels the same as being right until you realize your error. Tenets 3 and 4 address the implications of working within our beliefs, most importantly that the means by which we modify or otherwise interrogate our models is a distinct form of labor. Tenets 5 and 6 establish that this labor follows a continuous, self-reflective cycle. To fully describe the cycle of conceptual labor, we must finally recognize that what we understand is contained within the broader frame of what we *can* understand. In doing so, we introduce “medium” as a term[^fn124].
 
 The idea of labor having a medium may seem obvious to us as creatures that exist in a physical world. If we picture a painter at their easel, we would be forgiven for assuming that their work to create a painting happens via the medium of paint. While it may be easy to separate our work from our materials like this in *conventional* labor, defining and understanding “what we are working with” is an ongoing concern of conceptual labor. Our material may be physical, or it may be purely conceptual, and it often shares the concerns of both worlds. So our painter’s work is not *just* done with paint. It is exceedingly difficult and rare (if not impossible) for a painter to be *only* concerned with paint to the *total* exclusion of ideas, perceptions, and experiences. 
 
-Within the Theory, the concept of a medium is useful not to separate physical material from actions taken with that material, but to distinguish external conditions of our work from our experience and use of them. We can use “medium” as a term to identify the objective material with which we do work. When we understand or pay attention to something, `medium` is what we will call the something. Context, then, is the portion of that something that we understand or attend to. So, we can define “medium” as a term within the Theory as “the material with which we do conceptual labor.” We need not make any distinction whether that material is physical or purely conceptual. 
+Within the Theory, the concept of a medium is useful not to separate physical material from actions taken with that material, but to distinguish external conditions of our work from our experience and use of them. We can use “medium” as a term to identify the objective material with which we do work. When we understand or pay attention to something, `medium` is what we will call the something. Context, then, is the portion of that something that we understand or attend to. So, we can define `medium` as a term within the Theory as “the material with which we do conceptual labor.” We need not make any distinction whether that material is physical or purely conceptual. 
 
 Our painter knows this when they sit down to work. The conventional labor of painting is to put the paint where it should go. However, for most painters, that description of their labor is no more accurate than the apocryphal instructions for making a sculpture in *We Are Always Writing Theories of Conceptual Labor*. These instructions conflate the medium of *a painting* with the medium of *the labor of painting*. If the painter has sprained their wrist, the conditions of their wrist are as material to their labor as the paint is. (We find support for this in the Concept *Who We Are is Part of How We Work* from Tenets 1 and 2.)
 
@@ -3066,7 +3071,7 @@ This is the fundamental process of labor that can be described by these seven Te
 
 [^fn114]: The Interaction Design Foundation. “What Are Affordances?” Accessed May 8, 2021. https://www.interaction-design.org/literature/topics/affordances.
 
-[^fn115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\_source=google&utm\_medium=organic&utm\_campaign=organic.
+[^fn115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite. “People Are Sharing Their Cleaning Fails Online And It Might Brighten Up Your Mood \| Bored Panda.” Accessed May 14, 2021. https://www.boredpanda.com/funny-vacuum-cleaning-fails/.
 
 [^fn116]: “2020.09.15 FINAL 737 MAX Report for Public Release.Pdf.” Accessed May 8, 2021. https://transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf.
 

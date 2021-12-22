@@ -23,7 +23,7 @@ The land an explorer moves through is incontrovertibly real, but with or without
 
 ## Doing the Wrong Work Well Still Doesn't Work
 
-A bad map will still get you lost no matter how carefully you follow it. A type of folktale to this point has circulated for hundreds of years, one of the earliest examples being a classic misadventure of Mulla Nasreddin 
+A bad map will still get you lost no matter how carefully you follow it. A type of folktale to this point has circulated for hundreds of years, one of the earliest examples being a classic misadventure of Mulla Nasreddin: 
 
 > Mulla had lost his ring in the living room. He searched for it for a while, but since he could not find it, he went out into the yard and began to look there. His wife, who saw what he was doing, asked: “Mulla, you lost your ring in the room, why are you looking for it in the yard?”
 

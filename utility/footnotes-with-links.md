@@ -1478,7 +1478,12 @@ Repeat until done.
 
 The catch is that if you do completely understand the situation, and you
 can do the right thing, then you *don't* need to do conceptual labor.
+narrative that will work for you.
 You have discovered a conventional narrative that will work for you.
+
+
+You have discovered a conventional narrative that will work for you.
+
 
 Conceptual labor is what we do in the absence of such reliable
 instructions. It's what we do to understand the significant
@@ -1509,7 +1514,7 @@ Tenets propose the following approach:
 1.  We can represent our experience of doing a job (our labor) with
     components that we can place into three basic categories: work,
     actors, and context.
-2.  We encounter our labor through our own, individual ideas about it
+2.  We encounter our labor through our own, individual ideas about it.
 3.  We cannot "just do our work" if components in all three categories
     are connected and changing
 4.  Our work will proceed towards the goal of having a solid description
@@ -1633,7 +1638,7 @@ these changes is what defines our labor. Put simply, conventional labor
 is what we do when we don't have to think critically about these
 changes, and conceptual labor is what we do when we must. We need models
 when the conventional narrative fails us. Conceptual labor analysis
-begins by Creating a Model of Labor.
+begins by creating a model of labor.
 
 #### Conventional vs Conceptual Labor: context is everything
 
@@ -2154,7 +2159,7 @@ concern yourself with understanding each fundamental component before
 turning to their relationships. A component description should be brief
 and capture the defining qualities of the component at the scale defined
 by the project titles. Components should be labeled as what type they
-are --- Actors, Work, or Context, and numbered accordingly when there
+are --- actors, work, or context, and numbered accordingly when there
 are multiples of a type. The same applies to the project name and model
 name. Models should be numbered, as we will almost always be considering
 multiple models at once, and the project definition should be
@@ -2524,10 +2529,10 @@ even if they are completely indifferent to your existence.
 We must remember that our original model was reasonable. We were quite
 justified in thinking that the major features of a map made by an
 experienced hiker of a public park would be where we expected them to
-be. In fact, our solution does not contradict this. They were were we
+be. In fact, our solution does not contradict this. They were we
 expected them to be, we just saw things that weren't on the map that a
 reasonable person could mistake for the map's landmarks. We must do
-conceptual labor, whether we engage in CLA or other strategies when good
+conceptual labor, whether we engage in CLA or other strategies, when good
 ideas and reasonable assumptions lead to bad results.
 
 As is often the case, we arrived at a new, more accurate model in our
@@ -3019,7 +3024,7 @@ of the Theory. That models are personalized and must be represented
 carefully to be understood. That using and updating models is a cyclical
 process. That models provide more deductive conclusions than can be
 easily considered all at once by the author of the model. That we can
-use our prior experience formulate novel explanations from incomplete
+use our prior experience to formulate novel explanations from incomplete
 information[^67].
 
 The Theory's major departure from either discipline is in constructing
@@ -3147,7 +3152,7 @@ ourselves.
 ------------------------------------------------------------------------
 
 The fundamental components are simply categories, and very basic ones at
-that. We can use the terms actor, work, and context to distinguish
+that. We can use the terms `actor`, `work`, and `context` to distinguish
 between fundamentally different areas of our labor, but we use much more
 concrete terms and finer distinctions to actually accomplish work.
 
@@ -3311,7 +3316,7 @@ to do work without knowing exactly how they operate, we don't
 necessarily know everything about each concept we use to assemble a
 model, and often focus only on the features that are of use to us.
 Creating a mental model of work is a matter of imagination and
-perception as much at is a matter of skill or knowledge, and it is
+perception as much as it is a matter of skill or knowledge, and it is
 subject to all the hazards and critiques that we can apply to perceiving
 or imagining anything.
 
@@ -3534,7 +3539,7 @@ we saw them clearly.
 -   Models embody beliefs
 -   We follow the conventional narrative if we believe that our model
     has as least one static component
--   The Conventional Narrative is the default narrative of work.
+-   The conventional narrative is the default narrative of work.
 -   We have to do conceptual labor because the conventional narrative
     fails us all the time.
 -   We resist conceptual labor for many reasons
@@ -3653,7 +3658,7 @@ believing that you know what to do is as good as knowing that you do ---
 until something from outside your frame of reference intrudes to prove
 you wrong.
 
-#### The Conventional Narrative is the default theory of work
+#### The conventional narrative is the default theory of work
 
 Whether or not our beliefs are well founded, following them without
 question will produce a conventional narrative. This is the narrative in
@@ -3897,7 +3902,7 @@ The meme What People Think I Do / What I Really Do[^86] demonstrates
 this Concept on a broad scale. Popular enough to merit its own
 generator[^87], the format laid bare the beliefs embodied in the way
 that different perspectives modeled the labor of professionals. The joke
-lands whether or not you did the work in question; the panel "what I
+lands whether or not you do the work in question; the panel "what I
 think I do," is just one of many perspectives implicitly compared
 against "what I really do." However you see the professions in question,
 it touches on the shared experience of trying to model what you "really
@@ -3917,7 +3922,7 @@ paints, whether we understand those implications or not. Anyone who has
 watched a robotic vacuum bash itself repeatedly into a corner has seen a
 real-world example of this.
 
-An actor that has reached the limit of its ability to do conceptual
+The vacuum is an actor that has reached the limit of its ability to do conceptual
 labor. However much its training, foreknowledge, or programming allows
 it to learn, the unseen wall represents the boundary of its ability to
 modify its own instructions. Attempting to do the work that fits its
@@ -3967,7 +3972,7 @@ A robot bashing into a wall does so within the conventional narrative,
 not from a consciously-held purpose. When our labor is unexamined, it
 will always end up following the conventional narrative, at any scale.
 
-#### The Conventional Narrative is the default narrative of work.
+#### The conventional narrative is the default narrative of work.
 
 A robot bumping into a wall *doesn't know it's wrong*. The most common
 reasons robotic home vacuums bash into furniture or walls are blocked
@@ -4398,7 +4403,7 @@ In doing so, we must also recognize that representational strategies,
 the subjectivity of experience, and the vagaries of perception are
 crucial to understanding our conceptual labor.
 
-#### The ideal state of this conversation is spontaneous, continuous agreement.
+#### The ideal state of this conversation is spontaneous, continuous agreement
 
 This Concept is a necessary addition to the previous one. While we may
 represent certain positions and beliefs in the process of conceptual
@@ -4552,7 +4557,7 @@ between the pedestrians and designers.
 We can turn to software for a longer form of conversation. The industry
 experienced a sea change in work habits when it recognized the role of
 conversation in the broader narrative of how software is made. In 1994,
-A major report[^106] in 1994 found only a16% success rate for software
+A major report[^106] in 1994 found only a 16% success rate for software
 projects versus a 31% cancellation rate. Conditions like these led to
 the famous Agile Manifesto in 2001, which defined itself in opposition
 to the "waterfall" method used by most of the subjects in the report.
@@ -5081,7 +5086,7 @@ otherwise interrogate our models is a distinct form of labor. Tenets 5
 and 6 establish that this labor follows a continuous, self-reflective
 cycle. To fully describe the cycle of conceptual labor, we must finally
 recognize that what we understand is contained within the broader frame
-of what we *can* understand. In doing so, we introduce medium as a
+of what we *can* understand. In doing so, we introduce “medium” as a
 term[^124].
 
 The idea of labor having a medium may seem obvious to us as creatures
@@ -6004,7 +6009,7 @@ that one can identify patterns of conditions, habits, and questions that
 tend to be useful in understanding and navigating almost any river.
 
 To go one step further, it suggests that though these patterns of work
-are not secret, but they are usually hidden in the fabric of the
+are not secret, they are usually hidden in the fabric of the
 conventional stories we tell about work. By naming and studying these
 patterns, we should be able to spot them more readily, rather than
 falling back on comfortable narratives of how work should go.
@@ -6373,7 +6378,7 @@ scale we can.
     7--14. Hoboken: Taylor and Francis, 2014.
 
 [^67]: Particularly relevant to this point is the concept of "abduction"
-    as described by Johnson-Laird in the paper "Mental Models and Human
+   as described by Johnson-Laird in the paper "Mental Models and Human
     Reasoning": "Human reasoners have an inductive skill that far
     surpasses any known algorithm...it is the ability to formulate
     explanations. Unlike valid deductions, inductions increase
@@ -6442,7 +6447,7 @@ scale we can.
     in the section How To Use The Theory
 
 [^78]: It follows, then, that any theory that seeks to include the
-    aspects of work that are left out by the Conventional Narrative
+   aspects of work that are left out by the Conventional Narrative
     would necessarily have to focus on the conditions of an individual's
     experience of work.
 
@@ -6600,7 +6605,7 @@ scale we can.
 [^115]: For example, \#5 from Petraityte, Akvile, and Liucija Adomaite.
     "People Are Sharing Their Cleaning Fails Online And It Might
     Brighten Up Your Mood \| Bored Panda." Accessed May 14, 2021.
-    [https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\\\_source=google&utm\\\_medium=organic&utm\\\_campaign=organic](https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\_source=google&utm\_medium=organic&utm\_campaign=organic){.uri}.
+    [https://www.boredpanda.com/funny-vacuum-cleaning-fails/?utm\\\_source=google&utm\\\_medium=organic&utm\\\_campaign=organic](https://www.boredpanda.com/funny-vacuum-cleaning-fails/){.uri}.
 
 [^116]: "2020.09.15 FINAL 737 MAX Report for Public Release.Pdf."
     Accessed May 8, 2021.
