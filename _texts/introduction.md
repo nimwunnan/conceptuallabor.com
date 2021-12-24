@@ -6,7 +6,7 @@ permalink: /introduction
 order: 1
 ---
 
-![Title Diagram of the Theory of Conceptual Labor](theory-text/images/titlepage.png)
+![Title Diagram of the Theory of Conceptual Labor](images/titlepage.png)
 
 All labor follows a story. Consciously or not, we work according to a narrative that describes what we do, why we do it, and what it accomplishes. In a conventional narrative, there are two different kinds of labor --- direct actions that must be done, and the effort to figure out which direct actions to take. 
 

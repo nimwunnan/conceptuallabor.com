@@ -237,7 +237,7 @@ One of the most important circumstances where conventional labor falls short is 
 In his explanation of the difference between advanced degrees, computer science professor Matt Might provides a clear, charming way to picture the difference between working within a frame of reference and working on the frame itself. In *The Illustrated Guide to the PhD*[^fn2] , Might pictures all of human knowledge as a circle. Primary education fills a smaller circle at the center. Bachelors and masters degrees extend a specialty like a spoke from the center, and professional research brings you to the “edge of human knowledge.” 
 
 
-![Matt Might, a professor in Computer Science at the University of Utah, created The Illustrated Guide to a Ph.D.http://matt.might.net/articles/phd-school-in-pictures/to explain what a Ph.D. is to new and aspiring graduate students.](theory-text/images/illustrated-phd.png)  
+![Matt Might, a professor in Computer Science at the University of Utah, created The Illustrated Guide to a Ph.D.http://matt.might.net/articles/phd-school-in-pictures/to explain what a Ph.D. is to new and aspiring graduate students.](images/illustrated-phd.png)  
 *[Matt Might](http://matt.might.net/), a professor in [Computer Science](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/), created [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) to explain what a Ph.D. is to new and aspiring graduate students.* 
 
 Note that not only do the different stages of learning take distinct shapes, but work that expands the frame is accompanied by a profound shift in perspective. 
@@ -426,27 +426,27 @@ This work is the *+1* in *N+1*. There can be no one guide to it, so we write cou
 ---
 
 *Finite and not-so-finite labor* 
-![Finite and not-so-finite labor](theory-text/images/fig1.1.png) 
+![Finite and not-so-finite labor](images/fig1.1.png) 
 
 ---
 
 *Labor between contexts* 
-![Labor between contexts](theory-text/images/fig1.2.png) 
+![Labor between contexts](images/fig1.2.png) 
 
 ---
 
 *Labor to create context*
-![Labor to create context](theory-text/images/fig1.3.png)
+![Labor to create context](images/fig1.3.png)
 
 ---
 
 *The Art of Basketball*
-![The Art of Basketball](theory-text/images/fig1.4.png)
+![The Art of Basketball](images/fig1.4.png)
 
 ---
 
 *The Art of \_\_\_ and Conceptual Labor*
-![The Art of \_\_\_ and Conceptual Labor](theory-text/images/fig1.5.png)
+![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
 
 ---
 
@@ -658,7 +658,7 @@ We could consider our racing thoughts mid-fall to be conceptual labor, because t
 
 So with this in mind we can develop a sense of what to put in our models. They only need to be detailed enough to describe the *fundamental* qualities of our project at our current level of focus -- the project that remains an open loop.
 
-![Open and Closed Loops of Conceptual Labor](theory-text/images/fig2.png)
+![Open and Closed Loops of Conceptual Labor](images/fig2.png)
 *Open and Closed Loops of Conceptual Labor*
 
 #### Step 1. Create a model of your labor
@@ -2188,7 +2188,7 @@ We can see the roots of this opposition in a deeper disconnect expressed by Tene
 
 The meme What People Think I Do / What I Really Do[^fn86] demonstrates this Concept on a broad scale. Popular enough to merit its own generator[^fn87], the format laid bare the beliefs embodied in the way that different perspectives modeled the labor of professionals. The joke lands whether or not you do the work in question; the panel “what I think I do,” is just one of many perspectives implicitly compared against “what I really do.” However you see the professions in question, it touches on the shared experience of trying to model what you “really do”. Whether they come from your family or your own biases, perplexingly-durable clichés surround labor that we all have to resist falling into sometimes --- scientists must wear lab coats, all artists storm about with palettes and brushes, and lawyers mainly give speeches in courtrooms.
 
-![Meme image by artist Garnet Hertz that popularized the format.](theory-text/images/Hertz-original-600.jpeg)
+![Meme image by artist Garnet Hertz that popularized the format.](images/Hertz-original-600.jpeg)
 *Meme image by artist Garnet Hertz that popularized the format.*
 
 When we sit down to work, we do so through a model of our labor in our head, and with it comes a variety of beliefs and assumptions. We work according to that model, subject to the implications of the picture it paints, whether we understand those implications or not. Anyone who has watched a robotic vacuum bash itself repeatedly into a corner has seen a real-world example of this.
@@ -2803,7 +2803,7 @@ Context separates what an actor knows and believes from beliefs they do not hold
 Whether one looks at their circumstances and thinks that everything or nothing is possible, whether the circumstances are mysterious or rigorously studied, every act of work is subject to at least an implicit sense of “possibility[^fn130]”. The mishaps of hypnosis subjects and sleepwalkers show that even at a subconscious level our actions are contained within our Concept of possibility. A sleepwalker  (or robotic vacuum) bumping into real obstacles while trying to navigate their dreamed surroundings isn’t trying to do something they know they can’t --- what they think is possible simply isn’t. One must be conscious to *try* to do the impossible. 
 
 
-![The scale of possible to not possible](theory-text/images/fig3.png)
+![The scale of possible to not possible](images/fig3.png)
 *The scale of possible to not possible*
 
 The scope of what is and isn’t possible varies from person to person, of course, but everyone possesses an internal scale which starts at “not possible” and increases to “guaranteed.” We become keenly aware of this scale in the thrilling moments when we decide to work in the realm of the impossible, or when the borders of that realm shift and we are suddenly able to see new potential in the world or our own skills and imagination. Possibility is itself a meta-model that contains our models of physical, social, and personal reality. It is just one of countless meta-models that silently shape our labor.
@@ -2851,10 +2851,10 @@ Professor: You know the objective concepts, so let's discuss the subjective ones
 Master: Spoken word can no longer support our conversation.
 
 
-![User elden found their own non-verbal representation](theory-text/images/elden-comment.png)[^fn134]
+![User elden found their own non-verbal representation](images/elden-comment.png)[^fn134]
 *User elden found their own non-verbal representation*
 
-![Greg C had this to say](theory-text/images/greg-c-comment.png)[^fn135]
+![Greg C had this to say](images/greg-c-comment.png)[^fn135]
 *Greg C had this to say*
 
 These comments recognize that there are many ways to explain basic concepts to novices, but the labor of initiates and professionals cannot be properly explained without their materials. The video starts at the well-trodden center of Professor Might’s knowledge circle[^fn136], and works its way out to the specialized conceptual labor that Collier and Hancock do with music as they push the boundaries of convention. At that edge, satisfactory discussion of this kind of labor cannot be separated from certain information embodied within the medium itself.
@@ -2912,7 +2912,7 @@ We can imagine, then, a threshold between the known and the unknown that defines
 
 This labor is different than the labor that occurs within that boundary. Whatever you know, you must do conceptual labor to cross that boundary. Our fundamental fixed scale goes from *here* to *there*.
 
-![The fundamental scale of conceptual labor](theory-text/images/fig4.png)
+![The fundamental scale of conceptual labor](images/fig4.png)
 *The fundamental scale of conceptual labor*
 
 #### CL can be learned and practiced

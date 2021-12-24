@@ -2,7 +2,7 @@
 % Ním Daghlian
 % 2021
 
-
+\pagebreak
 
 # Introduction
 
@@ -36,7 +36,7 @@ The section *How To Use The Theory of Conceptual Labor* outlines basic methods b
 
 The final section, *The Expanded Theory* explains the Tenets and Core Concepts in detail, first in abstract terms and then again through case studies for each of the four groups. 
 
-
+\pagebreak
 
 ## Summary
 
@@ -74,12 +74,12 @@ There is work involved in understanding why conventional labor fails or why a na
 
 Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
 
-
+\pagebreak
 
 # Part 1
 # The Theory
 
-
+\pagebreak
 
 ## Tenets of Conceptual Labor
 1. Labor can be modeled with fundamental components
@@ -133,7 +133,7 @@ Models, by nature, are abstractions. They may abstract detailed qualities of ext
 * Mental models of labor share methods of abstraction and can be measured on a fixed scale.
 * Basic patterns of conceptual labor can be learned and developed as skills.
 
-
+\pagebreak
 
 
 ## Definitions
@@ -170,11 +170,11 @@ Other Terminology
 
 `Medium` is the material, physical or otherwise, with which we do conceptual labor. Unlike `context`, the `medium` of our conceptual labor is not defined by our understanding of it. `Medium` refers to the total set of conditions, known or unknown, relevant or not, of anything with which we do conceptual labor.
 
-
+\pagebreak
 # Part 2
 # Why We Need a Theory of Conceptual Labor
 
-
+\pagebreak
 ## Maps Are Not Always Perfect
 
 We know how to follow a complete, accurate map --- it is mainly conventional labor. We may still face a challenging journey moving through unfamiliar territory, but the obstacles lie within known boundaries --- to get from point A to point B, that river needs to be forded, that hill must be climbed, etc. 
@@ -198,7 +198,7 @@ Everyone has done work which felt productive at the time only to discover that i
 
 It is much harder to consider that some work has no straightforward story --- that it must be done in the dark. Some work can only be understood as one does it, some work continuously changes so it will never be fully described, and some work must be invented as it occurs. Such work frequently involves other people, learning something new, or understanding the behavior of a complex system. When we attempt to apply conventional narratives to this kind of work, we create new problems and fail at our original task. 
 
-
+\pagebreak
 ## Expertise Grows out of Conceptual Labor
 
 One of the most important circumstances where conventional labor falls short is when there is no map in the first place. It is through conceptual labor that we create new ideas, shift paradigms, and learn.
@@ -287,7 +287,7 @@ Our napping scientist reminds us that just because something doesn’t look like
 
 When we equate work with economic value we forget that it is also part of our *behavior ---* our labor. If we are to describe the entire picture of our labor, full of learning, experiencing, and feeling, we must make a radical departure from the conventional narrative surrounding work. 
 
-
+\pagebreak
 
 ## We Are Always Writing Theories of Conceptual Labor
 
@@ -383,7 +383,7 @@ However, as readers of these texts, we are in the same situation as a viewer in 
 
 This work is the *+1* in *N+1*. There can be no one guide to it, so we write countless guides. One particularly profound and surprising entry is Rebecca Solnit’s *A Field Guide to Getting Lost.* In it, she meditates on a challenge posed by Meno to Socrates: “How will you go about finding that thing the nature of which is totally unknown to you[^fn31]?” Whether we answer that we will do “conceptual labor” or use another term, we must at least recognize that the answer falls within a special category of labor, one which is always changing.
 
-  
+\pagebreak  
 
 ## The Art of \_\_\_, Diagrammed  
 --------------------------------- 
@@ -393,7 +393,7 @@ This work is the *+1* in *N+1*. There can be no one guide to it, so we write cou
 ![The Art of Basketball](images/fig1.4.png) 
 ![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
 
-
+\pagebreak
 ## Conceptual Labor Counters Power
 
 There is a polemical quality to The Art of \_\_\_. It says, while this work may look like the exclusive province of this discipline and those who have the specialized training to do it, the soul of this work can be understood in the abstract and carried to other parts of life. The thing we call, say, windsurfing, is not the Art of Windsurfing. That is a practice of decision making and living that must be continuously refreshed as you walk through life, and there is a way encounter that practice using a windsurf board.
@@ -500,12 +500,12 @@ Radical social change is often presented as a conventional narrative --- once th
 If we take seriously the demands and idiosyncrasies of conceptual labor, we can more effectively relate our work to the narratives that frame it. Beyond that, we can practice the special patterns of work that are required to shift our frames of reference. We can prepare ourselves for the narrative to change once we escape it, for it to change once again, and for it to keep changing.
 
 
-
+\pagebreak
 # Part 3
 # How to Use The Theory
+\pagebreak
 
-
-
+\pagebreak
 ## Introduction to Conceptual Labor Analysis
 
 
@@ -542,7 +542,7 @@ The Theory provides a framework in which to ask these questions. The Tenets prop
 
 Using the theory to analyze our labor, then, should provide a way to clearly define models and the relationships between their components to our own satisfaction. Doing so should help us become aware of significant changes to any of the components, or help reveal where our definitions were wrong. We should be able to repeat this process until it produces an understood model with static components that we can use as a set of instructions. This process should also allow us to infer broader principals and lessons from the answers to specific questions.
 
-
+\pagebreak
 ## Conceptual Labor Analysis vs What We Already Do
 
 As Tenet 7 reminds us, we end up following our own ad-hoc version of this process simply by doing our work and thinking carefully about it. Asking questions grounded by the specificity of our work will produce broader, abstract questions during conceptual labor. So why introduce a separate term for Conceptual Labor Analysis? Doesn't conceptual labor imply self-considering work? 
@@ -568,7 +568,7 @@ Conceptual Labor Analysis focuses on describing the composition, relationships, 
 
 So, in analyzing our labor, we may not always be able to anticipate the right questions and answers, but we can familiarize ourselves with the process to ask and answer these questions with more ease, insight, and precision. To that end, this section outlines the basic process of using the language of the Theory as an analytical tool.
 
-
+\pagebreak
 ## Conceptual Labor Analysis in a Nutshell
 
 All work changes. Even very simple work -- the kind of thing we call “legwork” -- can contain surprises and challenges. Our experience of these changes is what defines our labor. Put simply, conventional labor is what we do when we don't have to think critically about these changes, and conceptual labor is what we do when we must. We need models when the conventional narrative fails us. Conceptual labor analysis begins by creating a model of labor. 
@@ -621,7 +621,7 @@ If a model we have confidence in produces instructions that we can reliably foll
 
 To demonstrate how Conceptual Labor Analysis can describe our individual experience of labor, and how it allows us to identify the difference between conventional and conceptual labor, we need a narrative of labor. First we will go through it like a story, from start to finish. Then we will use Conceptual Labor Analysis to diagram the models that drive the story forward and to account for how the story changes.
 
-
+\pagebreak
 ## Example: How to Do Conceptual Labor in the Woods
 
 An adventurous friend draws you a map to a secret, picturesque picnic spot she discovered just the other week. In a nearby state park full of rocky hills, a small alpine lake, surrounded by verdant green fields and rare wildflowers, can be reached by a short hike from a public path.
@@ -654,7 +654,7 @@ As is often the case, the trip back seems to go much faster than the trip there.
 
 As your friend promised, it weaves through the trees at a moderate incline until reaching a clearing. The lake is clearer than you imagined, the fields are a perfect green, and the wildflowers are in bloom. Luckily, you still have half a sandwich.
 
-
+\pagebreak
 ### A Caveat
 
 Before we attempt to articulate the doing of conceptual labor in terms of the Theory, we must recognize that this is an artificial and incomplete approach. 
@@ -669,7 +669,7 @@ There can be no definitive guide to all forms of conceptual labor. It would cert
 
 Becoming familiar enough with the Theory to wield it in your own way should be far more useful in most cases. That said, this particular method should still prove valuable in circumstances that are so complex or opaque as to demand that all those concerned take a collective step back to explicitly and methodically write down what they think they are doing in neutral, common language.
 
-
+\pagebreak
 ## CLA of Our Example
 
 #### Step 1: Define our project and model our labor
@@ -1513,7 +1513,7 @@ With a little bit of W1 and W2, you can confidently settle back to a conventiona
 
 You follow the directions, paying close attention, through the woods.
 
-
+\pagebreak
 
 ## Case Study: What is Programming?
 
@@ -1630,12 +1630,12 @@ Here, too, she carefully articulates the context of education to discern a narra
 
 
 
-
+\pagebreak
 # The Theory, Expanded
-
+\pagebreak
 
 ## Tenets 1 & 2: Modeling Labor
-
+\pagebreak
 
 ### Summary
 
@@ -1666,7 +1666,7 @@ Given any description of a project, we cannot assume that everyone who does the 
 
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
-
+\pagebreak
 
 ### Introduction
 
@@ -1684,7 +1684,7 @@ Tenet 1 declares that, inside that black box, the individual’s state of mind r
 
 The Core Concepts in this section articulate the significant implications that follow from defining an individual’s experience of work in a detailed model.
 
-
+\pagebreak
 
 ### Tenet 1: Work can be modeled with fundamental components
 
@@ -1755,7 +1755,7 @@ These are reasonable things to believe about the map, but they are still beliefs
 
 Context is potentially the most complex of the fundamental components, since our beliefs about the world and our interactions with it often contain many complex models themselves[^fn72]. When interrogating a context we are not entirely certain of, we are almost guaranteed to find relevant models within it which we have not yet fully defined to ourselves. 
 
-
+\pagebreak
 ### Tenet 2: Individuals experience work through a unique mental model
 
 ---------------------------------
@@ -1907,10 +1907,10 @@ Conceptual labor does not commit to a position. Conceptual labor is a continuous
 
 
 
-
+\pagebreak
 
 ## Tenets 3 & 4: Labor Changes
-
+\pagebreak
 
 ### Summary
 
@@ -1933,7 +1933,7 @@ Though labor involves change by definition, it can still be systematized, descri
 However, work behaves much differently when all significant components are dynamic. When the actor, labor, and context are all able to change on their own accord, and able to change the other types of components, the work takes on another dimension. In this type of work, solving one’s confusion, coming up with new instructions, and executing them are all considered part of the same project.
 
 
-
+\pagebreak
 
 ### Introduction
 
@@ -1943,7 +1943,7 @@ Tenet 3 declares that labor behaves much differently when “all components of a
 
 Tenet 4 states that “We tend towards models with static and well-defined components.” In other words, without questioning our beliefs about the conditions of our labor, we will default to the conventional narrative. Critically observing and responding to how and why you work is in itself a departure from conventional labor. There may be compelling reasons to stick with the conventional narrative, but it often turns out not to be true or useful. Conceiving of new, accurate narratives of work while it changes is not easy.
 
-
+\pagebreak
 
 ### Tenets 3 & 4: Labor Changes and We Must Change With It 
 
@@ -2058,7 +2058,7 @@ If we think of adjusting a model and doing work as separate actions, trying to k
 
 
 
-
+\pagebreak
 
 ### Case Study: Industrious Fictions
 
@@ -2291,10 +2291,10 @@ This is not an appeal for better research methods or to fix a lack of education.
 
 
 
-
+\pagebreak
 
 ## Tenets 5 & 6: Competing Narratives
-
+\pagebreak
 
 ### Summary
 
@@ -2313,7 +2313,7 @@ This is not an appeal for better research methods or to fix a lack of education.
 
 There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right. 
 
-
+\pagebreak
 
 ### Introduction
 
@@ -2324,7 +2324,7 @@ Tenet 5 says that if one’s working model is to stay in sync with their labor a
 
 Tenet 6 is an outcome of this necessary conversation about what work is, should, or could be. Conventional labor proceeds according to its authority as being effective and necessary. If conceptual labor begins when we question that narrative, then it must include an argument for the necessity of conceptual labor and the new narratives it produces.
 
-
+\pagebreak
 
 
 #### Doing work and modifying the narrative of how you work must happen simultaneously in conceptual labor
@@ -2387,7 +2387,7 @@ If conceptual labor aims to continuously adapt to ongoing change, it follows tha
 
 Thinking of how to have a good conversation can benefit this process. Tenet 6 proceeds from having a conversation about what work is, should, or could be. Work that follows a discursive process has the potential to produce multiple useful outcomes, or to follow any number of paths to a measurable result. A useful exercise to cultivate successful conceptual labor would be to consider the ways in which you can and cannot prepare for a conversation, and how someone should approach a stimulating conversation that everyone involved would want to continue.
 
-
+\pagebreak
 
 ### Case Study: Unnecessary Work
 
@@ -2534,9 +2534,9 @@ One of science writer Lewis Thomas’s most referenced passages addresses itself
 
 
 
-
+\pagebreak
 ## Tenet 7: Patterns and materials of conceptual labor
-
+\pagebreak
 
 
 ### Summary
@@ -2555,7 +2555,7 @@ One of science writer Lewis Thomas’s most referenced passages addresses itself
 Models, by nature, are abstractions. They may abstract detailed qualities of external, real-world conditions or specific ideas as they are understood by an actor. To some degree these specific qualities of work need to be encoded as a mental model, personalized to the actor imagining it. In this way, they are always a translation from one context to another. Any conscious actor can model their own mental state enough to create self-referential models, further abstracted from the original context. So while conceptual labor may be rooted in specific conditions and real-world problems, it tends towards abstraction. This implies that conceptual labor that we call by one name can share the same mental context as conceptual labor that falls under an entirely different label. Though the abstract similarities between methods and types of conceptual labor may not translate fully, fundamental and useful patterns can emerge. This means one can consciously practice these patterns to develop them as skills of conceptual labor that can be applied across disciplines. 
 
 
-
+\pagebreak
 
 ### Introduction
 
@@ -2569,7 +2569,7 @@ When we understand this, we can shift how we encounter the materials, ideas, and
 
 By consciously practicing conceptual labor in our native mental terminology, according to its internal rules, we can identify and develop deep patterns, techniques, and concepts that apply to how we do conceptual labor in general. By expressing these patterns in shared languages, we can communicate them to others.
 
-
+\pagebreak
 
 ### Conceptual labor tends towards abstraction but is rooted in specifics
 
@@ -2677,7 +2677,7 @@ If we analyze our conceptual labor, formally or not, we are sure to find that ev
 
 All conceptual labor includes a form of self-education. It is the effort by which we grow familiar with the landscape of our models’ realities. We hone our instincts for our own mental laws and develop theories of their operating principles so that we may build sophisticated mental machinery. In doing so, we acquire skills that we can apply to *all* of our conceptual labor. As the Theory facilitates critical analysis of the very process of making and using models, it can be combined with our existing practices of conceptual labor to increase our faculty in perceiving, working with, and escaping the frames that contain our labor. When we are able to articulate these frames and practices, fundamental skills of conceptual labor can be learned and applied to *all* of our labor, regardless of material, discipline, or appearance.
 
-
+\pagebreak
 
 ### Case Study: Translations, Possible and Impossible
 
@@ -2811,7 +2811,7 @@ This is the fundamental process of labor that can be described by these seven Te
 
 
 
-
+\pagebreak
 
 
 
