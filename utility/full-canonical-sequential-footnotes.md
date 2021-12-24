@@ -466,11 +466,11 @@ For Mulla Nasreddin and anyone else looking for something in the dark, this mean
 
 In her essay *Poetry is Not A Luxury*, Audre Lorde says:
 
-> The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.
+> The quality of the light by which we scrutinize our lives has direct bearing upon the product which we live, and upon the changes which we hope to bring about through those lives. It is within this light that we form those ideas by which we pursue our magic and make it realized.[^fn01]
 
 The poetry that is indispensable to Lorde is not “sterile wordplay,[^fn41]” but a process --- “the revelatory distillation of experience.” To Lorde, poetry-within-bounds is not poetry. “In the forefront of our move towards change, there is only poetry to hint at possibility made real.” What would happen if we practiced this, the conceptual labor of poetry, and allowed its patterns to permeate our lives at different scales, with different outcomes? Perhaps we could write a book about the poetry of --- or even the art of --- what we know. 
 
-To learn The Art of \_\_\_, it seems that we always must cross a gap, the one that divides a concrete practice of writing poems from the abstract pattern of revelation that such a practice has the potential to teach us. bell hooks’s *Theory as Liberatory Practice* gives us a bridge of sorts, between the abstract practice of theory and concretely personal and political concerns. 
+To learn The Art of \_\_\_, it seems that we always must cross a gap, the one that divides a concrete practice of writing poems from the abstract pattern of revelation that such a practice has the potential to teach us. bell hooks’s *Theory as Liberatory Practice* gives us a bridge of sorts, between the abstract practice of theory and concretely personal and political concerns.[^fn02]
 
  > Living in childhood without a sense of home, I found a place of sanctuary in “theorizing,” in making sense out of what was happening. I found a place where I could imagine possible futures, a place where life could be lived differently. This “lived” experience of critical thinking, of reflection and analysis, became a place where I worked at explaining the hurt and making it go away. Fundamentally, I learned from this experience that theory could be a healing practice.
 
@@ -1632,7 +1632,7 @@ She does not object to “making” itself or the pride that many people take in
 
 > Code is "making" because we've figured out how to package it up into discrete units and sell it, and because it is widely perceived to be done by men.
 
-> But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.
+> But you can also think about coding as eliciting a specific, desired set of behaviors from computing devices. It’s the Searle’s "Chinese room" take on the deeper, richer, messier, less reproducible, immeasurably more difficult version of this that we do with people---change their cognition, abilities, and behaviors. We call the latter "education," and it’s mostly done by underpaid, undervalued women.[^03]
 
 Chachra’s reference to the Chinese room argument [^fn54] evokes a high-level model which can plausibly apply to both coding and education, much in the same way that we proposed our first model to relate to Victor’s example. Searle’s argument imagines a Turing test administered by a Chinese speaker slipping notes under a door to an unseen party on the other side. As long as the mystery actor inside the room replied in fluent Mandarin, we would think they “knew” the language even if they were just following the instructions of a computer that could perfectly parse conversational Mandarin. Philosophical implications aside, Chachra’s use of this metaphor closely follows the process behind Conceptual Labor Analysis here by reconfiguring a model of labor in an effort to more deeply understand some of its components. In this case, she creates a shared context so that we may contrast the work and the actors.
 
@@ -2918,7 +2918,11 @@ This is the fundamental process of labor that can be described by these seven Te
 
 [^fn40]: Deleuze, Gilles, and Félix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*. Minneapolis: University of Minnesota Press, 1987.
 
+[^fn01]:  Lorde, Audre. 2007. Sister outsider: essays and speeches, 36. Berkeley, Calif: Crossing Press.
+
 [^fn41]: Lerner, Ben. *The Hatred of Poetry*. New York: Farrar, Straus and Giroux, 2016.
+
+[^fn02]: hooks, bell. “Theory as Liberatory Practice.” Yale Journal of Law & Feminism 4, no. 1 (Accessed May 8, 2021). https://digitalcommons.law.yale.edu/yjlf/vol4/iss1/2. 
 
 [^fn42]: This refers to all socially-constructed models, not just norms. Social norms are powerful social models, but “abnormal” social relations carry their own framing power.
 
@@ -2947,13 +2951,15 @@ This is the fundamental process of labor that can be described by these seven Te
 
 [^fn53]: Here is an example of a professional application of CLA. User experience designers could model computer users’ labor that, superficially, appear to be an end-user interacting with a finished product. The more the model resembles models of software development, where a user must “play computer” to achieve a straightforward goal, the less the helpful the interface is. This position is encapsulated in the design term The Principle of Least Astonishment. “Principle of Least Astonishment.” In *Wikipedia*, March 13, 2021. https://en.wikipedia.org/w/index.php?title=Principle\_of\_least\_astonishment&oldid=1011856538.
 
+[^fn03]: Chachra, Debbie. 2015. “Why I Am Not a Maker.” The Atlantic. January 23, 2015. https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/.
+
 [^fn54]: Cole, David. “The Chinese Room Argument.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/win2020/entries/chinese-room/.
 
 [^fn55]: And, in fact, the COVID-19 pandemic has forced educators, parents, and students to re-consider the essential components of their model of education, and whether it can be achieved remotely, though a narrow interface.
 
-[^fn56]: Victor’s project, Dynamicland, is a space in Oakland, California where a system
+[^fn56]: VVictor’s recent project, Dynamicland, was a space in Oakland, California where California where visitors can program computers with pen and paper within a system of cameras and projectors that run their programs in real time.
 
-[^fn57]: Chachra, Debbie. 2015. “Why I Am Not a Maker.” The Atlantic. January 23, 2015. https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/.
+[^fn57]: Chachra, “Why I Am Not a Maker.”
 
 # part 4
 
