@@ -1,6 +1,8 @@
-% The Theory of Conceptual Labor
+% Conceptual Labor
 % Ním Daghlian
 % 2021
+
+![](images/titlepage.png)
 
 \pagebreak
 
@@ -386,14 +388,21 @@ This work is the *+1* in *N+1*. There can be no one guide to it, so we write cou
 \pagebreak  
 
 ## The Art of \_\_\_, Diagrammed  
+
 --------------------------------- 
-![Finite and not-so-finite labor](images/fig1.1.png)  
+
+![Finite and not-so-finite labor](images/fig1.1.png) 
+
 ![Labor between contexts](images/fig1.2.png)  
+
 ![Labor to create context](images/fig1.3.png) 
+
 ![The Art of Basketball](images/fig1.4.png) 
+
 ![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
 
 \pagebreak
+
 ## Conceptual Labor Counters Power
 
 There is a polemical quality to The Art of \_\_\_. It says, while this work may look like the exclusive province of this discipline and those who have the specialized training to do it, the soul of this work can be understood in the abstract and carried to other parts of life. The thing we call, say, windsurfing, is not the Art of Windsurfing. That is a practice of decision making and living that must be continuously refreshed as you walk through life, and there is a way encounter that practice using a windsurf board.

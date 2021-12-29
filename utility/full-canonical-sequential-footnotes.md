@@ -1,6 +1,8 @@
-% The Theory of Conceptual Labor
+% Conceptual Labor
 % Ním Daghlian
 % 2021
+
+![](images/titlepage.png)
 
 
 
@@ -386,12 +388,19 @@ This work is the *+1* in *N+1*. There can be no one guide to it, so we write cou
   
 
 ## The Art of \_\_\_, Diagrammed  
+
 --------------------------------- 
-![Finite and not-so-finite labor](images/fig1.1.png)  
+
+![Finite and not-so-finite labor](images/fig1.1.png) 
+
 ![Labor between contexts](images/fig1.2.png)  
+
 ![Labor to create context](images/fig1.3.png) 
+
 ![The Art of Basketball](images/fig1.4.png) 
+
 ![The Art of \_\_\_ and Conceptual Labor](images/fig1.5.png)
+
 
 
 ## Conceptual Labor Counters Power
