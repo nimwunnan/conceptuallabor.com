@@ -101,18 +101,20 @@ GEM
       sync
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
+    webrick (1.7.0)
     yell (2.2.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.1.4)
+  bundler (~> 2.3.4)
   coveralls
   ed.!
   html-proofer
   kramdown-parser-gfm
   rake (~> 10.4)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.3.4
