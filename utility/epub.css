@@ -44,12 +44,31 @@ figcaption {
 /*  Shortcodes for page-break rules.
     Use data attributes to designate if and how the page should be broken before, inside or after an element.
 */
-h1, h2, h3, h4, h5, h6,
-table, img, figure, video,
-[data-page-break~=inside][data-page-break~=avoid] { page-break-inside:  avoid; }
-[data-page-break~=after]                          { page-break-after:  always; }
-h1, h2, h3, h4, h5, h6,
-[data-page-break~=after][data-page-break~=avoid]  { page-break-after:   avoid; }
-[data-page-break~=before]                         { page-break-before: always; }
-[data-page-break~=before][data-page-break~=avoid] { page-break-before:  avoid; }
-img[data-page-break~=before]                      { page-break-before:   left; }
+h1  { page-break-before:  always; }
+
+table {
+  font-family: monospace;
+  font-size: 80%;
+  width: 100%;
+}
+
+table th, table tr {
+  padding: 3px;
+}
+table th {
+  color: white;
+  background: black;
+}
+
+tr.even {
+  background: #ccc;
+}
+
+table tr {
+  color: black;
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+pandoc full-canonical-sequential-footnotes.md -o cl-new.epub -t epub3 --smart --toc --toc-depth=2 --epub-stylesheet=epub.css --epub-cover-image=images/full-title-page.png
