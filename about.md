@@ -30,7 +30,7 @@ This project began a decade and a half ago when I began to notice patterns in th
 
 Much of what I heard from experts in each field sounded strangely similar. They emphasized that some of the most important work could not be directly explained, instead it had to be cultivated and chased down. Most of my experiences of feeling like I finally "got it" revealed that I had been chasing certainty rather than what I started out looking for. The vigilant self-assessment that it took to keep my eyes on the changing conditions of work seemed, at first, like a by-product, but I later understood it to be central.
 
-So the broader pattern I recognized in the weightier lessons that came from *really* trying to learn or teach art was that this work had to combin domain-specific practices with intense, recursive analysis in an attempt to cultivate or discover novel ideas expressed through a particular medium. At first I thought this was a special condition of the arts, but once I noticed the pattern I began to see it everywhere.
+So the broader pattern I recognized in the weightier lessons that came from *really* trying to learn or teach art was that this work had to combine domain-specific practices with intense, recursive analysis in an attempt to cultivate or discover novel ideas expressed through a particular medium. At first I thought this was a special condition of the arts, but once I noticed the pattern I began to see it everywhere.
 
 Conversely, I saw how much one could talk about and work on "art" --- or whatever their central subject was --- without getting closer to it. On one hand we could say that the most important methods of our work were difficult, if not impossible, to fully describe, while on the other hand spending most of our attention and words on describing all the other parts.
 
@@ -61,4 +61,4 @@ This text (and my life) would be far poorer and less interesting without the sup
 
 ## The Author
 
-  The Theory of Conceptual Labor and the contents of this site were written in their entirety by [Ním Daghlian](http://wunnan.com){:target="blank"}
+  The Theory of Conceptual Labor and the contents of this site were written in their entirety by [Ním Daghlian](http://nimdaghlian.com){:target="blank"}
