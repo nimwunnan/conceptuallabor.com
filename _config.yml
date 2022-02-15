@@ -10,13 +10,13 @@ baseurl:             ''
 # About/contact
 author:
   name:              'Ním Daghlian'
-  url:               'http://wunnan.com'
-  email:             'nim@wunnan.com'
+  url:               'http://nimdaghlian.com'
+  email:             'nimdaghlian@gmail.com'
 
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme:
 
 permalink: pretty
 permalink: /:title/
@@ -55,5 +55,3 @@ theme: "ed."
 
 #Custom
 draft: 1
-
-
