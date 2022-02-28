@@ -13,7 +13,7 @@
     $replacementz = array();
     foreach ($matches[0] as $key => $value) {
       $pat = '/'.$value.'/';
-      $val = "peggyfarts".(strval($key)+1);
+      $val = "unique-string-seahorse".(strval($key)+1);
       // $hack = file_get_contents('part1.txt');
       // $newtext = preg_replace($pat, $val, $text);
       // $text = $newtext;
@@ -25,11 +25,11 @@
     $combined = array_combine($patternz, $replacementz);
     $combined = array_reverse($combined);
     foreach ($combined as $pat => $val){
-        $text = preg_replace($pat, $val, $text);  
+        $text = preg_replace($pat, $val, $text);
     }
 
      // $newfile = preg_replace($patternz, $replacementz, $text);
-     $updatedText = preg_replace('/peggyfarts/', 'fn', $text);
+     $updatedText = preg_replace('/unique-string-seahorse/', 'fn', $text);
      return $updatedText;
 }
 
@@ -62,14 +62,6 @@ foreach($textArray as $key => $value){
   fclose($output);
   echo ("done");
 
-
-// print_r($patternz);
-// echo "<br>";
-// print_r($replacementz);
-// echo "<br>";
-
-// $match = ^fn-number;
-// $total = count match for each matching 
 
 
 ?>
