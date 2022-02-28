@@ -41,7 +41,7 @@ body {
   z-index: 800;
 }
 
-#main { 
+#main {
 
   a {
   color: $m;
@@ -52,6 +52,11 @@ body {
     text-decoration: none;
     text-shadow: -1px -1px 1px $c;
   }
+
+  a.bluelink {
+    color: $k;
+  }
+
   ul li {
     list-style: none;
   }
@@ -85,9 +90,9 @@ body {
 .visible {
   opacity: 1;
 }
-.logomark { 
-  font-size:3rem; 
-  position:relative; 
+.logomark {
+  font-size:3rem;
+  position:relative;
   font-family: 'Nanum Myeongjo', serif;
   transition: opacity .2s;
   padding-top: 8vh;
@@ -143,6 +148,7 @@ body {
       top:-1px;
       left:1px;
     }
+
 }
 
 #book-toc {
@@ -212,4 +218,11 @@ ol.bibliography {
   p {
     margin-bottom: 5px;
  }
+}
+
+div.post-nav {
+  width: 100%;
+  div.post-nav-next {
+    float: right;
+  }
 }

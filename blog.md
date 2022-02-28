@@ -5,10 +5,10 @@ layout: page
 
   {% assign sorted = site.blog | sort: 'title'  %}
   {% for item in sorted %}
-  <div class="post">
-    <h2>{{item.title}}</h2>
-    {{ item.content | markdownify}}
-  </div>
+  <div>
+    <h2><a href="{{ item.url }}">{{item.title}}</a></h2>
+    {{ item.excerpt | markdownify }}
+      <a href="{{ item.url }}" class="bluelink">Read more..</a>
    {% endfor %}
 
 
