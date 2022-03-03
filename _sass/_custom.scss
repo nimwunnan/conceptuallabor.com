@@ -53,10 +53,19 @@ body {
     text-shadow: -1px -1px 1px $c;
   }
 
-  a.bluelink {
+  a.reversed {
     color: $k;
+    text-shadow: -1px -1px 1px $c;
+      &:hover, &:focus {
+        color: $m;
+        text-decoration: none;
+        text-shadow: -1px -1px 1px $c;
+      }
   }
 
+  a.dark {
+    color: $k;
+  }
   ul li {
     list-style: none;
   }
@@ -82,6 +91,11 @@ body {
     font-style: normal;
     line-height: 140%;
   }
+
+  .text-right {
+    text-align: right;
+    width: 100%;
+    display: inline-block;  }
 }
   .content {
       opacity: 0;

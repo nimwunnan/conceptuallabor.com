@@ -3,7 +3,7 @@
 
   <head>
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="http://localhost:4000/blog/2022-02-25-writing-tools-part-1/"/>
+  <link rel="canonical" href="http://localhost:4000/blog/rumblings"/>
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
 
   <!--   Dublin Core metadata for Zotero -->  
-  <meta name="DC.title" content="Tools to Go from Text to Book -- part 1" />
+  <meta name="DC.title" content="Collected Rumblings" />
   <meta name="DC.creator" content="" />
   <meta name="DC.contributor" content="" />
   <meta name="DC.date" content="" />
@@ -28,11 +28,11 @@
     <!-- Open Graph metadata -->
 
     
-    <meta property="og:title" content="Tools to Go from Text to Book -- part 1"/>
+    <meta property="og:title" content="Collected Rumblings"/>
     <meta property="og:description" content="Conceptual labor is the experience of doing work that redefines itself as you do it.">
     <meta property="fb:admins" content="nimDaghlian"/>
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://localhost:4000//blog/2022-02-25-writing-tools-part-1/"/>
+    <meta property="og:url" content="http://localhost:4000//blog/rumblings"/>
     <meta property="fb:app_id" content="589495744558280"/>
     <meta property="og:image" content="http://localhost:4000/assets/open-graph-logo.png"/>
     <meta property="og:image:width" content="200" />
@@ -41,7 +41,7 @@
    
   <title>
     
-      Tools to Go from Text to Book -- part 1
+      Collected Rumblings
     
   </title>
 
@@ -166,7 +166,7 @@
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
       document.head.appendChild(hypothesis);"><a class="sidebar-nav-item ctext">Annotate using hypothes.is</a></span>
 
-<!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/blog/2022-02-25-writing-tools-part-1//" data-proofer-ignore>Annotate me</a> -->
+<!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/blog/rumblings/" data-proofer-ignore>Annotate me</a> -->
 <!--  -->
     <!-- <script src="https://hypothes.is/embed.js" async></script> -->
 
@@ -188,53 +188,13 @@
     <div class="wrap">
 
       <div class="container content" id="main" style="opacity: 100;">
-        <h1>Tools to Go from Text to Book -- part 1</h1>
+        <h1>Collected Rumblings</h1>
         <hr>
         <br>
         <div class="post">
-  <p>Nerd warning – this gets pretty wonky in the details of text editors, open standards, etc. If you dont find that kind of thing interesting, you might not find this interesting either.</p>
+  <p>I’ve made a little collection on Twitter of people saying conceptual-labor-y things in their own terms.</p>
 
-<h3 id="the-long-personal-story-that-comes-before-the-recipe">The long personal story that comes before the recipe</h3>
-
-<p>(skip this is if you just want to see the tools)</p>
-
-<p>I say that it took ten years to write Conceptual Labor, which is wrong in both directions. I was working or thinking seriously about the ideas in it well before that, but I also only knew I was writing a book about this for about five or six years. Wherever you draw the line, I worked on this long enough that the tools I used to write it had plenty of time to evolve and adapt as I refined my model of the hyperobject of work that was “Write the Book”.</p>
-
-<p>How my tools and methods got to where they ended up reminds of me an experience I had that became a personal archetype about the efficiency of messy work and simple rules. I was 20, living in Portland Oregon, and completely jacked on coffee at sidewalk table outside a cafe in Southeast, looking West. I looked up from my book and was struck by the expanse of forest in the West Hills, across the river. Portland is home to Forest Park – one of the larger parks within city limits in America. I’d been <em>there</em> – what hit me in that moment was that there was a stretch of forest nearly the same size of forest park on the <em>other</em> side of downtown. (Forest Park roughly begins at the division between north and south in Portland – Burnside street – and continues north. What I was looking at was all on the south side – a combination of Washington Park and the lesser-known Marquam Nature Area. This happened many years before the advent of Google Maps or smartphones.)</p>
-
-<p>Being young, relatively without obligations, and posessed of a mountain bike in good condition, I decided to get into that forest. Once I got across the river to the foot of the hills, I set two rules for myself – I could only bike uphill and only south-west.  This sent me through some yards and other private property I could and should have avoided. It was a small but wonderful adventure, and by the time the caffiene and my enthusiasm wore off, I ended up at a park I had never heard of that had a fantastic view of the city, looking out in the direction of the the cafe where I had started.</p>
-
-<p>Later, I learned that I had found Council Crest park, the highest point in Portland. My two rules turned out to be very effective, as long as I stuck to them.</p>
-
-<p>What does this have to do with writing Conceptual Labor? Well, the last time I felt that archetype activated in my brain, like a power-up in a video game, was when I found this excellent article about <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown" target="blank">Sustainable Authorship</a>. It described, with a much more considered and intentional line of reasoning, almost the entire suite of tools I had come to rely on for writing and publishing the Theory, covering the rest of my tools in <a href="https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github">another article</a>.{:target=”blank”}</p>
-
-<h3 id="the-tools-i-use-to-write">The tools I use to write</h3>
-
-<ul>
-  <li>All my text lives in markdown files.</li>
-  <li>I use Obsidain, Folding Text, Ghost, or Sublime Text to write, depending on the device I’m on or the thing I’m writing.</li>
-  <li>
-    <p>For the print and e-book, I used pandoc to export an .icml document that preserved format and structure that InDesign could read.</p>
-
-    <blockquote>
-      <p><strong>This was truly magical.</strong> The relatively-semantic structure that pandoc inferred from my markdown translated into a set of text and paragraph styles that InDesign recognized. This allowed me to set typography in detail for the whole 40,000 word text, in a structured, automated way instead of manually setting headlines, italics, and so on, line by line.</p>
-    </blockquote>
-  </li>
-  <li>For review editions, I used pandoc to export directly to .pdf</li>
-  <li>This site runs on Jekyll, using the Ed. theme.
-    <ul>
-      <li>To publish blog posts like these, I can copy the markdown directly to a file in the site directory or use the admin plugin I run for convenience.</li>
-      <li>
-        <p>To publish the book on the site, I maintain a canonical version of the text which I broke up into individual markdown files for the convenience of readers.</p>
-
-        <blockquote>
-          <p>I wrote a <a href="https://gist.github.com/nimdaghlian/d0621557883cd7c463eec59aea3d8e6c">simple php script</a> to re-number footnotes in the order they appear, for al the missing citations I caught while editing, and to make things easier on online-readers.</p>
-        </blockquote>
-      </li>
-    </ul>
-  </li>
-  <li>The bibliography is a work-in-progress, as I only started using Zotero when I began editing, and have some grooming to do before I can take advantage of the <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown#working-with-bibliographies" target="blank">portability of citations and auto-generation of bibliographies that Zotero can offer as part of this toolset.</a></li>
-</ul>
+<p><a class="twitter-timeline" href="https://twitter.com/conceptuallabor/timelines/1498687660994568193?ref_src=twsrc%5Etfw">Rumblings - Curated tweets by conceptuallabor</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 </div>
 
@@ -243,27 +203,14 @@
   <div>
     
     <span class="unsighted">Previous post:</span>
-      <a href="/blog/2022-02-20-intro-to-the-blog/">
+      <a href="/blog/writing-tools-2">
         <span aria-hidden="true">&laquo;</span>
-        Introduction to the Blog
+        Tools to Go from Text to Book Part 2: How I Got here
       </a>
     
   </div>
 <br>
   <div class="post-nav-next">
-    
-    
-    
-    
-    
-    <span class="unsighted">Next post:</span>
-    <a href="/blog/2022-02-27-writing-tools-part-2/">
-      Tools to Go from Text to Book -- Part 2: How I Got
-      <span style="white-space: nowrap;">
-      here
-      <span aria-hidden="true">&raquo;</span>
-      </span>
-    </a>
     
   </div>
 </div>

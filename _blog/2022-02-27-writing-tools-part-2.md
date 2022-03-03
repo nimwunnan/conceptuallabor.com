@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Tools to Go from Text to Book -- Part 2: How I Got here"
+title: "Tools to Go from Text to Book Part 2: How I Got here"
+permalink: "blog/writing-tools-2"
 ---
 
 My two simple rules were 1) I like plain flavors and 2) I broke [Scrivener](https://www.literatureandlatte.com/scrivener/overview){:target="blank"}. I guess those aren't exactly "two simple rules". I didn't set out with clear rules in mind, I just, like most people, worked according to deeply-held tendencies and opinions. Reviewing the list of [principles](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown#principles){:target="blank"} in the article was a nerdy delight; they concisely defined the foundations of those opinions and tendencies. Moreover, here were some patterns of working that I had mainly picked up in the realm of programming, but, like many, felt were deserving of a wider adoption outside of that realm, ala [Tenet 7](https://conceptuallabor.com/expanded-theory#tenet-7-patterns-and-materials-of-conceptual-labor).

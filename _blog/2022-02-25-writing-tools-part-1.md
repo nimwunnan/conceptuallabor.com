@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Tools to Go from Text to Book -- part 1"
+title: "Tools to Go from Text to Book Part 1"
+permalink: "blog/writing-tools-1"
 ---
-Nerd warning -- this gets pretty wonky in the details of text editors, open standards, etc. If you dont find that kind of thing interesting, you might not find this interesting either. 
+Nerd warning -- this gets pretty wonky in the details of text editors, open standards, etc. If you dont find that kind of thing interesting, you might not find this interesting either.
 
 ### The long personal story that comes before the recipe
 
