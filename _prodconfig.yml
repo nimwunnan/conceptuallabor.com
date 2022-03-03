@@ -19,7 +19,6 @@ author:
 color-scheme:
 
 permalink: pretty
-permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
