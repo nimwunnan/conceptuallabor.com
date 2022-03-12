@@ -1,0 +1,7 @@
+<hr>
+<div>
+  <h2><a class="reversed" href="{{ item.url }}">{{item.title}}</a></h2>
+  <small>{{ item.date | date: "%b %d, %Y" }}</small>
+  {{ item.excerpt | markdownify }}
+    <a href="{{ item.url }}" class="dark text-right">Read more..</a>
+</div>
