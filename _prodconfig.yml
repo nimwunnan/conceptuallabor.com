@@ -4,7 +4,7 @@
 title:               "The Theory of Conceptual Labor"
 tagline:             ''
 description:         'Conceptual labor is the experience of doing work that redefines itself as you do it.'
-url:                 'https://conceptuallabor.com'
+url:                 'https://conceptuallabor.com/'
 baseurl:             ''
 
 # About/contact
@@ -19,6 +19,7 @@ author:
 color-scheme:
 
 permalink: pretty
+permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
@@ -53,4 +54,4 @@ exclude:
 theme: "ed."
 
 #Custom
-draft: 1
+draft: 2

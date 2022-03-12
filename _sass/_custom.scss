@@ -19,7 +19,17 @@ $k: black;
   color: $k;
 }
 
-
+.kshadow {
+  color: $k;
+  text-decoration: none;
+  text-shadow: -1px -1px 1px $c;
+}
+.alignright {
+  text-align: right;
+}
+.aligncenter {
+  text-align: center;
+}
 
 body {
   background: #ffbfb;
@@ -234,9 +244,23 @@ ol.bibliography {
  }
 }
 
+// blog
+
 div.post-nav {
   width: 100%;
   div.post-nav-next {
     float: right;
+  }
+}
+
+div.bloghead {
+  margin: -20px 0px;
+  div.post-nav-top {
+    width: 100%;
+    font-size: 80%;
+    display: flex;
+    div {
+      flex: auto;
+    }
   }
 }

@@ -2,7 +2,37 @@
 layout: headerless
 ---
 
+{% if page.next.url %}
+  {% assign next_post_title_array = page.next.title | split: " " %}
+  {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
+  {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, "" %}
+  {% assign next_post_spit = next_post_title_array | last %}
+{% endif  %}
+
+<div class="bloghead">
+  <div class="post-nav-top">
+    <div>
+      {% if page.previous.url %}
+        <a href="{{page.previous.url}}">
+          <span aria-hidden="true">&laquo;</span>
+        </a>
+      {% endif %}
+    </div>
+    <div class="aligncenter">
+      <a href="/blog">Blog</a> | <a href="/">Home</a>
+    </div>
+    <div class="alignright">
+      {% if page.next.url %}
+      <a href="{{page.next.url}}">
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<hr>
 <div class="post">
+  <h4 class="kshadow">{{ page.date | date: "%b %d, %Y" }}</h4>
   {{ content }}
 </div>
 
@@ -20,10 +50,6 @@ layout: headerless
 <br>
   <div class="post-nav-next">
     {% if page.next.url %}
-    {% assign next_post_title_array = page.next.title | split: " " %}
-    {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
-    {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, "" %}
-    {% assign next_post_spit = next_post_title_array | last %}
     <span class="unsighted">Next post:</span>
     <a href="{{page.next.url}}">
       {{next_post_cape}}
