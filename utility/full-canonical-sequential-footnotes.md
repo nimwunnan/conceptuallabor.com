@@ -59,13 +59,13 @@ Given any description of a project, we cannot assume that everyone who does the 
 
 “What am I trying to do here?” is a classic statement to initiate a new model. We ask this question of ourselves and our circumstances, and then work according to the best answer we can get.
 
-##### Tenets 3 and 4: Competing Narratives
+##### Tenets 3 and 4: Labor changes
 
 Though work involves change by definition, it can still be systematized, described, and planned in effective ways if at least one of its fundamental components can be treated as a known quantity. This is conventional labor --- the work we do when we think we know what to do. In this narrative of work, being confused about the project is not part of the project.
 
 However, work behaves much differently when all significant components are dynamic. When the actor, labor, and context are all able to change on their own accord, and able to change the other types of components, the work takes on another dimension. In this type of work, solving one’s confusion, coming up with new instructions, and executing them are all considered part of the same project.
 
-##### Tenets 5 and 6: Labor changes
+##### Tenets 5 and 6: Competing Narratives
 
 There is work involved in understanding why conventional labor fails or why a narrative of how one should work is wrong. When the conditions of work meet Tenet 3, conventional labor is no longer effective, but it is the mode we will employ by default (Tenet 4). Therefor, attentiveness and sensitivity to the changing requirements of a project can be considered skills in their own right.
 
@@ -525,10 +525,6 @@ First, completely understand the situation. Then do the right thing. Next, compl
 
 The catch is that if you do completely understand the situation, and you can do the right thing, then you *don't* need to do conceptual labor. narrative that will work for you.
 You have discovered a conventional narrative that will work for you.
-
-
-You have discovered a conventional narrative that will work for you.
-
 
 Conceptual labor is what we do in the absence of such reliable instructions. It's what we do to understand the significant circumstances of difficult problems *as they change* so that we might do the “right thing” at any given moment.
 
