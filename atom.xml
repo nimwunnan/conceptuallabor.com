@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The Theory of Conceptual Labor</title>
- <link href="https://conceptuallabor.com//atom.xml" rel="self"/>
- <link href="https://conceptuallabor.com//"/>
- <updated>2022-03-12T15:11:54-05:00</updated>
- <id>https://conceptuallabor.com/</id>
+ <link href="https://conceptuallabor.com/atom.xml" rel="self"/>
+ <link href="https://conceptuallabor.com/"/>
+ <updated>2022-03-19T22:34:06-04:00</updated>
+ <id>https://conceptuallabor.com</id>
  <author>
    <name>Ním Daghlian</name>
    <email>nimdaghlian@gmail.com</email>
