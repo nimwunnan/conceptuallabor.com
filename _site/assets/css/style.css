@@ -1191,3 +1191,59 @@ div.bloghead {
     display: flex; }
     div.bloghead div.post-nav-top div {
       flex: auto; }
+
+.explainer {
+  width: 100%;
+  float: left;
+  position: relative; }
+  .explainer.small {
+    margin-top: -30px;
+    margin-bottom: 40px;
+    height: 150px;
+    border-bottom: 1px solid #eee; }
+    .explainer.small .demotext {
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      padding-top: 5vh; }
+  .explainer.abs {
+    position: absolute; }
+  .explainer .demotext {
+    position: absolute;
+    width: 100%;
+    display: none;
+    cursor: pointer;
+    transition: left 1s, top 1s; }
+  .explainer .ktext {
+    top: 0px;
+    left: 0px; }
+    .explainer .ktext:hover {
+      top: -30px;
+      left: -15px; }
+  .explainer .ytext {
+    top: 3px;
+    left: -1px; }
+    .explainer .ytext:hover {
+      top: 10px;
+      left: 17px; }
+  .explainer .mtext {
+    top: 1px; }
+    .explainer .mtext:hover {
+      top: 20px;
+      left: -10px; }
+  .explainer .ctext {
+    top: -1px;
+    left: 1px; }
+    .explainer .ctext:hover {
+      top: -19px;
+      left: 9px; }
+
+.conceptual-labor-the-quick-version img {
+  margin: 3rem .5rem; }
+.conceptual-labor-the-quick-version ul li {
+  list-style: diamond;
+  margin-top: 10px; }
+.conceptual-labor-the-quick-version blockquote {
+  background: #fff7f4;
+  border-left: 1px solid #777;
+  padding: 1rem;
+  margin-left: 40px; }
