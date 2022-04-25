@@ -333,14 +333,16 @@ position: relative;
     }
 }
 
-.conceptual-labor-the-quick-version {
+#main .conceptual-labor-the-quick-version {
   img {
     margin: 3rem .5rem;
   }
-  ul li {
-   list-style: diamond;
+  ul {
+   li {
+     list-style: square;
    margin-top: 10px;
   }
+}
   blockquote {
     background: $bookcolor;
     border-left: 1px solid #777;

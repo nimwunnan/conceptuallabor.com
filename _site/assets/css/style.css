@@ -1237,12 +1237,12 @@ div.bloghead {
       top: -19px;
       left: 9px; }
 
-.conceptual-labor-the-quick-version img {
+#main .conceptual-labor-the-quick-version img {
   margin: 3rem .5rem; }
-.conceptual-labor-the-quick-version ul li {
-  list-style: diamond;
+#main .conceptual-labor-the-quick-version ul li {
+  list-style: square;
   margin-top: 10px; }
-.conceptual-labor-the-quick-version blockquote {
+#main .conceptual-labor-the-quick-version blockquote {
   background: #fff7f4;
   border-left: 1px solid #777;
   padding: 1rem;

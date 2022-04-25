@@ -7,6 +7,8 @@ title: Conceptual Labor, the Quick Version
 
 ## Whatever we're working on, we tell ourselves a story about it (or there's a story we *would* tell about it if asked).
 
+These stories can be pretty simple:
+
 ![Icons of a figure in a pointy hat, a car, and a buil](/images/cfd00.png)
 
 Straightforward stories are like sentences:
@@ -58,7 +60,7 @@ You might already have your own theory or *way* that really fits your work. Grea
 > This is why we capitalize the Theory and not "conceptual labor"-- conceptual labor is what we do, and it has a million billion different forms and states and names. The Theory is a specific text that presents a particular way of describing it.
 
 ## Models
-The Theory uses the idea of a mental model to organize all the parts of a work-story that's gotten out of hand. This is [not a new idea](tenet-1-work-can-be-modeled-with-fundamental-components), and there's lots of interesting research about [mental models](https://conceptuallabor.com/expanded-theory#fn:fn4) out there.
+The Theory uses the idea of a mental model to organize all the parts of a work-story that's gotten out of hand. This is [not a new idea](https://conceptuallabor.com/expanded-theory#tenet-1-work-can-be-modeled-with-fundamental-components), and there's lots of interesting research about [mental models](https://conceptuallabor.com/expanded-theory#fn:fn4) out there.
 
 ![A box titled "Get Where I'm Going" with the various parts of the previous sentence in three color-coded columns](/images/cfd05.png)
 
