@@ -131,16 +131,16 @@ There are assumptions or beliefs hidden within the definition of what a â€œmapâ€
 
 An expanded definition of `Context 1 The Map` from our model would include the following beliefs:
 
-_The Map_
 
-> which: 
->> accurately represents open, passable trails 
->>> which:
->>>> lead to where you are going
-
->>>> leaves out information you do not need
-
->>>> does not leave out information you do need
+``` 
+The Map
+  which: 
+      - leaves out information you do not need
+      - does not leave out information you do need
+      - accurately represents open, passable trails 
+        - which:
+            - lead to where you are going
+```
 
 Put this way, we can see that a map drawn by a friend is more like a transit map[^fn11] than a geographic record.
 

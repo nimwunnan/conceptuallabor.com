@@ -237,10 +237,17 @@ body {
   padding-bottom: 400px;
 }
 
-.footnotes, .spacer {
+.spacer {
   border-top: 1px solid cyan;
-    margin-top: 10vh;
-    padding: 10vh 20px 70vh;
+  margin-top: 10vh;
+  padding: 10vh 20px 70vh;
+
+}
+
+.footnotes {
+  border-top: 1px solid cyan;
+  margin-top: 10vh;
+  padding: 10vh 20px;
   li {
     padding-top:20px;
   }
