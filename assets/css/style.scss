@@ -1,0 +1,36 @@
+---
+sitemap: false
+---
+
+/*
+* Common Variables
+*
+* Feel free to change!
+*
+*/
+
+/* FONTS */
+
+$main-font:  "Cardo", "Nanum Myeongjo", "Book Antiqua", serif;
+$heading-font: "Work Sans", sans-serif;
+$regular-font-size: 20px;
+
+/* 
+* COLOR.
+* 
+* Make sure to leave color-scheme in config file empty for granular control
+* 
+*/
+
+$text-color: #454545;
+$heading-color: black;
+$link-color: magenta;
+
+
+@import "ed";
+@import "syntax";
+@import "custom";
+
+
+
+

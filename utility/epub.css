@@ -1,0 +1,74 @@
+/* This defines styles and classes used in the book */
+body { margin: 0; text-align: justify; font-size: medium; font-family: Athelas, Georgia, serif; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+/*  Disable hyphenation for headings to avoid single-syllable-lines.
+*/
+h1,
+h2 {
+    -epub-hyphens: none;
+  -webkit-hyphens: none;
+     -moz-hyphens: none;
+          hyphens: none;
+}
+
+/* Set the minimum amount of lines to show up on a separate page. (There is not much support for this at the moment.)
+*/
+p,
+blockquote {
+  orphans: 2;
+  widows: 2;
+}
+
+/*  Turn on hyphenation for paragraphs and captions only.
+*/
+p,
+figcaption {
+    -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+}
+
+/*  Shortcodes for page-break rules.
+    Use data attributes to designate if and how the page should be broken before, inside or after an element.
+*/
+h1  { page-break-before:  always; }
+
+table {
+  font-family: monospace;
+  font-size: 80%;
+  width: 100%;
+}
+
+table th, table tr {
+  padding: 3px;
+}
+table th {
+  color: white;
+  background: black;
+}
+
+tr.even {
+  background: #ccc;
+}
+
+table tr {
+  color: black;
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+pandoc full-canonical-sequential-footnotes.md -o cl-new.epub -t epub3 --smart --toc --toc-depth=2 --epub-stylesheet=epub.css --epub-cover-image=images/full-title-page.png
