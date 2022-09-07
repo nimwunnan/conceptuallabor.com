@@ -1063,9 +1063,15 @@ body {
   margin-left: -20px; }
 #main hr {
   margin: 40px 0px; }
-#main blockquote p {
-  font-style: normal;
-  line-height: 140%; }
+#main blockquote {
+  background: #fff7f4;
+  border-left: 1px solid #777;
+  padding: 1rem;
+  margin-left: 40px;
+  font-style: normal; }
+  #main blockquote p {
+    font-style: normal;
+    line-height: 140%; }
 #main .text-right {
   text-align: right;
   width: 100%;
@@ -1242,8 +1248,3 @@ div.bloghead {
 #main .conceptual-labor-the-quick-version ul li {
   list-style: square;
   margin-top: 10px; }
-#main .conceptual-labor-the-quick-version blockquote {
-  background: #fff7f4;
-  border-left: 1px solid #777;
-  padding: 1rem;
-  margin-left: 40px; }
