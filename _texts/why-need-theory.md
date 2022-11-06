@@ -203,7 +203,7 @@ Half a century later, Weitz’s theories contributed significantly to Nigel Warb
 
 Like the artists Weitz imagines, and like Weitz himself, the viewer does not get a guidebook to art. They must look, consider the context, consider the new thing and its new context, and look again next time. All these treatises on the “art of” a topic ultimately concern themselves with this process --- how to work attentively within a specific and declared set of rules and ideas, while continuously relating to contexts outside that set. These may be big, encompassing concepts (like “art”), parallel disciplines, or hazy yet compelling personal experiences. For whatever work you do *here*, there is the unknown work *out there* that reveals itself to a curious mind at work.
 
-The work we do to step out of a frame is different than the work that stays only within the frame because it is unbounded. It is what philosopher Eric P Carse calls an *infinite game.* 
+The work we do to step out of a frame is different than the work that stays only within the frame because it is unbounded. It is what philosopher James P Carse calls an *infinite game.* 
 
 > Infinite players cannot say when their game began, nor do they care. They do not care for the reason that their game is not bounded by time. Indeed, the only purpose of the game is to prevent it from coming to an end, to keep everyone in play.[^fn30] 
 
