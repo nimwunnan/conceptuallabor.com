@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viral Math Conceptual Labor"
+title: "Interview on XRAY FM"
 permalink: "blog/xray-interview"
 tags: "audio, press"
 ---

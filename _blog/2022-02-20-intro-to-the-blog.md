@@ -4,7 +4,8 @@ title: "Introduction to the Blog"
 permalink: "/blog/blog-intro"
 meta: "pinned"
 ---
-
+Some notes about the blog.
+ <!--more-->
 Welcome to the Conceptual Labor blog! I'm Ním, the author of the Theory and the [book](/book) and most of the posts here will be written in my voice. I think that's an important distinction to make right away, because I took great pains to write the book in a general voice. I'm not pretending that it's at all *neutral*, but I felt that the book would be more useful to more people if the models they worked with while reading it didn't have to include me as an actor at any significant level.
 
 ### Who cares?

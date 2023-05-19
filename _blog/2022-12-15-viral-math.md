@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Viral Math Conceptual Labor"
+title: "Viral Math and Conceptual Labor"
 permalink: "blog/viral-math"
 tags: "video"
 ---
 
 Presenting the first Conceptual Labor video! Will there be more? Who knows!
 
+
+<iframe width="720" height="400" src="https://www.youtube.com/embed/x_B38n8mIes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 It's a response to a conversation between two YouTube titans, [Hank Green](https://www.youtube.com/@vlogbrothers){:target="blank"} and [Vi Hart](https://www.youtube.com/@Vihart){:target="blank"}. It started because Hank Green recognized a deeper pattern of online-disagreement in the (fairly pointless) arguments that were flying around over a "math problem" that goes viral on a fairly regular basis.
 
+
+ <!--more-->
+
 Here's Hank's take. 
+
 
 <iframe width="720" height="400" src="https://www.youtube.com/embed/lBJVyCYuu78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,9 +26,7 @@ Then Vi Hart, one of my favorite explainer-of-things of all time, made a *much m
 
 <iframe width="720" height="400" src="https://www.youtube.com/embed/Twik7wqdwZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video is very much *not* my natural medium, but this was too much to resist. I sprung into action and... took a month to make a response video. I hope they both still remember this whole conversation. In any case, here it is. I hope you enjoy:
-
-<iframe width="720" height="400" src="https://www.youtube.com/embed/x_B38n8mIes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video is very much *not* my natural medium, but this was too much to resist. I sprung into action and... took a month to make a response video. I hope they both still remember this whole conversation. In any case, I hope you enjoy.
 
 
 

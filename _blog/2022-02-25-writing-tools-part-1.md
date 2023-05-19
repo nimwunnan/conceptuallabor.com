@@ -4,7 +4,7 @@ title: "Tools to Go from Text to Book Part 1"
 permalink: "blog/writing-tools-1"
 ---
 Nerd warning -- this gets pretty wonky in the details of text editors, open standards, etc. If you dont find that kind of thing interesting, you might not find this interesting either.
-
+ <!--more-->
 ### The long personal story that comes before the recipe
 
 (skip this is if you just want to see the tools)
