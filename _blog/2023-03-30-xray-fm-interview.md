@@ -6,4 +6,4 @@ tags: "audio, press"
 ---
 
 
-I had the enormous pleasure of [being intereviewed by Kai](https://xray.fm/broadcasts/50841) for his show, /, which airs on [XRAY FM](https://xray.fm/) in Portland, OR. Kai is a great host, and asked some really good questions. Definitely worth a regular listen.
+I had the enormous pleasure of [being intereviewed by Kai](https://xray.fm/broadcasts/50841) for his show, Everyone Is Interesting, which airs on [XRAY FM](https://xray.fm/) in Portland, OR. Kai is a great host, and asked some really good questions. Definitely worth a regular listen.
